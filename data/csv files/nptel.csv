@@ -1,0 +1,2591 @@
+,name,disc,college
+1,Turbomachinery Aerodynamics,Aerospace Engineering,IIT Bombay
+2,Introduction to Aerospace Engineering,Aerospace Engineering,IIT Bombay
+3,Introduction to Aircraft Design,Aerospace Engineering,IIT Bombay
+4,Introduction to Launch Vehicle Analysis and Design,Aerospace Engineering,IIT Bombay
+5,Lighter than Air Systems,Aerospace Engineering,IIT Bombay
+6,Advanced Control System Design for Aerospace Vehicles,Aerospace Engineering,IISc Bangalore
+7,Guidance of Missiles,Aerospace Engineering,IISc Bangalore
+8,"Navigation, Guidance, And Control",Aerospace Engineering,IISc Bangalore
+9,"Optimal Control, Guidance and Estimation",Aerospace Engineering,IISc Bangalore
+10,Combustion in air breathing aero engines,Aerospace Engineering,IISc Bangalore
+11,Acoustic Instabilities in Aerospace Propulsion,Aerospace Engineering,IIT Madras
+12,Aerospace Propulsion,Aerospace Engineering,IIT Madras
+13,Airplane design (Aerodynamic),Aerospace Engineering,IIT Madras
+14,Combustion,Aerospace Engineering,IIT Madras
+15,Composite Materials,Aerospace Engineering,IIT Madras
+16,Gasdynamics: Fundamentals and Applications,Aerospace Engineering,IISc Bangalore
+17,Experimental Gas/Aerodynamics,Aerospace Engineering,IIT Madras
+18,Flight dynamics I - Airplane performance,Aerospace Engineering,IIT Madras
+19,Flight Dynamics II (Stability),Aerospace Engineering,IIT Madras
+20,Flight dynamics II - Airplane stability and control,Aerospace Engineering,IIT Madras
+21,Gas Dynamics,Aerospace Engineering,IIT Madras
+22,Introduction to CFD,Aerospace Engineering,IIT Madras
+23,Aircraft Structural Dynamics,Aerospace Engineering,IIT Kharagpur
+24,Space Technology,Aerospace Engineering,IIT Madras
+25,High Speed Aero Dynamics,Aerospace Engineering,IIT Kharagpur
+26,High Speed Aero Dynamics,Aerospace Engineering,IIT Kharagpur
+27,Aero elasticity,Aerospace Engineering,IIT Kanpur
+28,Space Flight Mechanics,Aerospace Engineering,IIT Kharagpur
+29,Space Flight Mechanics,Aerospace Engineering,IIT Kharagpur
+30,"Aircraft Performance, Stability and control with experiments in Flight",Aerospace Engineering,IIT Kanpur
+31,Composite Materials and Structures,Aerospace Engineering,IIT Kanpur
+32,Introduction to Turbulent Flows and their prediction,Aerospace Engineering,IIT Madras
+33,Foundation of Scientific Computing,Aerospace Engineering,IIT Kanpur
+34,Fundamentals of Combustion,Aerospace Engineering,IIT Kanpur
+35,Instability and Transition of Fluid Flows,Aerospace Engineering,IIT Kanpur
+36,Introduction to Helicopter Aerodynamics and Dynamics,Aerospace Engineering,IIT Kanpur
+37,Introduction to Propulsion,Aerospace Engineering,IIT Kanpur
+38,Jet and Rocket Propulsion,Aerospace Engineering,IIT Kanpur
+39,Hypersonic Aerodynamics,Aerospace Engineering,IIT Guwahati
+40,Principles of Fluid Dynamics,Aerospace Engineering,IIT Guwahati
+41,Rocket Propulsion,Aerospace Engineering,IIT Madras
+42,Introduction to Aerodynamics,Aerospace Engineering,IIT Kharagpur
+43,Satellite Attitude Dynamics and Control,Aerospace Engineering,IIT Kharagpur
+44,Vibration and Structural Dynamics,Aerospace Engineering,IIT Kharagpur
+45,Space Flight Mechanics,Aerospace Engineering,IIT Kharagpur
+46,Aircraft Structures - I,Aerospace Engineering,IIT Kharagpur
+47,Introduction to airplane performance,Aerospace Engineering,IIT Kanpur
+48,Introduction to CFD,Aerospace Engineering,IIT Kharagpur
+49,Aircraft Stability and Control,Aerospace Engineering,IIT Kanpur
+50,Engineering Thermodynamics,Aerospace Engineering,IIT Kanpur
+51,Aircraft Dynamic Stability & Design Stability Augmentation System,Aerospace Engineering,IIT Kanpur
+52,Fundamentals of Theoretical and Experimental Aerodynamics,Aerospace Engineering,IIT Kharagpur
+53,Introduction to Ancient Indian Technology,Aerospace Engineering,IIT Kanpur
+54,Aerodynamic Design of Axial Flow Compressors & Fans,Aerospace Engineering,IIT Kharagpur
+55,Introduction to Experiments in Flight,Aerospace Engineering,IIT Kanpur
+56,Engineering Thermodynamics,Aerospace Engineering,IIT Kanpur
+57,Aircraft Design,Aerospace Engineering,IIT Kanpur
+58,Fundamentals Of Combustion - I,Aerospace Engineering,IIT Kanpur
+59,Aircraft Maintenance,Aerospace Engineering,IIT Kanpur
+60,Fundamentals of Combustion (Part 2),Aerospace Engineering,IIT Kanpur
+61,Introduction to Aerospace Propulsion,Aerospace Engineering,IIT Bombay
+62,Design of fixed wing Unmanned Aerial Vehicles,Aerospace Engineering,IIT Kanpur
+63,Jet Aircraft Propulsion,Aerospace Engineering,IIT Bombay
+64,Introduction to Finite Volume Methods I,Aerospace Engineering,IIT Kanpur
+65,Advance Aircraft Maintenance,Aerospace Engineering,IIT Kanpur
+66,Introduction to Finite Volume Methods II,Aerospace Engineering,IIT Kanpur
+67,Introduction to Rocket Propulsion,Aerospace Engineering,IIT Kanpur
+68,UAV Design - Part II,Aerospace Engineering,IIT Kanpur
+69,Introduction to Airbreathing Propulsion,Aerospace Engineering,IIT Kanpur
+70,Computational Science in Engineering,Aerospace Engineering,IIT Kanpur
+71,Environmental Biotechnology,Biotechnology,IIT Kharagpur
+72,Fundamentals of Protein Chemistry,Biotechnology,IIT Kharagpur
+73,Gene Therapy,Biotechnology,IIT Guwahati
+74,Introduction to Biomedical Imaging Systems,Biotechnology,IIT Madras
+75,Bioanalytical Techniques and Bioinformatics,Biotechnology,IIT Guwahati
+76,WildLife Conservation,Biotechnology,IIT Kanpur
+77,Fundamentals of Biotechnology,Biotechnology,IIT Guwahati
+78,Nanotechnology in Agriculture,Biotechnology,IIT Kanpur
+79,Experimental Biotechnology,Biotechnology,IIT Guwahati
+80,Wild Life Ecology,Biotechnology,IIT Kanpur
+81,Biomathematics,Biotechnology,IIT Bombay
+82,Proteomics: Principles and Techniques,Biotechnology,IIT Bombay
+83,Introduction to Dynamical Models in Biology,Biotechnology,IIT Guwahati
+84,Enzyme Science and Engineering,Biotechnology,IIT Delhi
+85,Forests and their management,Biotechnology,IIT Kanpur
+86,Conservation Economics,Biotechnology,IIT Kanpur
+87,Conservation Geography,Biotechnology,IIT Kanpur
+88,Genetic Engineering: Theory and Application,Biotechnology,IIT Guwahati
+89,Experimental Biotechnology,Biotechnology,IIT Guwahati
+90,Biointerface Engineering,Biotechnology,IIT Guwahati
+91,Advanced Clinical Proteomics,Biotechnology,IIT Bombay
+92,Basics of Biology,Biotechnology,IIT Guwahati
+93,Data Analysis for Biologists,Biotechnology,IIT Guwahati
+94,Genome Editing and Engineering,Biotechnology,IIT Guwahati
+95,Proteins and Gel-Based Proteomics,Biotechnology,IIT Bombay
+96,Mass spectrometry based proteomics,Biotechnology,IIT Bombay
+97,Interactomics,Biotechnology,IIT Bombay
+98,Introduction to proteomics,Biotechnology,IIT Bombay
+99,Introduction to Biostatistics,Biotechnology,IIT Bombay
+100,Introduction to mechanobiology,Biotechnology,IIT Bombay
+101,Introductory Mathematical Methods for Biologists,Biotechnology,IIT Bombay
+102,Bioengineering: An Interface with Biology and Medicine,Biotechnology,IIT Bombay
+103,Applications of interactomics using Genomics and proteomics technologies,Biotechnology,IIT Bombay
+104,Introduction to Proteogenomics,Biotechnology,IIT Bombay
+105,Interactomics : Basics & Applications,Biotechnology,IIT Bombay
+106,Maternal Infant Young Child Nutrition,Biotechnology,IIT Bombay
+107,Analytical Technologies in Biotechnology,Biotechnology,IIT Roorkee
+108,Principles Of Downstream Techniques In Bioprocess,Biotechnology,IIT Madras
+109,Introduction to Computational Neuroscience,Biotechnology,IIT Madras
+110,Learning about Learning: A Course on Neurobiology of Learning and Memory,Biotechnology,IISc Bangalore
+111,Molecular Cell Biology,Biotechnology,IIT Madras
+112,Thermodynamics,Biotechnology,IIT Madras
+113,Drug Delivery: Principles and Engineering,Biotechnology,IISc Bangalore
+114,Biomedical nanotechnology,Biotechnology,IIT Roorkee
+115,Optical Spectroscopy and Microscopy : Fundamentals of optical measurements and instrumentation,Biotechnology,IISc Bangalore
+116,Systems Biology,Biotechnology,IIT Madras
+117,Tissue Engineering,Biotechnology,IIT Madras
+118,"Cell Biology: Cellular organization, division and processes",Biotechnology,IISc Bangalore
+119,Principles of Downstream techniques in Bioprocess,Biotechnology,IIT Madras
+120,Biostatistics and design of experiments,Biotechnology,IIT Madras
+121,Plant Developmental Biology,Biotechnology,IIT Roorkee
+122,Bioreactors,Biotechnology,IIT Madras
+123,Medical Biomaterials,Biotechnology,IIT Madras
+124,Structural Biology,Biotechnology,IIT Roorkee
+125,BioInformatics:Algorithms and Applications,Biotechnology,IIT Madras
+126,Demystifying the Brain,Biotechnology,IIT Madras
+127,Computational Systems Biology,Biotechnology,IIT Madras
+128,Material and Energy Balances,Biotechnology,IIT Madras
+129,Computer Aided Drug Design,Biotechnology,IIT Madras
+130,Plant Cell Bioprocessing,Biotechnology,IIT Madras
+131,Tissue engineering,Biotechnology,IIT Madras
+132,Thermodynamics for Biological Systems : Classical and Statistical Aspect,Biotechnology,IIT Madras
+133,Industrial Biotechnology,Biotechnology,IIT Kharagpur
+134,Transport Phenomena in Biological Systems,Biotechnology,IIT Madras
+135,Introduction to Developmental Biology,Biotechnology,IIT Madras
+136,Cell Biology,Biotechnology,IIT Guwahati
+137,Genetic Engineering & Applications,Biotechnology,IIT Guwahati
+138,Bioreactor Design and Analysis,Biotechnology,IIT Madras
+139,Biochemistry _ IITM,Biotechnology,IIT Madras
+140,Microbiology,Biotechnology,IIT Guwahati
+141,Plant Biotechnology,Biotechnology,IIT Guwahati
+142,Aspects Of Biochemical Engineering,Biotechnology,IIT Kharagpur
+143,Proteomics and Genomics,Biotechnology,IIT Guwahati
+144,Animal Physiology,Biotechnology,IIT Kanpur
+145,Bio electricity,Biotechnology,IIT Kanpur
+146,Biomicrofluidics,Biotechnology,IIT Kharagpur
+147,Cellular biophysics: a framework for quantitative biology,Biotechnology,IIT Madras
+148,Medical Image Analysis,Biotechnology,IIT Madras
+149,Organ Printing,Biotechnology,IIT Madras
+150,"Introduction to Cell Biology	",Biotechnology,IIT Madras
+151,Human Molecular Genetics,Biotechnology,IIT Kanpur
+152,Functional Genomics,Biotechnology,IIT Kanpur
+153,Bioenergy,Biotechnology,IIT Kanpur
+154,Animal Physiology,Biotechnology,IIT Kanpur
+155,Cell Culture Technologies,Biotechnology,IIT Kanpur
+156,Immunology,Biotechnology,IIT Kharagpur
+157,Forest Biometry,Biotechnology,IIT Kanpur
+158,Introduction To Professional Scientific Communication,Biotechnology,IIT Kanpur
+159,Cellular and Molecular Immunology,Biotechnology,IIT Guwahati
+160,Bioelectrochemistry,Biotechnology,IIT Kanpur
+161,Metabolic Engineering,Biotechnology,IIT Kharagpur
+162,General Virology,Biotechnology,IIT Guwahati
+163,Bioenergetics Of Life Processes,Biotechnology,IIT Kanpur
+164,Environmental Chemistry and Microbiology,Biotechnology,IIT Kharagpur
+165,Chemical Reaction Engineering,Chemical Engineering,IISc Bangalore
+166,Fundamentals of Transport Processes,Chemical Engineering,IISc Bangalore
+167,Fluid Mechanics and Its Applications,Chemical Engineering,IIT Delhi
+168,Fundamentals of Transport Processes - II,Chemical Engineering,IISc Bangalore
+169,Modern Instrumental Methods of Analysis,Chemical Engineering,IISc Bangalore
+170,Chemical Technology - I,Chemical Engineering,IIT Roorkee
+171,Chemical Technology - I,Chemical Engineering,IIT Roorkee
+172,Environmental Engineering,Chemical Engineering,IIT Roorkee
+173,Fertilizer Engineering,Chemical Engineering,IIT Roorkee
+174,Food Engineering,Chemical Engineering,IIT Roorkee
+175,Advanced Transport Phenomena,Chemical Engineering,IIT Madras
+176,Process Integration,Chemical Engineering,IIT Roorkee
+177,Chemical Engineering Thermodynamics,Chemical Engineering,IIT Madras
+178,Process Integration,Chemical Engineering,IIT Roorkee
+179,Safety Practices in Chemical and Nuclear Industries,Chemical Engineering,IIT Madras
+180,Process Modelling and Simulation,Chemical Engineering,IIT Roorkee
+181,Introduction to interfacial waves,Chemical Engineering,IIT Bombay
+182,Computational Fluid Dynamics,Chemical Engineering,IIT Madras
+183,Computational Techniques,Chemical Engineering,IIT Madras
+184,Introduction to Microelectronic Fabrication Processes,Chemical Engineering,IIT Madras
+185,Transport Processes I: Heat and Mass Transfer,Chemical Engineering,IISc Bangalore
+186,Advanced Heat and Mass Transfer,Chemical Engineering,IIT Kharagpur
+187,Atomic and Molecular Absorption Spectrometry for Pollution Monitoring,Chemical Engineering,IISc Bangalore
+188,Colloids and Surfaces,Chemical Engineering,IIT Madras
+189,"Polymers: concepts, properties, uses and sustainability",Chemical Engineering,IIT Madras
+190,Biochemical Engineering,Chemical Engineering,IIT Kharagpur
+191,System (Process) Identification,Chemical Engineering,IIT Madras
+192,"Hydrogen Energy: Production, Storage, Transportation and Safety",Chemical Engineering,IIT Bombay
+193,Trace and ultra-trace analysis of metals using atomic absorption spectrometry,Chemical Engineering,IISc Bangalore
+194,Microscale Transport Processes,Chemical Engineering,IIT Kharagpur
+195,Multiphase Flow,Chemical Engineering,IIT Kharagpur
+196,"Mass, Momentum and Energy Balances in Engineering Analysis",Chemical Engineering,IIT Kharagpur
+197,Multiphase Flow,Chemical Engineering,IIT Kharagpur
+198,Novel Separation Processes,Chemical Engineering,IIT Kharagpur
+199,Novel Separation Processes,Chemical Engineering,IIT Kharagpur
+200,Process Control and Instrumentation,Chemical Engineering,IIT Kharagpur
+201,Instability & Patterning of Thin Polymer Films,Chemical Engineering,IIT Kharagpur
+202,Instability and Patterning of Thin Polymer Films,Chemical Engineering,IIT Kharagpur
+203,Inductive Couple Plasma Atomic Emmission Spectrometry ( ICP-AES) for Pollution Monitering,Chemical Engineering,IISc Bangalore
+204,Fluid Mechanics,Chemical Engineering,IIT Kanpur
+205,Infrared spectroscopy for pollution monitoring,Chemical Engineering,IISc Bangalore
+206,Fluid Mechanics,Chemical Engineering,IIT Kanpur
+207,Introduction to Colloid and Interface Science and Engineering,Chemical Engineering,IIT Kanpur
+208,Mass Transfer II,Chemical Engineering,IIT Kanpur
+209,Mechanics of Soft Materials,Chemical Engineering,IIT Kanpur
+210,Plantwide Control of Chemical Processes,Chemical Engineering,IIT Kanpur
+211,Catalyst Science and Technology,Chemical Engineering,IIT Guwahati
+212,Plantwide Control of Chemical Processes,Chemical Engineering,IIT Kanpur
+213,Chemical Engineering Design - II,Chemical Engineering,IIT Guwahati
+214,Mechanical Operations,Chemical Engineering,IIT Roorkee
+215,Chemical Technology - II,Chemical Engineering,IIT Guwahati
+216,Nuclear Reactor Technology,Chemical Engineering,IIT Madras
+217,"Waste to Energy Conversion
+",Chemical Engineering,IIT Roorkee
+218,Heat Transfer,Chemical Engineering,IIT Guwahati
+219,Particle Characterization (PG),Chemical Engineering,IIT Madras
+220,Unit operations of particulate matter,Chemical Engineering,IIT Roorkee
+221,Heat Transfer,Chemical Engineering,IIT Guwahati
+222,Interfacial Engineering,Chemical Engineering,IIT Guwahati
+223,Mass Transfer Operations I,Chemical Engineering,IIT Guwahati
+224,Mass Transfer Operations I,Chemical Engineering,IIT Guwahati
+225,Heterogeneous Catalysis and Catalytic Processes,Chemical Engineering,IIT Delhi
+226,Molecular Simulations in Chemical Engineering,Chemical Engineering,IIT Guwahati
+227,Heavy and Fine Chemicals (Chemical Process Technology),Chemical Engineering,IIT Madras
+228,Process Control and Instrumentation,Chemical Engineering,IIT Guwahati
+229,Chemical process industries,Chemical Engineering,IIT Madras
+230,Fuel Cell Technology,Chemical Engineering,IIT Delhi
+231,Process Design Decisions and Project Economics,Chemical Engineering,IIT Guwahati
+232,Interfacial Engineering,Chemical Engineering,IIT Delhi
+233,Statistics for  Experimentalists,Chemical Engineering,IIT Madras
+234,Multiphase flows:Analytical solutions and Stability Analysis,Chemical Engineering,IIT Madras
+235,Introduction to Time-Frequency Analysis and Wavelet Transforms,Chemical Engineering,IIT Madras
+236,Electrochemical Technology in Pollution Control,Chemical Engineering,IISc Bangalore
+237,Chemical Engineering Principles of CVD Processes,Chemical Engineering,IIT Madras
+238,Introduction to Polymer Physics,Chemical Engineering,IIT Roorkee
+239,Chemical Reaction Engineering 1 (Homogeneous Reactors),Chemical Engineering,IIT Madras
+240,Chemical Reaction Engineering 2 (Heterogeneous Reactors),Chemical Engineering,IIT Madras
+241,Petroleum Refinery Engineering,Chemical Engineering,IIT Delhi
+242,MATLAB Programming for Numerical Computation(Course sponsored by Aricent),Chemical Engineering,IIT Madras
+243,Computational Fluid Dynamics ,Chemical Engineering,IIT Madras
+244,Equipment Design: Mechanical Aspects,Chemical Engineering,IIT Roorkee
+245,Transport Phenomena (UG),Chemical Engineering,IIT Delhi
+246,Introduction to Statistical Hypothesis Testing,Chemical Engineering,IIT Madras
+247,Advanced Chemical Reaction Engineering (PG),Chemical Engineering,IIT Bombay
+248,Advanced Process Control,Chemical Engineering,IIT Bombay
+249,Applied Time-Series Analysis,Chemical Engineering,IIT Madras
+250,Chemical Engineering Thermodynamics,Chemical Engineering,IIT Bombay
+251,Chemical Reaction Engineering II,Chemical Engineering,IIT Bombay
+252,Advanced Numerical Analysis ,Chemical Engineering,IIT Bombay
+253,Advanced Mathematical Techniques in Chemical Engineering,Chemical Engineering,IIT Kharagpur
+254,Rheology of Complex Materials,Chemical Engineering,IIT Madras
+255,Chemical Process Safety,Chemical Engineering,IIT Roorkee
+256,Technologies For Clean And Renewable Energy Production,Chemical Engineering,IIT Roorkee
+257,Fuel and Combustion Technology,Chemical Engineering,IIT Kharagpur
+258,Introduction to Process Modeling in Membrane Separation Process,Chemical Engineering,IIT Kharagpur
+259,Soft Nano Technology,Chemical Engineering,IIT Kharagpur
+260,Adiabatic Two Phase Flow and Flow Boiling in Microchannel,Chemical Engineering,IIT Kharagpur
+261,"Process Control - Design, Analysis and Assessment",Chemical Engineering,IIT Madras
+262,System Identification,Chemical Engineering,IIT Madras
+263,Chemical Engineering Thermodynamics,Chemical Engineering,IIT Kharagpur
+264,Transport phenomena,Chemical Engineering,IIT Kharagpur
+265,Chemical Process Instrumentation,Chemical Engineering,IIT Kharagpur
+266,Fluid and Particle Mechanics,Chemical Engineering,IIT Madras
+267,Continuum Mechanics and Transport Phenomena,Chemical Engineering,IIT Madras
+268,Environmental Quality Monitoring & Analysis,Chemical Engineering,IIT Madras
+269,Optimization in Chemical Engineering,Chemical Engineering,IIT Kharagpur
+270,Heat Transfer,Chemical Engineering,IIT Kharagpur
+271,Thermodynamics Of Fluid Phase Equilibria,Chemical Engineering,IIT Kanpur
+272,Polymer Reaction Engineering,Chemical Engineering,IIT Roorkee
+273,Process Equipment Design,Chemical Engineering,IIT Roorkee
+274,Flow through porous media,Chemical Engineering,IIT Kharagpur
+275,Advanced Thermodynamics and Molecular Simulations,Chemical Engineering,IIT Roorkee
+276,Fundamentals of Particle and Fluid Solid Processing,Chemical Engineering,IIT Kharagpur
+277,Chemical Process Utilities,Chemical Engineering,IIT Roorkee
+278,Physico-chemical processes for wastewater treatment,Chemical Engineering,IIT Roorkee
+279,Plant Design and Economics,Chemical Engineering,IIT Kharagpur
+280,Basic Environmental Engineering and Pollution Abatement,Chemical Engineering,IIT Roorkee
+281,Chemical Engineering Thermodynamics,Chemical Engineering,IIT Kanpur
+282,Fluidization Engineering,Chemical Engineering,IIT Guwahati
+283,An Introduction to Cardiovascular Fluid Mechanics,Chemical Engineering,IIT Guwahati
+284,Multiphase Microfluidics,Chemical Engineering,IIT Guwahati
+285,Measurement Technique in Multiphase Flows,Chemical Engineering,IIT Guwahati
+286,Multiphase Flows,Chemical Engineering,IIT Guwahati
+287,Introduction to Polymer Physics,Chemical Engineering,IIT Guwahati
+288,Natural Gas Engineering,Chemical Engineering,IIT Guwahati
+289,Synthetic and Natural Supramolecular Architectures: Avenues to Molecular Technology via Engineering,Chemical Engineering,IIT Madras
+290,Chemical Engineering Thermodynamics,Chemical Engineering,IIT Guwahati
+291,Mass Transfer Operations -I,Chemical Engineering,IIT Guwahati
+292,Transport Phenomena of Non-Newtonian Fluids,Chemical Engineering,IIT Guwahati
+293,Fluid Flow Operations,Chemical Engineering,IIT Guwahati
+294,Chemical Process Intensification,Chemical Engineering,IIT Guwahati
+295,Chemical Reaction Engineering-I,Chemical Engineering,IIT Guwahati
+296,Mass Transfer Operations II,Chemical Engineering,IIT Guwahati
+297,Mechanical Unit Operations,Chemical Engineering,IIT Guwahati
+298,Advanced Numerical Analysis,Chemical Engineering,IIT Bombay
+299,Material & Energy Balance Computations,Chemical Engineering,IIT Kharagpur
+300,Advanced Thermodynamics,Chemical Engineering,IIT Guwahati
+301,Principles and Practices of Process Equipment and Plant Design,Chemical Engineering,IIT Kharagpur
+302,Membrane Technology,Chemical Engineering,IIT Guwahati
+303,Computer Aided Applied Single Objective Optimization,Chemical Engineering,IIT Guwahati
+304,Basic Principles and Calculations in Chemical Engineering,Chemical Engineering,IIT Guwahati
+305,Mathematical modelling and simulation of chemical engineering process,Chemical Engineering,IIT Kharagpur
+306,Advanced process dynamics,Chemical Engineering,IIT Kharagpur
+307,Introduction to evolutionary dynamics,Chemical Engineering,IIT Bombay
+308,Heat transfer,Chemical Engineering,IIT Bombay
+309,Chemical Reaction Engineering II,Chemical Engineering,IIT Bombay
+310,Chemical Process Control,Chemical Engineering,IIT Bombay
+311,"Renewable Energy Engineering: Solar, Wind and Biomass Energy Systems",Chemical Engineering,IIT Guwahati
+312,Biomass Conversion and Biorefinery,Chemical Engineering,IIT Guwahati
+313,Aspen Plus simulation software - a basic course for beginners,Chemical Engineering,IIT Guwahati
+314,Physical and Electrochemical Characterizations in Chemical Engineering,Chemical Engineering,IIT Guwahati
+315,Basics in Inorganic Chemistry,Chemistry and Biochemistry,IIT Bombay
+316,Ultrafast laser spectroscopy,Chemistry and Biochemistry,IIT Bombay
+317,Transition Metal Organometallics in Catalysis and Biology,Chemistry and Biochemistry,IIT Bombay
+318,Quantum Chemistry of Atoms and Molecules,Chemistry and Biochemistry,IIT Bombay
+319,Basic Statistical Mechanics,Chemistry and Biochemistry,IIT Bombay
+320,Quantum Mechanics and Molecular Spectroscopy,Chemistry and Biochemistry,IIT Bombay
+321,"Essentials of Oxidation, Reduction and C_C Bond Formation. Application in Organic Synthesis",Chemistry and Biochemistry,IISER Thiruvananthapuram
+322,Chemical kinetics and transition state theory,Chemistry and Biochemistry,IIT Bombay
+323,Concepts of chemistry for engineering,Chemistry and Biochemistry,IIT Bombay
+324,Classics in Total Synthesis-I,Chemistry and Biochemistry,IIT Bombay
+325,Circular dichroism (CD) and Mossbauer spectroscopy for chemists,Chemistry and Biochemistry,IIT Bombay
+326,NMR spectroscopy for Structural Biology,Chemistry and Biochemistry,IIT Bombay
+327,Advanced Transition Metal Chemistry,Chemistry and Biochemistry,IIT Bombay
+328,Essentials in Immunolgy,Chemistry and Biochemistry,IISc Bangalore
+329,Eukaryotic Gene Expression - basics and benefits,Chemistry and Biochemistry,IISc Bangalore
+330,Introductory Quantum Chemistry,Chemistry and Biochemistry,IISc Bangalore
+331,Introduction to Organometallic Chemistry,Chemistry and Biochemistry,IISc Bangalore
+332,Principles and Applications of NMR Spectroscopy,Chemistry and Biochemistry,IISc Bangalore
+333,Principles and Applications of Electron Paramagnetic Resonance Spectroscopy,Chemistry and Biochemistry,IIT Madras
+334,Multidimensional NMR Spectroscopy for Structural Studies of Biomolecules,Chemistry and Biochemistry,IISc Bangalore
+335,Symmetry and Structure in the Solid State,Chemistry and Biochemistry,IISc Bangalore
+336,Bio-inorganic chemistry,Chemistry and Biochemistry,IIT Kharagpur
+337,Biocatalysis in organic synthesis,Chemistry and Biochemistry,IIT Kharagpur
+338,Co-ordination chemistry (chemistry of transition elements),Chemistry and Biochemistry,IIT Kharagpur
+339,Heterocyclic Chemistry,Chemistry and Biochemistry,IIT Kharagpur
+340,Chemistry of Materials,Chemistry and Biochemistry,IIT Kanpur
+341,Organic photochemistry and pericyclic reactions,Chemistry and Biochemistry,IIT Kharagpur
+342,Polymer Chemistry,Chemistry and Biochemistry,IIT Kharagpur
+343,Protein chemistry,Chemistry and Biochemistry,IIT Kharagpur
+344,Selected Topics in Co-ordination Chemistry,Chemistry and Biochemistry,IIT Madras
+345,Rate processes,Chemistry and Biochemistry,IIT Kharagpur
+346,Ultrafast Optics and Spectroscopy,Chemistry and Biochemistry,IISc Bangalore
+347,Chemistry - I,Chemistry and Biochemistry,IIT Madras
+348,Mathematics for Chemistry,Chemistry and Biochemistry,IIT Kanpur
+349,Chemistry - II,Chemistry and Biochemistry,IIT Madras
+350,Application of Spectroscopic Methods in Molecular Structure Determination,Chemistry and Biochemistry,IIT Madras
+351,One and two dimensional NMR Spectroscopy for chemists,Chemistry and Biochemistry,IISc Bangalore
+352,Pericyclic Reactions and Organic Photochemistry,Chemistry and Biochemistry,IIT Madras
+353,Chemistry I:Introduction To Quantum Chemistry And Molecular Spectroscopy,Chemistry and Biochemistry,IIT Madras
+354,Time dependent Quantum chemistry,Chemistry and Biochemistry,IISc Bangalore
+355,Introduction to Chemical Thermodynamics and Kinetics,Chemistry and Biochemistry,IIT Madras
+356,Bio-organic chemistry,Chemistry and Biochemistry,IIT Guwahati
+357,Chemistry of Materials,Chemistry and Biochemistry,IIT Guwahati
+358,Environmental chemistry,Chemistry and Biochemistry,IIT Guwahati
+359,Chemical Crystallography,Chemistry and Biochemistry,IISER Mohali
+360,Principles of Organic Synthesis,Chemistry and Biochemistry,IIT Guwahati
+361,Advanced Chemical Thermodynamics and Kinetics,Chemistry and Biochemistry,IISER Mohali
+362,Reagents and Organic reactions,Chemistry and Biochemistry,IIT Guwahati
+363,Organic Chemistry and Pericyclic Reactions,Chemistry and Biochemistry,IIT Kharagpur
+364,Chemistry: Atomic Structure and Chemical Bonding,Chemistry and Biochemistry,IIT Madras
+365,Biochemistry,Chemistry and Biochemistry,IIT Kharagpur
+366,Biophysical chemistry,Chemistry and Biochemistry,IIT Delhi
+367,Electrochemical impedance Spectroscopy,Chemistry and Biochemistry,IIT Madras
+368,Medicinal Chemistry,Chemistry and Biochemistry,IISER Pune
+369,Chemical Principles II(Basic thermodynamics : Classical and Statistical Approaches),Chemistry and Biochemistry,IISER Pune
+370,Analytical chemistry,Chemistry and Biochemistry,IIT Kharagpur
+371,Organic Chemistry Lab Certification,Chemistry and Biochemistry,IISER Pune
+372,Co-ordination chemistry (chemistry of transition elements),Chemistry and Biochemistry,IIT Kharagpur
+373,Stereochemistry,Chemistry and Biochemistry,IIT Kharagpur
+374,A Study Guide In Organic Retrosynthesis: Problem Solving Approach,Chemistry and Biochemistry,IIT Kharagpur
+375,Structure and Functions of Biomolecules,Chemistry and Biochemistry,IIT Delhi
+376,Introduction To Molecular Thermodynamics,Chemistry and Biochemistry,IIT Kharagpur
+377,Advance Analytical Course,Chemistry and Biochemistry,IIT Kanpur
+378,Molecules in Motion,Chemistry and Biochemistry,IIT Kharagpur
+379,Introductory Organic Chemistry I,Chemistry and Biochemistry,IIT Madras
+380,Quantitative Methods in Chemistry,Chemistry and Biochemistry,IISER Bhopal
+381,Computational Chemistry,Chemistry and Biochemistry,IIT Bombay
+382,Fundamentals of Spectroscopy,Chemistry and Biochemistry,IISER Pune
+383,Organic Reaction Mechanism,Chemistry and Biochemistry,IIT Bombay
+384,Introduction to Organometallic Chemistry,Chemistry and Biochemistry,IIT Bombay
+385,Experimental Biochemistry,Chemistry and Biochemistry,IIT Kharagpur
+386,Industrial Inorganic Chemistry,Chemistry and Biochemistry,IIT Kharagpur
+387,"Symmetry, Stereochemistry and Applications",Chemistry and Biochemistry,IISER Mohali
+388,Chemical Applications of Symmetry and Group Theory,Chemistry and Biochemistry,IIT Kanpur
+389,Reactive Intermediates Carbene and Nitrene,Chemistry and Biochemistry,IIT Kharagpur
+390,Symmetry and Group Theory,Chemistry and Biochemistry,IISER Pune
+391,Mathematics for Chemistry,Chemistry and Biochemistry,IIT Kanpur
+392,Electrochemistry,Chemistry and Biochemistry,IIT Madras
+393,Quantum Computing,Chemistry and Biochemistry,IIT Kanpur
+394,Introductory Organic Chemistry II,Chemistry and Biochemistry,IISER Pune
+395,Basics of Fluroscence Spectroscopy,Chemistry and Biochemistry,IIT Kanpur
+396,Electrochemistry from Fundamentals to Applications,Chemistry and Biochemistry,IIT Madras
+397,Laser: Fundamentals and Applications,Chemistry and Biochemistry,IIT Kanpur
+398,Advanced Mathematical Methods for Chemistry,Chemistry and Biochemistry,IIT Kanpur
+399,Catalytic Asymmetric Synthesis,Chemistry and Biochemistry,IIT Guwahati
+400,Bio-Organic Chemistry of Natural Enediyne Anticancer Antibiotics,Chemistry and Biochemistry,IIT Guwahati
+401,Introductory Inorganic Chemistry,Chemistry and Biochemistry,IIT Guwahati
+402,Basic Organic Chemistry,Chemistry and Biochemistry,IIT Guwahati
+403,Organic Chemistry in Biology and Drug Development,Chemistry and Biochemistry,IIT Kharagpur
+404,Introduction to Polymer Science,Chemistry and Biochemistry,IIT Kharagpur
+405,Solid State Chemistry,Chemistry and Biochemistry,IIT Kanpur
+406,"Structure, Stereochemistry and Reactivity of Organic Compounds and Intermediates: A Problem_solving Approach",Chemistry and Biochemistry,IIT Kharagpur
+407,Approximate Methods in Quantum Chemistry,Chemistry and Biochemistry,IIT Kharagpur
+408,Biological Inorganic Chemistry,Chemistry and Biochemistry,IIT Kharagpur
+409,Bioinorganic Chemistry,Chemistry and Biochemistry,IIT Kanpur
+410,Principles and applications of enolate alkylation: A unique strategy for construction of C-C (sp3 -sp3) bonds in asymmetric fashion,Chemistry and Biochemistry,IIT Kharagpur
+411,Chemistry and Physics of Surfaces and Interfaces,Chemistry and Biochemistry,IIT Kanpur
+412,Principles Of Organic Synthesis,Chemistry and Biochemistry,IIT Guwahati
+413,Reagents In Organic Synthesis,Chemistry and Biochemistry,IIT Guwahati
+414,Thermodynamics: Classical to statistical,Chemistry and Biochemistry,IIT Guwahati
+415,BioChemistry I,Chemistry and Biochemistry,IIT Kharagpur
+416,Essentials of Biomolecules : Nucleic Acids and Peptides,Chemistry and Biochemistry,IIT Guwahati
+417,Organometallic Chemistry,Chemistry and Biochemistry,IIT Bombay
+418,Chemical and biological thermodynamics: principles to applications,Chemistry and Biochemistry,IIT Bombay
+419,Spectroscopic Techniques for Pharmaceutical and Biopharmaceutical Industries,Chemistry and Biochemistry,IIT Delhi
+420,Chemistry of Main Group Elements,Chemistry and Biochemistry,IIT Bombay
+421,Introductory Non-Linear Dynamics,Chemistry and Biochemistry,IIT Delhi
+422,Transition Metal Organometallic Chemistry: Principles to applications,Chemistry and Biochemistry,IIT Bombay
+423,Metal Mediated Synthesis-I,Chemistry and Biochemistry,IIT Bombay
+424,Inorganic Chemistry of Life: Principles and Perspectives,Chemistry and Biochemistry,IIT Bombay
+425,Symmetry and Group Theory,Chemistry and Biochemistry,IIT Bombay
+426,Computational Chemistry and Classical Molecular Dynamics,Chemistry and Biochemistry,IIT Bombay
+427,Molecular Spectroscopy: A Physical Chemist's perspective,Chemistry and Biochemistry,IIT Bombay
+428,Advanced Transition Metal Organometallic Chemistry,Chemistry and Biochemistry,IIT Bombay
+429,Mechanisms in Organic Chemistry,Chemistry and Biochemistry,IIT Bombay
+430,Metals In Biology,Chemistry and Biochemistry,IIT Bombay
+431,NMR spectroscopy for Chemists and Biologists,Chemistry and Biochemistry,IIT Bombay
+432,Advanced Concrete Technology,Civil Engineering,IIT Madras
+433,Geomorphology,Civil Engineering,IIT Roorkee
+434,Glass in buildings: Design and Application,Civil Engineering,IIT Madras
+435,Remote Sensing Essentials,Civil Engineering,IIT Roorkee
+436,Glass Processing Technology,Civil Engineering,IIT Madras
+437,Visual Semiotics for Visual Communication,Civil Engineering,IIT Kharagpur
+438,Earthquake Resistant Design of Foundations,Civil Engineering,IIT Roorkee
+439,Sustainable Engineering Concepts And Life Cycle Analysis,Civil Engineering,IIT Kharagpur
+440,Geographic Information Systems,Civil Engineering,IIT Roorkee
+441,Water and waste water treatment,Civil Engineering,IIT Roorkee
+442,Civil Engineering - Building materials and Construction,Civil Engineering,IIT Delhi
+443,Integrated Waste Management for a Smart City,Civil Engineering,IIT Kharagpur
+444,Rock Engineering,Civil Engineering,IIT Roorkee
+445,Environmental Air Pollution,Civil Engineering,IIT Delhi
+446,Computational hydraulics,Civil Engineering,IIT Kharagpur
+447,Finite Element Method and Computational Structural Dynamics,Civil Engineering,IIT Roorkee
+448,Mechanics of Solids,Civil Engineering,IIT Delhi
+449,Design of steel structures,Civil Engineering,IIT Kharagpur
+450,Sustainable Transportation systems,Civil Engineering,IIT Roorkee
+451,Advanced Topics in the Science and Technology of Concrete,Civil Engineering,IIT Madras
+452,Infrastructure Planning and Managements,Civil Engineering,IIT Madras
+453,Reinforced Concrete Road Bridges,Civil Engineering,IIT Kharagpur
+454,Air pollution and Control,Civil Engineering,IIT Roorkee
+455,Structural analysis I,Civil Engineering,IIT Kharagpur
+456,Soil Mechanics/Geotechnical Engineering I,Civil Engineering,IIT Kharagpur
+457,Underground Space Technology,Civil Engineering,IIT Roorkee
+458,Electronic Waste Management - Issues And Challenges,Civil Engineering,IIT Kharagpur
+459,Environmental Modeling and Simulation,Civil Engineering,IIT Roorkee
+460,"Mineral Resources: Geology, Exploration, Economics And Environment",Civil Engineering,IIT Kharagpur
+461,Advanced Geomatics Engineering,Civil Engineering,IIT Roorkee
+462,Geology and Soil Mechanics,Civil Engineering,IIT Kanpur
+463,Introduction to Mineral Processing,Civil Engineering,IIT Kharagpur
+464,Pavement Materials (Under Pavement Engineering),Civil Engineering,IIT Roorkee
+465,Geometric Design of Highways,Civil Engineering,IIT Roorkee
+466,Design of Masonry Structures,Civil Engineering,IIT Madras
+467,Earth Sciences For Civil Engineering Part - I & II,Civil Engineering,IIT Kanpur
+468,Foundation Engineering,Civil Engineering,IIT Kharagpur
+469,Characterization of Construction Materials,Civil Engineering,IIT Madras
+470,Theory of Elasticity,Civil Engineering,IIT Kharagpur
+471,Introduction to Civil Engineering Profession,Civil Engineering,IIT Madras
+472,Fluid Mechanics,Civil Engineering,IIT Bombay
+473,Wastewater Treatment and Recycling,Civil Engineering,IIT Kharagpur
+474,Maintenance and Repair of Concrete Structures,Civil Engineering,IIT Madras
+475,Foundation Engineering,Civil Engineering,IIT Bombay
+476,"Fluid Inclusion in Mineral Principles, Methodology, Practice and Application",Civil Engineering,IIT Kharagpur
+477,Mechanical Characterization of Bituminous Materials,Civil Engineering,IIT Madras
+478,Soil Mechanics,Civil Engineering,IIT Bombay
+479,Earth Sciences for Civil Engineering - Part 2,Civil Engineering,IIT Kanpur
+480,Matrix Method of Structural Analysis,Civil Engineering,IIT Kharagpur
+481,Structural Analysis I,Civil Engineering,IIT Bombay
+482,Financing Infrastructure Projects,Civil Engineering,IIT Guwahati
+483,"Hydration, Porosity and Strength of Cementitious Materials",Civil Engineering,IIT Kanpur
+484,Structural Analysis II,Civil Engineering,IIT Bombay
+485,Basic construction materials,Civil Engineering,IIT Madras
+486,Transportation Engineering I,Civil Engineering,IIT Bombay
+487,Mechanics of Solids,Civil Engineering,IIT Kanpur
+488,Plastic Waste Management,Civil Engineering,IIT Kharagpur
+489,Principles of Construction Management,Civil Engineering,IIT Kanpur
+490,Geotechnical Engineering II Foundation Engineering,Civil Engineering,IIT Kharagpur
+491,Foundation Design,Civil Engineering,IIT Kanpur
+492,Unsaturated Soil Mechanics,Civil Engineering,IIT Guwahati
+493,Structural Reliability,Civil Engineering,IIT Guwahati
+494,Introduction to Lean Construction,Civil Engineering,IIT Madras
+495,Photogeology In Terrain Evaluation,Civil Engineering,IIT Kanpur
+496,Design of connections in steel structures,Civil Engineering,IIT Madras
+497,Soil Structure Interaction,Civil Engineering,IIT Kharagpur
+498,Photogeology In Terrain Evaluation (Part 2),Civil Engineering,IIT Kanpur
+499,Water Supply Engineering,Civil Engineering,IIT Kharagpur
+500,Introduction to Accounting and Finance for Civil Engineers,Civil Engineering,IIT Kanpur
+501,Geo Spatial Analysis in Urban Planning,Civil Engineering,IIT Kharagpur
+502,Hydraulic Engineering,Civil Engineering,IIT Kharagpur
+503,Introduction to Multimodal Urban Transportation Systems (MUTS),Civil Engineering,IIT Kharagpur
+504,Natural Hazards - Part-1,Civil Engineering,IIT Kanpur
+505,Advanced Foundation Engineering,Civil Engineering,IIT Kharagpur
+506,Urban Transport Systems Planning,Civil Engineering,IIT Kharagpur
+507,Structural Reliability,Civil Engineering,IIT Kharagpur
+508,Ground Improvement,Civil Engineering,IIT Kharagpur
+509,Remote Sensing of Leaf Area Index and Primary Productivity,Civil Engineering,IIT Kharagpur
+510,Rock Mechanics and Tunneling,Civil Engineering,IIT Kharagpur
+511,Structural Dynamics for Civil Engineers - SDOF systems,Civil Engineering,IIT Kanpur
+512,Retrofitting and Rehabilitation of Civil Infrastructure,Civil Engineering,IIT Kharagpur
+513,Geomorphic Processes: Landforms and Landscapes,Civil Engineering,IIT Kanpur
+514,Surface Water Hydrology,Civil Engineering,IIT Kharagpur
+515,Structural Geology,Civil Engineering,IIT Kanpur
+516,Traffic Engineering,Civil Engineering,IIT Kharagpur
+517,Bridge Engineering,Civil Engineering,IIT Kharagpur
+518,Elastic Stability of Structures,Civil Engineering,IIT Kharagpur
+519,Radiogenic Isotope Geology,Civil Engineering,IIT Kharagpur
+520,Availability and Management of Groundwater Resources,Civil Engineering,IIT Kharagpur
+521,Higher Surveying,Civil Engineering,IIT Guwahati
+522,Earthquake Geology:A tool for Seismic Hazard Assessment,Civil Engineering,IIT Kanpur
+523,Unsaturated Soil Mechanics,Civil Engineering,IIT Guwahati
+524,Geotechnical Earthquake Engineering,Civil Engineering,IIT Bombay
+525,Subsurface exploration :importance and techniques involved,Civil Engineering,IIT Guwahati
+526,Development and Applications of Special Concretes,Civil Engineering,IIT Kanpur
+527,Water Management,Civil Engineering,IIT Delhi
+528,"Geoenvironmental Engineering (Environmental Geotechnology): Landfills, Slurry Ponds & Contaminated Sites",Civil Engineering,IIT Delhi
+529,Geosynthetics Engineering: In Theory and Practice,Civil Engineering,IIT Bombay
+530,Fluid Mechanics,Civil Engineering,IIT Guwahati
+531,Introductory Field Structural Geology,Civil Engineering,IIT Kanpur
+532,Remote Sensing and GIS,Civil Engineering,IIT Guwahati
+533,"Energy Efficiency, Acoustics and daylighting in Building",Civil Engineering,IIT Delhi
+534,"Fire Protection, Services and Maintenance Management of Building",Civil Engineering,IIT Delhi
+535,River Engineering,Civil Engineering,IIT Guwahati
+536,Municipal Solid Waste Management,Civil Engineering,IIT Guwahati
+537,Advanced Foundation Engineering,Civil Engineering,IISc Bangalore
+538,Construction methods and equipment management,Civil Engineering,IIT Guwahati
+539,Applied Elasticity for Engineers,Civil Engineering,IISc Bangalore
+540,Advanced Soil Mechanics,Civil Engineering,IIT Guwahati
+541,Geotechnical engineering laboratory,Civil Engineering,IIT Bombay
+542,Continuum Damage Mechanics,Civil Engineering,IISc Bangalore
+543,Plates and Shells,Civil Engineering,IIT Guwahati
+544,Geo-informatics in Transportation Engineering,Civil Engineering,IISc Bangalore
+545,Optimization methods for Civil engineering,Civil Engineering,IIT Guwahati
+546,Geotechnical Earthquake Engineering,Civil Engineering,IISc Bangalore
+547,Ground Improvement Techniques,Civil Engineering,IISc Bangalore
+548,Introduction to Engineering Seismology,Civil Engineering,IISc Bangalore
+549,Engineering Hydrology,Civil Engineering,IIT Guwahati
+550,Remote Sensing,Civil Engineering,IISc Bangalore
+551,Expansive Soil,Civil Engineering,IIT Guwahati
+552,Site Characterisation & Instrumentation,Civil Engineering,IISc Bangalore
+553,Stochastic Hydrology,Civil Engineering,IISc Bangalore
+554,Stochastic Structural Dynamics,Civil Engineering,IISc Bangalore
+555,Water Resources Systems Planning and Management,Civil Engineering,IISc Bangalore
+556,Sustainable Materials and Green Buildings,Civil Engineering,IIT Delhi
+557,Advanced Hydraulics,Civil Engineering,IIT Roorkee
+558,Global Positioning System,Civil Engineering,IIT Roorkee
+559,Scheduling Techniques in Projects,Civil Engineering,IIT Delhi
+560,Geosynthetics Testing Laboratory,Civil Engineering,IIT Bombay
+561,Soil Dynamics,Civil Engineering,IIT Roorkee
+562,Urban transportation planning,Civil Engineering,IIT Roorkee
+563,Safety in Construction,Civil Engineering,IIT Delhi
+564,Advanced Solid Mechanics,Civil Engineering,IIT Madras
+565,Advanced Structural Analysis,Civil Engineering,IIT Madras
+566,Finite Element Analysis,Civil Engineering,IIT Madras
+567,Geosynthetics and Reinforced Soil Structures,Civil Engineering,IIT Madras
+568,Modern Construction Materials,Civil Engineering,IIT Madras
+569,Rock Engineering,Civil Engineering,IIT Madras
+570,Solid & Hazardous Waste Management,Civil Engineering,IIT Madras
+571,Urban transportation planning,Civil Engineering,IIT Madras
+572,Environmental Geotechnics,Civil Engineering,IIT Bombay
+573,Advanced Foundation Engineering,Civil Engineering,IIT Kharagpur
+574,Environmental Geomechanics,Civil Engineering,IIT Bombay
+575,Geotechnical Engineering - 1,Civil Engineering,IIT Bombay
+576,Finite Element Analysis,Civil Engineering,IIT Kharagpur
+577,Ground Water Hydrology,Civil Engineering,IIT Kharagpur
+578,Numerical Methods in Civil Engineering,Civil Engineering,IIT Kharagpur
+579,Probability Methods in Civil Engineering,Civil Engineering,IIT Kharagpur
+580,Remote Sensing: Principles and Applications,Civil Engineering,IIT Bombay
+581,Wastewater management,Civil Engineering,IIT Kharagpur
+582,Dynamics of Structures,Civil Engineering,IIT Bombay
+583,Composite Materials,Civil Engineering,IISc Bangalore
+584,Microwave Remote Sensing in Hydrology,Civil Engineering,IIT Bombay
+585,Advanced Hydrology,Civil Engineering,IIT Kanpur
+586,Computational Hydraulics,Civil Engineering,IISc Bangalore
+587,Groundwater hydrology and management,Civil Engineering,IIT Bombay
+588,Concrete Engineering and Technology,Civil Engineering,IIT Kanpur
+589,Rural Water Resources Management,Civil Engineering,IIT Bombay
+590,Optimization Methods,Civil Engineering,IISc Bangalore
+591,Geotechnical Engineering-II,Civil Engineering,IIT Bombay
+592,Reliability Engineering,Civil Engineering,IISc Bangalore
+593,Water Resources Systems : Modeling Techniques and Analysis,Civil Engineering,IISc Bangalore
+594,Advanced Hydraulics,Civil Engineering,IIT Guwahati
+595,Finite Element method for vibration and Stability analyses,Civil Engineering,IISc Bangalore
+596,Construction Economics & Finance,Civil Engineering,IIT Guwahati
+597,Foundation Engineering,Civil Engineering,IIT Roorkee
+598,Geo-environmental Engineering,Civil Engineering,IIT Guwahati
+599,Modern Surveying Techniques,Civil Engineering,IIT Roorkee
+600,Ground Water Hydrology,Civil Engineering,IIT Guwahati
+601,Surveying,Civil Engineering,IIT Roorkee
+602,Probability Methods in Civil Engineering,Civil Engineering,IIT Guwahati
+603,Transportation Engineering II,Civil Engineering,IIT Roorkee
+604,Hydrological Measurements and Analysis of Data,Civil Engineering,IIT Roorkee
+605,Concrete Technology,Civil Engineering,IIT Delhi
+606,G.I.S in Civil Engineering,Civil Engineering,IIT Delhi
+607,Seismic Analysis of Structures,Civil Engineering,IIT Delhi
+608,Design of Steel Structures I,Civil Engineering,IIT Madras
+609,Design of Steel Structures II,Civil Engineering,IIT Madras
+610,Hydraulics,Civil Engineering,IIT Madras
+611,Infrastructure Planning and Management,Civil Engineering,IIT Madras
+612,Mechanics of solids,Civil Engineering,IIT Madras
+613,Pre-stressed Concrete Structures,Civil Engineering,IIT Madras
+614,Pre-stressed Concrete Structures,Civil Engineering,IIT Madras
+615,Water and Waste Water Engineering,Civil Engineering,IIT Madras
+616,Advanced Geotechnical Engineering,Civil Engineering,IIT Bombay
+617,Advanced Hydrology,Civil Engineering,IIT Bombay
+618,Introduction to Earthquake Engineering,Civil Engineering,IIT Bombay
+619,Soil Dynamics,Civil Engineering,IIT Bombay
+620,Structural Dynamics,Civil Engineering,IIT Bombay
+621,Traffic Engineering & Management,Civil Engineering,IIT Bombay
+622,Design of Concrete Structures,Civil Engineering,IIT Kharagpur
+623,Design of Reinforced Concrete Structures,Civil Engineering,IIT Kharagpur
+624,Watershed Management,Civil Engineering,IIT Bombay
+625,Engineering Geology,Civil Engineering,IIT Kharagpur
+626,Introduction to Transportation Engineering,Civil Engineering,IIT Kharagpur
+627,Introduction to Geographic Information Systems,Civil Engineering,IIT Roorkee
+628,Strength of Materials,Civil Engineering,IIT Kharagpur
+629,Principles and Applications of Building Science,Civil Engineering,IIT Roorkee
+630,Structural Analysis II,Civil Engineering,IIT Kharagpur
+631,GPS SURVEYING,Civil Engineering,IIT Roorkee
+632,Water Resources Engineering,Civil Engineering,IIT Kharagpur
+633,"Digital Land Surveying And Mapping(DLS&M)
+",Civil Engineering,IIT Roorkee
+634,Digital Image Processing of Remote Sensing Data,Civil Engineering,IIT Roorkee
+635,Concepts in Geotechnical and Foundation Engineering,Civil Engineering,IIT Madras
+636,Advanced Techniques in Geotechnical and Foundation Engineering ,Civil Engineering,IIT Madras
+637,Sustainable River Basin Management,Civil Engineering,IIT Madras
+638,Advanced Transportation Engineering,Civil Engineering,IIT Kanpur
+639,Environmental Air Pollution,Civil Engineering,IIT Kanpur
+640,Modern Surveying Techniques,Civil Engineering,IIT Kanpur
+641,Surveying,Civil Engineering,IIT Kanpur
+642,Project Planning & Control(Course sponsored by Aricent),Civil Engineering,IIT Madras
+643,Applied Environmental Microbiology,Civil Engineering,IIT Roorkee
+644,Water and Waste Water Engineering,Civil Engineering,IIT Kanpur
+645,Digital elevation models and applications,Civil Engineering,IIT Roorkee
+646,Water Resources Engineering,Civil Engineering,IIT Kanpur
+647,Structural Dynamics,Civil Engineering,IIT Hyderabad
+648,Environmental Chemistry,Civil Engineering,IIT Roorkee
+649,Introduction to Engineering Seismology,Civil Engineering,IISc Bangalore
+650,Environmental Remediation of Contaminated Sites,Civil Engineering,IIT Roorkee
+651,Probability Methods in Civil Engineering,Civil Engineering,IIT Kharagpur
+652,Construction Planning and Management,Civil Engineering,IIT Guwahati
+653,Fluid Mechanics,Civil Engineering,IIT Guwahati
+654,Hydraulics,Civil Engineering,IIT Guwahati
+655,Soil Mechanics,Civil Engineering,IIT Guwahati
+656,Global Navigation Satellite Systems And Applications,Civil Engineering,IIT Roorkee
+657,Mechanics of Materials,Civil Engineering,IIT Madras
+658,Probability Methods in Civil Engineering,Civil Engineering,IIT Kharagpur
+659,Parallel Algorithms,Computer Science and  Engineering,IIT Madras
+660,Compiler Design,Computer Science and  Engineering,IIT Kanpur
+661,Computer Organisation and Architecture,Computer Science and  Engineering,IIT Kanpur
+662,Introduction to Problem Solving and Programming,Computer Science and  Engineering,IIT Kanpur
+663,Artificial Intelligence: Search Methods for Problem Solving,Computer Science and  Engineering,IIT Madras
+664,"Programming, Data Structures and Algorithms",Computer Science and  Engineering,IIT Madras
+665,Natural Language Processing,Computer Science and  Engineering,IIT Bombay
+666,Introduction to Information Security  I,Computer Science and  Engineering,IIT Madras
+667,Programming and Data structures (PDS),Computer Science and  Engineering,IIT Madras
+668,Design and Analysis of Algorithms,Computer Science and  Engineering,IIT Madras
+669,Introduction to Cryptology,Computer Science and  Engineering,IIT Roorkee
+670,"2016: Programming, Data structures and Algorithms",Computer Science and  Engineering,IIT Madras
+671,Computer Architecture(Course sponsored by Aricent),Computer Science and  Engineering,IIT Madras
+672,Model Checking,Computer Science and  Engineering,IIT Madras
+673,Introduction To Haskell Programming,Computer Science and  Engineering,IIT Madras
+674,Virtual Reality,Computer Science and  Engineering,IIT Madras
+675,Introduction to Machine Learning(Course sponsored by Aricent),Computer Science and  Engineering,IIT Madras
+676,Computer Organization and Architecture,Computer Science and  Engineering,IIT Guwahati
+677,Artificial Intelligence: Knowledge Representation and Reasoning ,Computer Science and  Engineering,IIT Madras
+678,Data Structures and Program Methodology,Computer Science and  Engineering,IIT Guwahati
+679,Information Security - II(Course sponsored by Aricent),Computer Science and  Engineering,IIT Madras
+680,Theory of Automata and Formal Languages,Computer Science and  Engineering,IIT Guwahati
+681,Algorithms for Big Data,Computer Science and  Engineering,IIT Madras
+682,Reinforcement Learning,Computer Science and  Engineering,IIT Madras
+683,Introduction to Operating Systems,Computer Science and  Engineering,IIT Madras
+684,"Programming, Data Structures and Algorithms using Python",Computer Science and  Engineering,IIT Madras
+685,Privacy and Security in Online Social Media,Computer Science and  Engineering,IIT Delhi
+686,Mobile Computing,Computer Science and  Engineering,IIT Madras
+687,Introduction to Modern Application Development,Computer Science and  Engineering,IIT Madras
+688,Information Security-3,Computer Science and  Engineering,IIT Madras
+689,AI:Constraint Satisfaction,Computer Science and  Engineering,IIT Madras
+690,Computer Architecture,Computer Science and  Engineering,IIT Delhi
+691,Computer Graphics,Computer Science and  Engineering,IIT Delhi
+692,Data Structures And Algorithms,Computer Science and  Engineering,IIT Delhi
+693,Introduction to Computer Graphics,Computer Science and  Engineering,IIT Delhi
+694,Introduction to Problem Solving and Programming,Computer Science and  Engineering,IIT Delhi
+695,Principles of Programming Languages,Computer Science and  Engineering,IIT Delhi
+696,Riemann Hypothesis and its Applications,Computer Science and  Engineering,IIT Kanpur
+697,Computer Organization and Architecture,Computer Science and  Engineering,IIT Madras
+698,Biometrics,Computer Science and  Engineering,IIT Kanpur
+699,Parallel Algorithm,Computer Science and  Engineering,IIT Kanpur
+700,Distributed Systems,Computer Science and  Engineering,IIT Patna
+701,Social Networks,Computer Science and  Engineering,IIT Ropar
+702,Computer Architecture,Computer Science and  Engineering,IIT Kanpur
+703,Compiler Design,Computer Science and  Engineering,IIT Kanpur
+704,Software Testing,Computer Science and  Engineering,IIT Kharagpur
+705,Programming in C++,Computer Science and  Engineering,IIT Kharagpur
+706,Introduction to programming in C,Computer Science and  Engineering,IIT Kanpur
+707,Introduction to Machine Learning,Computer Science and  Engineering,IIT Kharagpur
+708,An Introduction to Probability in Computing,Computer Science and  Engineering,IIT Madras
+709,Object-Oriented Analysis and Design,Computer Science and  Engineering,IIT Kharagpur
+710,Introduction to Human Computer Interaction,Computer Science and  Engineering,IIT Madras
+711,Complex Network : Theory and Application,Computer Science and  Engineering,IIT Kharagpur
+712,Information security - IV,Computer Science and  Engineering,IIT Madras
+713,Data Science for Engineers,Computer Science and  Engineering,IIT Madras
+714,Discrete Mathematics _ IIITB,Computer Science and  Engineering,IIT Bangalore
+715,Design and Analysis of Algorithms,Computer Science and  Engineering,IIT Bombay
+716,Design and Analysis of Algorithms,Computer Science and  Engineering,IIT Bombay
+717,Fundamental Algorithms:Design and Analysis,Computer Science and  Engineering,IIT Kharagpur
+718,Secure Computation: Part I,Computer Science and  Engineering,IITB
+719,Software Engineering,Computer Science and  Engineering,IIT Bombay
+720,Natural Language Processing,Computer Science and  Engineering,IIT Kharagpur
+721,The Joy of Computing using Python,Computer Science and  Engineering,IIT Ropar
+722,Fundamentals of Database Systems(Course sponsored by Aricent),Computer Science and  Engineering,IIT Kanpur
+723,Embedded Systems Design,Computer Science and  Engineering,IIT Kharagpur
+724,Discrete Mathematics,Computer Science and  Engineering,IIT Ropar
+725,Wireless Ad Hoc and Sensor Networks,Computer Science and  Engineering,IIT Kharagpur
+726,Deep Learning- Part 1,Computer Science and  Engineering,IIT Ropar
+727,VLSI Physical Design,Computer Science and  Engineering,IIT Kharagpur
+728,Cryptography And Network Security,Computer Science and  Engineering,IIT Kharagpur
+729,Human-Computer Interaction,Computer Science and  Engineering,IIT Guwahati
+730,Computer architecture and organization,Computer Science and  Engineering,IIT Kharagpur
+731,Design Verification and Test of Digital VLSI Circuits,Computer Science and  Engineering,IIT Guwahati
+732,Introduction to algorithms and analysis,Computer Science and  Engineering,IIT Kharagpur
+733,Hardware modeling using verilog,Computer Science and  Engineering,IIT Kharagpur
+734,Secure Computation: Part II,Computer Science and  Engineering,IISc Bangalore
+735,Introduction to internet of things,Computer Science and  Engineering,IIT Kharagpur
+736,Cloud computing,Computer Science and  Engineering,IIT Kharagpur
+737,Problem Solving through Programming in C,Computer Science and  Engineering,IIT Kharagpur
+738,Theory of Computation,Computer Science and  Engineering,IIT Kanpur
+739,Real Time Operating System,Computer Science and  Engineering,IIT Kharagpur
+740,Data Analytics with Python,Computer Science and  Engineering,IIT Roorkee
+741,Modern Algebra,Computer Science and  Engineering,IIT Kanpur
+742,Introduction to Soft Computing,Computer Science and  Engineering,IIT Kharagpur
+743,Foundations to Computer Systems Design,Computer Science and  Engineering,IIT Madras
+744,Data Mining,Computer Science and  Engineering,IIT Kharagpur
+745,Machine Learning for Engineering and Science Applications,Computer Science and  Engineering,IIT Madras
+746,Data Base Management System,Computer Science and  Engineering,IIT Kharagpur
+747,Information Security - 5 - Secure Systems Engineering,Computer Science and  Engineering,IIT Madras
+748,Multimodal Interaction,Computer Science and  Engineering,IIT Madras
+749,Deep Learning - Part 2,Computer Science and  Engineering,IIT Madras
+750,"Machine Learning,ML",Computer Science and  Engineering,IIT Madras
+751,Software Engineering,Computer Science and  Engineering,IIT Kharagpur
+752,Computer Networks and Internet Protocol,Computer Science and  Engineering,IIT Kharagpur
+753,Blockchain Architecture Design and Use Cases,Computer Science and  Engineering,IIT Kharagpur
+754,Switching Circuits and Logic Design,Computer Science and  Engineering,IIT Kharagpur
+755,Scalable Data Science,Computer Science and  Engineering,IIT Kharagpur
+756,C Programming and Assembly Language,Computer Science and  Engineering,IIT Madras
+757,Parallel Computing,Computer Science and  Engineering,IIT Delhi
+758,Applied Natural Language Processing,Computer Science and  Engineering,IIT Madras
+759,Python for Data Science,Computer Science and  Engineering,IIT Madras
+760,Practical Machine Learning with Tensorflow,Computer Science and  Engineering,IIT Madras
+761,Compiler Design,Computer Science and  Engineering,IIT Kharagpur
+762,Programming in Java,Computer Science and  Engineering,IIT Kharagpur
+763,Discrete Structures,Computer Science and  Engineering,IIT Kharagpur
+764,Embedded System Design with ARM,Computer Science and  Engineering,IIT Kharagpur
+765,Advanced Graph Theory,Computer Science and  Engineering,IIT Patna
+766,Hardware Security,Computer Science and  Engineering,IIT Kharagpur
+767,Introduction to Industry 4.0 and Industrial Internet of Things,Computer Science and  Engineering,IIT Kharagpur
+768,"Introduction to Automata, Languages and Computation",Computer Science and  Engineering,IIT Kharagpur
+769,Introduction to Database Systems,Computer Science and  Engineering,IIT Madras
+770,Foundations of Cryptography,Computer Science and  Engineering,IIT Bangalore
+771,Modern Application Development,Computer Science and  Engineering,IIT Madras
+772,Deep Learning for Computer Vision,Computer Science and  Engineering,IIT Madras
+773,Artificial Intelligence Search Methods For Problem Solving,Computer Science and  Engineering,IIT Madras
+774,Operating Systems,Computer Science and  Engineering,IIT Delhi
+775,Computational Complexity,Computer Science and  Engineering,IIT Hyderabad
+776,Cloud Computing and Distributed Systems,Computer Science and  Engineering,IIT Patna
+777,Parameterized Algorithms,Computer Science and  Engineering,"IIT Gandhinagar
+IMSC"
+778,Getting Started with Competitive Programming ,Computer Science and  Engineering,IIT Gandhinagar
+779,Introduction to Quantum Computing: Quantum Algorithms and Qiskit,Computer Science and  Engineering,IITM
+780,Systems and Usable Security,Computer Science and  Engineering,IIT Madras
+781,Online Privacy,Computer Science and  Engineering,IIT Madras
+782,Introduction to Machine Learning (Tamil),Computer Science and  Engineering,IIT Madras
+783,Big Data Computing,Computer Science and  Engineering,IIT Patna
+784,Compiler Design,Computer Science and  Engineering,IIT Madras
+785,Operating System Fundamentals,Computer Science and  Engineering,IIT Kharagpur
+786,Applied Accelerated Artificial Intelligence,Computer Science and  Engineering,IIT Madras
+787,Deep Learning,Computer Science and  Engineering,IIT Kharagpur
+788,Social Network Analysis,Computer Science and  Engineering,IIT Madras
+789,Computer Vision,Computer Science and  Engineering,IIT Kharagpur
+790,Ethical Hacking,Computer Science and  Engineering,IIT Kharagpur
+791,Software Project Management,Computer Science and  Engineering,IIT Kharagpur
+792,Spatial Innformatics,Computer Science and  Engineering,IIT Kharagpur
+793,GPU Architectures and Programming,Computer Science and  Engineering,IIT Kharagpur
+794,Google Cloud Computing Foundation Course ,Computer Science and  Engineering,IIT Kharagpur
+795,"Object Oriented System Development using UML, Java and Patterns",Computer Science and  Engineering,IIT Kharagpur
+796,Data Structure and algorithms using Java,Computer Science and  Engineering,IIT Kharagpur
+797,Computer Organization and Architecture A Pedagogical Aspect,Computer Science and  Engineering,IIT Guwahati
+798,Real-Time Systems,Computer Science and  Engineering,IIT Kharagpur
+799,Computer Architecture,Computer Science and  Engineering,IIT Delhi
+800,Embedded Systems-Design Verification and Test,Computer Science and  Engineering,IIT Guwahati
+801,Algorithms for protein modelling and engineering,Computer Science and  Engineering,IIT Kharagpur
+802,Multi-Core Computer Architecture-Storage and Interconnects,Computer Science and  Engineering,IIT Guwahati
+803,Programming in Modern C++,Computer Science and  Engineering,IIT Kharagpur
+804,Randomized Algorithms,Computer Science and  Engineering,IIT Guwahati
+805,Blockchain and its Applications,Computer Science and  Engineering,IIT Kharagpur
+806,Combinatorics,Computer Science and  Engineering,IISc Bangalore
+807,Introduction to Parallel Programming in OpenMP,Computer Science and  Engineering,IIT Delhi
+808,Parallel Algorithms,Computer Science and  Engineering,IIT Guwahati
+809,Compiler Design,Computer Science and  Engineering,IISc Bangalore
+810,Algorithmic Game Theory,Computer Science and  Engineering,IIT Kharagpur
+811,Machine Learning for Earth System Sciences,Computer Science and  Engineering,IIT Kharagpur
+812,Graph Theory,Computer Science and  Engineering,IISc Bangalore
+813,Statistical learning for Reliability Analysis,Computer Science and  Engineering,IIT Kharagpur
+814,High Performance Computing,Computer Science and  Engineering,IISc Bangalore
+815,Numerical Optimization,Computer Science and  Engineering,IISc Bangalore
+816,Bandit Algorithm (Online Machine Learning),Computer Science and  Engineering,IIT Bombay
+817,Pattern Recognition,Computer Science and  Engineering,IISc Bangalore
+818,Storage Systems,Computer Science and  Engineering,IISc Bangalore
+819,Introduction to Blockchain Technology and Applications,Computer Science and  Engineering,IIT Kanpur
+820,Arithmetic Circuit Complexity,Computer Science and  Engineering,IIT Kanpur
+821,Computational Complexity Theory,Computer Science and  Engineering,IIT Kanpur
+822,Randomized Methods in Complexity,Computer Science and  Engineering,IIT Kanpur
+823,Discrete Mathematics,Computer Science and  Engineering,IIT Guwahati
+824,Synthesis of Digital Systems,Computer Science and  Engineering,IIT Delhi
+825,Advanced Computer Architecture,Computer Science and  Engineering,IIT Guwahati
+826,Probability for Computer Science,Computer Science and  Engineering,IIT Kanpur
+827,Software testing,Computer Science and  Engineering,IIT Bangalore
+828,User-centric Computing for Human-Computer Interaction,Computer Science and  Engineering,IIT Guwahati
+829,Computer Graphics,Computer Science and  Engineering,IIT Guwahati
+830,C-Based VLSI Design,Computer Science and  Engineering,IIT Guwahati
+831,Pattern Recognition,Computer Science and  Engineering,IIT Madras
+832,Design and pedagogy of the introductory programming course,Computer Science and  Engineering,IIT Bombay
+833,Performance Evaluation of Computer Systems,Computer Science and  Engineering,IIT Madras
+834,"Theory of Automata, Formal Languages and Computation",Computer Science and  Engineering,IIT Madras
+835,Data Communications,Computer Science and  Engineering,IISc Bangalore
+836,Digital Systems,Computer Science and  Engineering,IISc Bangalore
+837,Microprocessors and Microcontrollers,Computer Science and  Engineering,IISc Bangalore
+838,Design & Implementation of Human-Computer Interfaces,Computer Science and  Engineering,IIT Guwahati
+839,Operating Systems,Computer Science and  Engineering,IISc Bangalore
+840,System Analysis and Design,Computer Science and  Engineering,IISc Bangalore
+841,Cryptography and Network Security,Computer Science and  Engineering,IIT Kharagpur
+842,System Analysis and Design,Computer Science and  Engineering,IISc Bangalore
+843,Digital Image Processing,Computer Science and  Engineering,IIT Kharagpur
+844,High Performance Computer Architecture,Computer Science and  Engineering,IIT Kharagpur
+845,Low Power VLSI Circuits & Systems,Computer Science and  Engineering,IIT Kharagpur
+846,Real Time Systems,Computer Science and  Engineering,IIT Kharagpur
+847,An Introduction to Artificial Intelligence,Computer Science and  Engineering,IIT Delhi
+848,Principles of Compiler Design,Computer Science and  Engineering,IISc Bangalore
+849,Computer Algorithms - 2,Computer Science and  Engineering,IIT Kanpur
+850,Indexing and Searching Techniques in Databases,Computer Science and  Engineering,IIT Kanpur
+851,Advanced computer architecture,Computer Science and  Engineering,IIT Delhi
+852,Parallel Computer Architecture,Computer Science and  Engineering,IIT Kanpur
+853,An Introduction To Programming Through C++,Computer Science and  Engineering,IIT Bombay
+854,Program Optimization for Multi-core Architectures,Computer Science and  Engineering,IIT Kanpur
+855,Demystifying networking,Computer Science and  Engineering,IIT Bombay
+856,Theory of Computation,Computer Science and  Engineering,IIT Kanpur
+857,Advanced Distributed systems,Computer Science and  Engineering,IIT Delhi
+858,Computational Number Theory & Cryptography,Computer Science and  Engineering,IIT Guwahati
+859,VLSI Design Verification and Test,Computer Science and  Engineering,IIT Guwahati
+860,CAD for VLSI Design I,Computer Science and  Engineering,IIT Madras
+861,CAD for VLSI Design II,Computer Science and  Engineering,IIT Madras
+862,Computer Graphics,Computer Science and  Engineering,IIT Madras
+863,Computer Networks,Computer Science and  Engineering,IIT Madras
+864,Computer Organization,Computer Science and  Engineering,IIT Madras
+865,Database Design,Computer Science and  Engineering,IIT Madras
+866,Discrete Mathematical Structures,Computer Science and  Engineering,IIT Madras
+867,Introduction to Database Systems and Design,Computer Science and  Engineering,IIT Madras
+868,Principles of Communication,Computer Science and  Engineering,IIT Madras
+869,Design and Engineering of Computer Systems,Computer Science and  Engineering,IIT Bombay
+870,Software Conceptual Design,Computer Science and  Engineering,IIT Bombay
+871,Artificial Intelligence,Computer Science and  Engineering,IIT Kharagpur
+872,Introduction to Game Theory and Mechanism Design,Computer Science and  Engineering,IIT Bombay
+873,Artificial Intelligence,Computer Science and  Engineering,IIT Kharagpur
+874,Introduction to Computer and Network Performance Analysis using Queuing Systems,Computer Science and  Engineering,IIT Bombay
+875,Artificial Intelligence(Prof.P.Dasgupta),Computer Science and  Engineering,IIT Kharagpur
+876,Computer Networks,Computer Science and  Engineering,IIT Kharagpur
+877,Computer Networks,Computer Science and  Engineering,IIT Kharagpur
+878,Data Communication,Computer Science and  Engineering,IIT Kharagpur
+879,Electronic Design Automation,Computer Science and  Engineering,IIT Kharagpur
+880,Distributed Computing Systems,Computer Science and  Engineering,IIT Madras
+881,Computational Geometry,Computer Science and  Engineering,IIT Delhi
+882,Internet Technology,Computer Science and  Engineering,IIT Kharagpur
+883,Programming and Data Structure,Computer Science and  Engineering,IIT Kharagpur
+884,Logic for CS,Computer Science and  Engineering,IIT Delhi
+885,Real Time Systems,Computer Science and  Engineering,IIT Kharagpur
+886,Software Engineering,Computer Science and  Engineering,IIT Kharagpur
+887,Design fundamentals,Engineering Design,IIT Guwahati
+888,Ergonomics for beginners: Industrial design perspective,Engineering Design,IIT Guwahati
+889,Vehicle Dynamics,Engineering Design,IIT Madras
+890,Control systems,Engineering Design,IIT Madras
+891,Design for Manufacture and Assembly(DFMA),Engineering Design,IIT Guwahati
+892,Fundamentals of Automotive Systems,Engineering Design,IIT Madras
+893,Functional and Conceptual Design,Engineering Design,IIT Madras
+894,Introduction to robotics,Engineering Design,IIT Madras
+895,Geographic Information System,Engineering Design,IIT Kharagpur
+896,Visual Communication,Engineering Design,IIT Bombay
+897,Design Paradigm: Source Of Innovation & Invention,Engineering Design,IIT Kanpur
+898,Design Philosophy & History,Engineering Design,IIT Kanpur
+899,System Design for Sustainability,Engineering Design,IIT Guwahati
+900,Product Design and Innovation,Engineering Design,IIT Guwahati
+901,Interaction Design,Engineering Design,IIT Guwahati
+902,Ergonomics In Automotive Design,Engineering Design,IIT Guwahati
+903,Ergonomics Workplace Analysis,Engineering Design,IIT Guwahati
+904,Innovation by Design,Engineering Design,IIT Bombay
+905,Understanding Design,Engineering Design,IIT Bombay
+906,"Design, Technology and Innovation",Engineering Design,IIT Bombay
+907,Understanding Ethnography,Engineering Design,IIT Bombay
+908,Understanding Incubation and Entrepreneurship,Engineering Design,IIT Bombay
+909,Creative Engineering Design,Engineering Design,IISc Bangalore
+910,Methodology for Design Research,Engineering Design,IISc Bangalore
+911,Color in Design,Engineering Design,IIT Kanpur
+912,Principles of Engineering System Design,Engineering Design,IIT Madras
+913,Power Electronics,Electrical Engineering,IIT Delhi
+914,Electrical Machines,Electrical Engineering,IIT Delhi
+915,Power Electronics and Distributed Generation,Electrical Engineering,IISc Bangalore
+916,Pulse width Modulation for Power Electronic Converters,Electrical Engineering,IISc Bangalore
+917,Switched Mode Power Conversion,Electrical Engineering,IISc Bangalore
+918,Fundamental of Power Electronics,Electrical Engineering,IISc Bangalore
+919,Computer Vision and Image Processing - Fundamentals and Applications,Electrical Engineering,IIT Guwahati
+920,System Design Through VERILOG,Electrical Engineering,IIT Guwahati
+921,Special Electromechanical Systems,Electrical Engineering,IIT Delhi
+922,"High Power Multilevel Converters- Analysis, design and operational issues",Electrical Engineering,IIT Delhi
+923,Usability Engineering,Electrical Engineering,IIT Guwahati
+924,Probability and Random Processes,Electrical Engineering,IIT Guwahati
+925,Computer Aided Power System Analysis,Electrical Engineering,IIT Roorkee
+926,Microprocessor,Electrical Engineering,IIT Roorkee
+927,Introduction to Embedded System Design,Electrical Engineering,IIT Jammu
+928,Power Quality,Electrical Engineering,IIT Delhi
+929,Energy Management Systems and SCADA,Electrical Engineering,IIT Madras
+930,Modelling and Analysis of Electric Machines,Electrical Engineering,IIT Madras
+931,Nonlinear Control System,Electrical Engineering,IIT Madras
+932,Introduction to Electrical Engineering,Electrical Engineering,IIT Delhi
+933,Power Quality in Power Distribution Systems,Electrical Engineering,IIT Madras
+934,Power System Stability and Control,Electrical Engineering,IIT Madras
+935,Basic Electrical Technology,Electrical Engineering,IISc Bangalore
+936,Industrial Drives - Power Electronics,Electrical Engineering,IISc Bangalore
+937,Non-Conventional Energy Systems,Electrical Engineering,IISc Bangalore
+938,Electrical Equipment and Machines: Finite Element Analysis,Electrical Engineering,IIT Bombay
+939,Numerical Analysis,Electrical Engineering,IISc Bangalore
+940,Digital Signal Processing and its Applications,Electrical Engineering,IIT Bombay
+941,Introduction to Wireless and Cellular Communications,Electrical Engineering,IIT Madras
+942,Electrical Machines -I,Electrical Engineering,IIT Kharagpur
+943,Optimal Control,Electrical Engineering,IIT Kharagpur
+944,Stochastic control and communication,Electrical Engineering,IIT Bombay
+945,Design for internet of things,Electrical Engineering,IISc Bangalore
+946,Advances in UHV Transmission and Distribution,Electrical Engineering,IISc Bangalore
+947,Advanced Electric Drives,Electrical Engineering,IIT Kanpur
+948,High Voltage DC Transmission,Electrical Engineering,IIT Kanpur
+949,Mathematical Methods and Techniques in Signal Processing,Electrical Engineering,IISc Bangalore
+950,Electronics Enclosures Thermal Issues,Electrical Engineering,IISc Bangalore
+951,"Integrated Circuits, MOSFETs, Op-Amps and their Applications",Electrical Engineering,IISc Bangalore
+952,Semiconductor Devices and Circuits,Electrical Engineering,IISc Bangalore
+953,Fabrication Techniques for MEMs-based sensors : Clinical perspective,Electrical Engineering,IISc Bangalore
+954,"Op-Amp Practical Applications: Design, Simulation and Implementation",Electrical Engineering,IISc Bangalore
+955,Physical Modelling for Electronics Enclosures using Rapid prototyping,Electrical Engineering,IISc Bangalore
+956,Analog ICs,Electrical Engineering,IIT Madras
+957,Recent Advances in Transmission Insulators,Electrical Engineering,IISc Bangalore
+958,Digital Integrated Circuits,Electrical Engineering,IIT Madras
+959,Electrical Machines I,Electrical Engineering,IIT Madras
+960,Electrical Machines II,Electrical Engineering,IIT Madras
+961,Electromagnetic Fields,Electrical Engineering,IIT Madras
+962,Industrial Instrumentation,Electrical Engineering,IIT Madras
+963,Optimal control,Electrical Engineering,IIT Roorkee
+964,Fundamentals of semiconductor devices,Electrical Engineering,IISc Bangalore
+965,Networks and Systems,Electrical Engineering,IIT Madras
+966,Advanced IOT Applications,Electrical Engineering,IISc Bangalore
+967,Electronic Systems for Cancer Diagnosis,Electrical Engineering,IISc Bangalore
+968,Basic Electrical Technology,Electrical Engineering,IIT Kharagpur
+969,Electronic Modules for Industrial Applications using Op-Amps,Electrical Engineering,IISc Bangalore
+970,"Chaos, Fractals & Dynamic Systems",Electrical Engineering,IIT Kharagpur
+971,Advanced Control Systems,Electrical Engineering,IIT Guwahati
+972,Digital Signal Processing,Electrical Engineering,IIT Kharagpur
+973,Digital Control System,Electrical Engineering,IIT Guwahati
+974,Dynamics of Physical Systems,Electrical Engineering,IIT Kharagpur
+975,Introduction to Hybrid and Electric Vehicles,Electrical Engineering,IIT Guwahati
+976,Embedded Systems,Electrical Engineering,IIT Kharagpur
+977,Energy Resources & Technology,Electrical Engineering,IIT Kharagpur
+978,Estimation of Signals and Systems,Electrical Engineering,IIT Kharagpur
+979,Probability Foundations for Electrical Engineers,Electrical Engineering,IIT Madras
+980,Illumination Engineering,Electrical Engineering,IIT Kharagpur
+981,Analog Circuits,Electrical Engineering,IIT Madras
+982,Illumination Engineering,Electrical Engineering,IIT Kharagpur
+983,Introduction to Non Linear Dynamics,Electrical Engineering,IIT Madras
+984,Industrial Automation and Control,Electrical Engineering,IIT Kharagpur
+985,Industrial Automation and Control,Electrical Engineering,IIT Kharagpur
+986,Industrial Instrumentation,Electrical Engineering,IIT Kharagpur
+987,Electrical Distribution System Analysis,Electrical Engineering,IIT Roorkee
+988,Networks Signals and Systems,Electrical Engineering,IIT Kharagpur
+989,Introduction to Smart Grid,Electrical Engineering,IIT Roorkee
+990,Power Electronics,Electrical Engineering,IIT Kharagpur
+991,Facts Devices,Electrical Engineering,IIT Roorkee
+992,Power System Analysis,Electrical Engineering,IIT Kharagpur
+993,Advanced Linear Continuous Control Systems: Applications with MATLAB Programming and Simulink,Electrical Engineering,IIT Roorkee
+994,High Voltage Engineering,Electrical Engineering,IIT Kanpur
+995,Intelligent Systems and Control,Electrical Engineering,IIT Kanpur
+996,Control engineering,Electrical Engineering,IIT Madras
+997,Power Systems Analysis,Electrical Engineering,IIT Kanpur
+998,Sensors and Actuators,Electrical Engineering,IISc Bangalore
+999,Power Systems Operation and Control,Electrical Engineering,IIT Kanpur
+1000,Neural Networks for Signal Processing – I,Electrical Engineering,IISc Bangalore
+1001,Computer Aided Power System Analysis,Electrical Engineering,IIT Roorkee
+1002,Advance power electronics and Control,Electrical Engineering,IIT Roorkee
+1003,CMOS Digital VLSI Design,Electrical Engineering,IIT Roorkee
+1004,Probability Foundations for Electrical Engineers,Electrical Engineering,IIT Madras
+1005,Electronics equipment integration and Prototype building,Electrical Engineering,IISc Bangalore
+1006,Industrial Automation and Control(Course sponsored by Aricent),Electrical Engineering,IIT Kharagpur
+1007,Medical Image Analysis,Electrical Engineering,IIT Kharagpur
+1008,Microelectronics: Devices To Circuits,Electrical Engineering,IIT Roorkee
+1009,Design and Simulation of Power conversion using open source tools,Electrical Engineering,IISc Bangalore
+1010,Dc Microgrid and Control System,Electrical Engineering,IIT Roorkee
+1011,Introductory Neuroscience & Neuro-Instrumentation,Electrical Engineering,IISc Bangalore
+1012,Information Theory,Electrical Engineering,IISc Bangalore
+1013,Nonlinear Dynamical Systems,Electrical Engineering,IIT Bombay
+1014,Power System Dynamics and Control,Electrical Engineering,IIT Bombay
+1015,Restructured Power Systems,Electrical Engineering,IIT Delhi
+1016,Biomedical Signal Processing,Electrical Engineering,IIT Kharagpur
+1017,Microprocessors And Microcontrollers,Electrical Engineering,IIT Kharagpur
+1018,Photonic integrated circuit,Electrical Engineering,IISc Bangalore
+1019,Deep Learning For Visual Computing,Electrical Engineering,IIT Kharagpur
+1020,Power System Engineering,Electrical Engineering,IIT Kharagpur
+1021,Design for internet of things,Electrical Engineering,IISc Bangalore
+1022,Mathematical Aspects of Biomedical Electronic System Design,Electrical Engineering,IISc Bangalore
+1023,Power Quality Improvement Technique,Electrical Engineering,IIT Roorkee
+1024,Concentration inequalities,Electrical Engineering,IISc Bangalore
+1025,Electromagnetic theory,Electrical Engineering,IIT Kanpur
+1026,Introduction to Photonics,Electrical Engineering,IIT Madras
+1027,Fundamentals of Electrical Engineering,Electrical Engineering,IIT Kharagpur
+1028,Multirate DSP,Electrical Engineering,IIT Madras
+1029,Digital Circuits,Electrical Engineering,IIT Kharagpur
+1030,Real-Time Digital Signal Processing,Electrical Engineering,IISc Bangalore
+1031,Circuit Theory,Electrical Engineering,IIT Delhi
+1032,Analysis and Design Principles of Microwave Antennas,Electrical Engineering,IIT Kharagpur
+1033,"Electromagnetic compatibility, EMC",Electrical Engineering,IIT Madras
+1034,Control Engineering,Electrical Engineering,IIT Delhi
+1035,Principles of Communication Systems - I,Electrical Engineering,IIT Kanpur
+1036,Control Engineering,Electrical Engineering,IIT Delhi
+1037,An Introduction to Coding Theory,Electrical Engineering,IIT Kanpur
+1038,Embedded Systems,Electrical Engineering,IIT Delhi
+1039,Industrial Drives,Electrical Engineering,IIT Delhi
+1040,Architectural Design of Digital Integrated Circuits,Electrical Engineering,IIT Kharagpur
+1041,"Power System Generation, Transmission and Distribution (Encapsulated from earlier Video)",Electrical Engineering,IIT Delhi
+1042,Power System Protection and Switchgear,Electrical Engineering,IIT Roorkee
+1043,Principles of Communication Systems: Part - II,Electrical Engineering,IIT Kanpur
+1044,Applied Electromagnetics For Engineers,Electrical Engineering,IIT Kanpur
+1045,Principles of Signals and Systems,Electrical Engineering,IIT Kanpur
+1046,Mapping Signal Processing Algorithms to Architectures,Electrical Engineering,IIT Madras
+1047,Linear Systems Theory,Electrical Engineering,IIT Madras
+1048,Digital Signal Processing,Electrical Engineering,IIT Madras
+1049,Computational Electromagnetics,Electrical Engineering,IIT Madras
+1050,Electrical Machines - II,Electrical Engineering,IIT Kharagpur
+1051,Digital Electronic Circuits,Electrical Engineering,IIT Kharagpur
+1052,Control Engineering,Electrical Engineering,IIT Bombay
+1053,"Power System Dynamics, Control and Monitoring",Electrical Engineering,IIT Kharagpur
+1054,Transmission lines and electromagnetic waves,Electrical Engineering,IIT Madras
+1055,Power Electronics,Electrical Engineering,IIT Bombay
+1056,Evolution of Air Interface towards 5G,Electrical Engineering,IIT Kharagpur
+1057,Digital IC Design,Electrical Engineering,IIT Madras
+1058,Power System Protection,Electrical Engineering,IIT Bombay
+1059,Power Management Integrated Circuits,Electrical Engineering,IIT Madras
+1060,Power Systems Operation and Control,Electrical Engineering,IIT Bombay
+1061,"Applied Optimization for Wireless, Machine Learning, Big Data",Electrical Engineering,IIT Kanpur
+1062,DC Power Transmission Systems,Electrical Engineering,IIT Madras
+1063,Fiber-Optic Communication Systems and Techniques,Electrical Engineering,IIT Kanpur
+1064,Optical Engineering,Electrical Engineering,IIT Madras
+1065,Nonlinear System Analysis,Electrical Engineering,IIT Madras
+1066,Signals and Systems,Electrical Engineering,IISER Bhopal
+1067,Linear Dynamical Systems,Electrical Engineering,IIT Mandi
+1068,A brief introduction of Micro - Sensors,Electrical Engineering,IISER Bhopal
+1069,Fiber Optic Communication Technology,Electrical Engineering,IIT Madras
+1070,Image Signal Processing,Electrical Engineering,IIT Madras
+1071,Fundamentals of Electric vehicles: Technology & Economics,Electrical Engineering,IIT Madras
+1072,Applied Linear Algebra,Electrical Engineering,IIT Madras
+1073,Basic Electrical Circuits,Electrical Engineering,IIT Madras
+1074,Optical Fiber Sensors,Electrical Engineering,IIT Madras
+1075,Introduction to Time - Varying Electrical Networks,Electrical Engineering,IIT Madras
+1076,Power System Dynamics,Electrical Engineering,IIT Delhi
+1077,Electrical Measurement and Electronic Instruments,Electrical Engineering,IIT Kharagpur
+1078,Digital System Design,Electrical Engineering,IIT Ropar
+1079,"Electromagnetic
+Waves in Guided and Wireless Media",Electrical Engineering,IIT Kanpur
+1080,Principles and Techniques of Modern Radar Systems,Electrical Engineering,IIT Kharagpur
+1081,Electrical Machines - I,Electrical Engineering,IIT Kharagpur
+1082,Stochastic Modeling and the Theory of Queues,Electrical Engineering,IIT Madras
+1083,Optimization Techniques for Digital VLSI Design,Electrical Engineering,IIT Guwahati
+1084,Integrated Photonics Devices and Circuits,Electrical Engineering,IIT Madras
+1085,VLSI Signal Processing,Electrical Engineering,IIT Kharagpur
+1086,Introduction to Semiconductor Devices,Electrical Engineering,IIT Hyderabad
+1087,Analog Electronic Circuits,Electrical Engineering,IIT Kharagpur
+1088,Electric vehicles and Renewable energy,Electrical Engineering,IIT Madras
+1089,Network Analysis,Electrical Engineering,IIT Kharagpur
+1090,Advanced Topics in Probability and Random Processes,Electrical Engineering,IIT Guwahati
+1091,Phase-Locked Loops,Electrical Engineering,IIT Madras
+1092,Fundamentals of Nano and Quantum Photonics,Electrical Engineering,IIT Madras
+1093,Basic Electric Circuits,Electrical Engineering,IIT Kanpur
+1094,Fundamentals of Electric Drives,Electrical Engineering,IIT Kanpur
+1095,"ANALOG ELECTRONIC CIRCUITS
+
+",Electrical Engineering,IIT Delhi
+1096,Power System Protection,Electrical Engineering,IIT Kharagpur
+1097,"DIGITAL COMMUNICATION
+",Electrical Engineering,IIT Delhi
+1098,"Introduction To Electronic Circuits 
+",Electrical Engineering,IIT Delhi
+1099,Signal Processing for mm Wave communication for 5G and beyond,Electrical Engineering,IIT Kharagpur
+1100,Control and Tuning Methods in Switched Mode Power Converters,Electrical Engineering,IIT Kharagpur
+1101,"Fuzzy Sets, Logic and Systems & Applications",Electrical Engineering,IIT Kanpur
+1102,Advanced Microwave Guided-Structures and Analysis,Electrical Engineering,IIT Kharagpur
+1103,Analog Electronic Circuits,Electrical Engineering,IIT Delhi
+1104,Fabrication of Silicon  VLSI Circuits using the MOS technology,Electrical Engineering,IIT Bombay
+1105,Nonlinear and Adaptive Control,Electrical Engineering,IIT Delhi
+1106,Cognition and its computation,Electrical Engineering,IIT Kharagpur
+1107,Computational Electromagnetics & Applications,Electrical Engineering,IIT Bombay
+1108,Digital Control in Switched Mode Power Converters and FPGA-based Prototyping,Electrical Engineering,IIT Kharagpur
+1109,Basic Electronics,Electrical Engineering,IIT Bombay
+1110,VLSI Interconnects,Electrical Engineering,IIT Kharagpur
+1111,Antennas,Electrical Engineering,IIT Bombay
+1112,"Fundamentals of Wavelets, Filter Banks and Time Frequency Analysis",Electrical Engineering,IIT Bombay
+1113,"Information Theory, Coding and Cryptography",Electrical Engineering,IIT Delhi
+1114,Microwave Engineering,Electrical Engineering,IIT Guwahati
+1115,Analog Circuits,Electrical Engineering,IIT Bombay
+1116,Engineering Electromagnetics,Electrical Engineering,IIT Delhi
+1117,Peer To Peer Networks,Electrical Engineering,IIT Kanpur
+1118,Principles of Digital Communications,Electrical Engineering,IIT Delhi
+1119,Electric Vehicles - Part 1,Electrical Engineering,IIT Delhi
+1120,"Applied Linear Algebra for Signal Processing, Data Analytics and Machine Learning",Electrical Engineering,IIT Kanpur
+1121,Microprocessors and Interfacing,Electrical Engineering,IIT Guwahati
+1122,Statistical Signal Processing,Electrical Engineering,IIT Guwahati
+1123,Microwave Theory and Techniques,Electrical Engineering,IIT Bombay
+1124,Principles of Digital Communications (July-Oct 2018),Electrical Engineering,IIT Bombay
+1125,An Introduction to Electronics Systems Packaging,Electrical Engineering,IISc Bangalore
+1126,Poetry,Humanities and Social Sciences,IIT Madras
+1127,The Popular Gothic Novel,Humanities and Social Sciences,IIT Madras
+1128,Classical Sociological Theory,Humanities and Social Sciences,IIT Madras
+1129,Basics of language Science,Humanities and Social Sciences,IIT Madras
+1130,Introduction to Literary Theory,Humanities and Social Sciences,IIT Kanpur
+1131,Globalization: Theoretical Perspectives,Humanities and Social Sciences,IIT Madras
+1132,Development of Sociology in India,Humanities and Social Sciences,IIT Kanpur
+1133,Towards an Ethical Digital Society: From Theory to Practice,Humanities and Social Sciences,IIT Bangalore
+1134,Literary and Cultural Disability Studies: An Exploration,Humanities and Social Sciences,IIT Madras
+1135,Trauma and Literature,Humanities and Social Sciences,IIT Madras
+1136,Twentieth Century American Drama,Humanities and Social Sciences,IIT Madras
+1137,Fundamental Concepts in Sociolinguistics,Humanities and Social Sciences,Gautam Buddha University
+1138,Literature and Life,Humanities and Social Sciences,IIT Madras
+1139,German - III,Humanities and Social Sciences,IIT Madras
+1140,Introduction to the Pyschology of Language,Humanities and Social Sciences,IIT Kanpur
+1141,Appreciating Hindustani Music,Humanities and Social Sciences,IIT Madras
+1142,"Science, Technology and Society",Humanities and Social Sciences,IIT Guwahati
+1143,Intermediate Level of Spoken Sanskrit,Humanities and Social Sciences,IIT Kharagpur
+1144,Gender and Literature,Humanities and Social Sciences,IIT Guwahati
+1145,Ecology and Society,Humanities and Social Sciences,IIT Guwahati
+1146,An Introduction to Indian Literary Theory,Humanities and Social Sciences,IIT Madras
+1147,Population Studies,Humanities and Social Sciences,IIT Kanpur
+1148,Psychology of Everyday,Humanities and Social Sciences,IIT Kanpur
+1149,Entrepreneurship and IP strategy,Humanities and Social Sciences,IIT Kharagpur
+1150,Sociological Perspectives on Modernity,Humanities and Social Sciences,IIT Guwahati
+1151,Introduction to Cognitive Psychology,Humanities and Social Sciences,IIT Guwahati
+1152,Introduction to Modern Indian Political Thought,Humanities and Social Sciences,IIT Guwahati
+1153,Consumer Psychology,Humanities and Social Sciences,IIT Guwahati
+1154,Urbanization and Environment,Humanities and Social Sciences,IIT Kharagpur
+1155,Introduction to Modern Indian Drama,Humanities and Social Sciences,IIT Guwahati
+1156,Introduction to Political Theory,Humanities and Social Sciences,IIT Guwahati
+1157,Advanced Level of Spoken Sanskrit,Humanities and Social Sciences,IIT Kharagpur
+1158,Human Behaviour,Humanities and Social Sciences,IIT Guwahati
+1159,Education for Sustainable Development,Humanities and Social Sciences,IIT Kharagpur
+1160,Elements of Literature and Creative Communication,Humanities and Social Sciences,IIT Kharagpur
+1161,Training and Development,Humanities and Social Sciences,IIT Kharagpur
+1162,The World of Apu,Humanities and Social Sciences,IIT Kharagpur
+1163,Introduction to Brain & Behaviour,Humanities and Social Sciences,IIT Kanpur
+1164,Sociology and Resource Management,Humanities and Social Sciences,IIT Kharagpur
+1165,Urban Sociology,Humanities and Social Sciences,IIT Kharagpur
+1166,Management of Fixed Income Securities,Humanities and Social Sciences,IIT Kharagpur
+1167,The Psychology Of Language,Humanities and Social Sciences,IIT Guwahati
+1168,Modern Indian Art From the Colonial Period to the Present,Humanities and Social Sciences,IIT Kanpur
+1169,Development Research Methods,Humanities and Social Sciences,IIT Guwahati
+1170, Introduction to Japanese Language  and Culture,Humanities and Social Sciences,IIT Kanpur
+1171,Applied Statistics and Econometrics,Humanities and Social Sciences,IIT Kanpur
+1172,Literature and Coping Skills,Humanities and Social Sciences,IIT(BHU) Varanasi
+1173,Indian Economy: Some Contemporary Perspectives,Humanities and Social Sciences,IIT Kanpur
+1174,Japani Bhasha - Saral swaroop,Humanities and Social Sciences,IIT Kanpur
+1175,Indian Business History,Humanities and Social Sciences,IIT Guwahati
+1176,Introduction to Japanese Language and Culture - II,Humanities and Social Sciences,IIT Kanpur
+1177,"Indian Art: Materials, Techniques and Artistic Practices",Humanities and Social Sciences,IIT Kanpur
+1178,à¤ªà¥à¤°à¤®à¥à¤– à¤¹à¤¿à¤‚à¤¦à¥€ à¤•à¤¹à¤¾à¤¨à¤¿à¤¯à¤¾à¤‚ à¤”à¤° à¤­à¤¾à¤°à¤¤à¥€à¤¯ à¤¸à¤®à¤¾à¤œ,Humanities and Social Sciences,IIT Kanpur
+1179,Introduction to Western Political Thought,Humanities and Social Sciences,IIT Guwahati
+1180,"Text, Texuality and Digital Media",Humanities and Social Sciences,IIT Delhi
+1181,Positive Psychology,Humanities and Social Sciences,IIT Delhi
+1182,"Psychology of Stress, Health and Well-being",Humanities and Social Sciences,IIT Guwahati
+1183,Phonetics and Phonology: A broad overview,Humanities and Social Sciences,IIT Guwahati
+1184,Philosophical Foundations of Social Research,Humanities and Social Sciences,IIT Guwahati
+1185,Sociology of Development,Humanities and Social Sciences,IIT Guwahati
+1186,Environment and Development,Humanities and Social Sciences,IIT Guwahati
+1187,Introduction to Market Structures,Humanities and Social Sciences,IIT Guwahati
+1188,Mathematics for Economics - I,Humanities and Social Sciences,IIT Guwahati
+1189,"Language, Culture and Cognition: An Introduction",Humanities and Social Sciences,IIT Guwahati
+1190,"Energy Resources, Economics and Environment",Humanities and Social Sciences,IIT Bombay
+1191,Aspects of Western Philosophy,Humanities and Social Sciences,IIT Madras
+1192,Aspects of Western Philosophy,Humanities and Social Sciences,IIT Madras
+1193,Introduction to P??inian grammar,Humanities and Social Sciences,IIT Bombay
+1194,Contemporary Literature,Humanities and Social Sciences,IIT Madras
+1195,Contemporary Literature,Humanities and Social Sciences,IIT Madras
+1196,History of Economic Theory,Humanities and Social Sciences,IIT Madras
+1197,à¤¸à¤¨à¥à¤§à¤¿ sandhi in Paninian grammar,Humanities and Social Sciences,IIT Bombay
+1198,Indian Philosophy,Humanities and Social Sciences,IIT Madras
+1199,Philosophy of Language,Humanities and Social Sciences,IIT Madras
+1200,Technical English,Humanities and Social Sciences,IIT Madras
+1201,Better Spoken English,Humanities and Social Sciences,IIT Madras
+1202,Reading Poetry,Humanities and Social Sciences,IIT Madras
+1203,Biological Bases of Behavior,Humanities and Social Sciences,IIT Kanpur
+1204,Communication Skills,Humanities and Social Sciences,IIT Kanpur
+1205,Introduction to Film Studies,Humanities and Social Sciences,IIT Madras
+1206,Communication Skills,Humanities and Social Sciences,IIT Kanpur
+1207,Introduction to Film Studies,Humanities and Social Sciences,IIT Madras
+1208,Ethics,Humanities and Social Sciences,IIT Kanpur
+1209,Introduction to Modern Linguistics ,Humanities and Social Sciences,IIT Madras
+1210,Game Theory for Economists,Humanities and Social Sciences,IIT Kanpur
+1211,International Economics,Humanities and Social Sciences,IIT Kanpur
+1212,Principles and Parameters in Natural Language,Humanities and Social Sciences,IIT Madras
+1213,Literary Theory and Literary Criticism,Humanities and Social Sciences,IIT Madras
+1214,Language and Mind,Humanities and Social Sciences,IIT Madras
+1215, Film Appreciation,Humanities and Social Sciences,IIT Madras
+1216,Appreciating carnatic music,Humanities and Social Sciences,IIT Madras
+1217,Introduction to Logic,Humanities and Social Sciences,IIT Kanpur
+1218,Infrastructure Economics,Humanities and Social Sciences,IIT Madras
+1219,Cultural Studies,Humanities and Social Sciences,IIT Guwahati
+1220,Cultural Studies,Humanities and Social Sciences,IIT Guwahati
+1221,Language and society,Humanities and Social Sciences,IIT Madras
+1222,Time value of money-Concepts and Calculations,Humanities and Social Sciences,IIT Roorkee
+1223,English Language and Literature,Humanities and Social Sciences,IIT Guwahati
+1224,Population and Society,Humanities and Social Sciences,IIT Kanpur
+1225,Issues in Bioethics,Humanities and Social Sciences,IIT Madras
+1226,Game Theory and Economics,Humanities and Social Sciences,IIT Guwahati
+1227,Population and Society,Humanities and Social Sciences,IIT Kanpur
+1228,Indian Society - Issues and Problems,Humanities and Social Sciences,IIT Guwahati
+1229,Technical English for Engineers(Course sponsored by Aricent),Humanities and Social Sciences,IIT Madras
+1230,Introduction to Sociology,Humanities and Social Sciences,IIT Guwahati
+1231,Rural and Urban Sociology,Humanities and Social Sciences,IIT Kanpur
+1232,"Depreciation, Alternate Investment and Profitability Analysis
+",Humanities and Social Sciences,IIT Roorkee
+1233,"Science, Technology and Society",Humanities and Social Sciences,IIT Guwahati
+1234,Social Psychology,Humanities and Social Sciences,IIT Kanpur
+1235,Soft skills,Humanities and Social Sciences,IIT Roorkee
+1236,Translation Studies and Theory,Humanities and Social Sciences,IIT Kanpur
+1237,American Literature & Culture,Humanities and Social Sciences,IIT Madras
+1238,Economics of IPR,Humanities and Social Sciences,IIT Madras
+1239,Sociology of Science,Humanities and Social Sciences,IIT Roorkee
+1240,Perspectives on Neurolinguistic,Humanities and Social Sciences,IIT Roorkee
+1241,Artistic Exploration in Scientific Research And Technology,Humanities and Social Sciences,IISc Bangalore
+1242,Applied Linguistics,Humanities and Social Sciences,IIT Madras
+1243,"Literature, Culture and Media",Humanities and Social Sciences,IIT Roorkee
+1244,Exploring Human Values: Visions of  Happiness and Perfect Society,Humanities and Social Sciences,IIT Kanpur
+1245,English Language for Competitive Exams,Humanities and Social Sciences,IIT Madras
+1246,Ethics,Humanities and Social Sciences,IIT Madras
+1247,Psychology of adjustment,Humanities and Social Sciences,IIT Kanpur
+1248,Public Economics,Humanities and Social Sciences,IIT Kanpur
+1249,History of modern economic thought,Humanities and Social Sciences,IIT Kanpur
+1250,The Renaissance and Shakespeare,Humanities and Social Sciences,IIT Madras
+1251,Technology Transfer through Joint Venture,Humanities and Social Sciences,IIT Kharagpur
+1252,Contemporary Indian Philosophy,Humanities and Social Sciences,IIT Bombay
+1253,Introduction to Sociology,Humanities and Social Sciences,IIT Kanpur
+1254,Legal Compliance for Incorporating Startup,Humanities and Social Sciences,IIT Kharagpur
+1255,Literature for competitive exams,Humanities and Social Sciences,IIT Madras
+1256,Contemporary Issues in Philosophy of Mind & Cognition,Humanities and Social Sciences,IIT Bombay
+1257,Contemporary Issues in Philosophy of Mind & Cognition,Humanities and Social Sciences,IIT Bombay
+1258,Money & Banking,Humanities and Social Sciences,IIT Kanpur
+1259,History of English Language and Literature,Humanities and Social Sciences,IIT Madras
+1260,Health Psychology,Humanities and Social Sciences,IIT Bombay
+1261,Patent Drafting for Beginners,Humanities and Social Sciences,IIT Madras
+1262,Human Adjustment Processes,Humanities and Social Sciences,IIT Kanpur
+1263,Business English Communication,Humanities and Social Sciences,IIT Madras
+1264,Selected Topics in Psychology,Humanities and Social Sciences,IIT Kanpur
+1265,Postmodernism in Literature,Humanities and Social Sciences,IIT Madras
+1266,Body language: Key to professional Success,Humanities and Social Sciences,IIT Roorkee
+1267,Interpersonal Skills,Humanities and Social Sciences,IIT Roorkee
+1268,Soft Skill Development,Humanities and Social Sciences,IIT Kharagpur
+1269,Social Cognition,Humanities and Social Sciences,IIT Bombay
+1270,Symbolic Logic,Humanities and Social Sciences,IIT Kharagpur
+1271,Indian Fiction in English,Humanities and Social Sciences,IIT Madras
+1272,Elements of Visual Representation,Humanities and Social Sciences,IIT Kanpur
+1273,Introduction on Intellectual Property to Engineers and Technologists,Humanities and Social Sciences,IIT Kharagpur
+1274,Introduction to cultural studies,Humanities and Social Sciences,IIT Madras
+1275,Understanding Creativity and Creative Writing,Humanities and Social Sciences,IIT Bombay
+1276,Globalization and Culture,Humanities and Social Sciences,IIT Kharagpur
+1277,Intellectual Property,Humanities and Social Sciences,IIT Madras
+1278,Practical English: Learning and Teaching(Course sponsored by Aricent),Humanities and Social Sciences,IIT Kanpur
+1279,Short Fiction in Indian Literature,Humanities and Social Sciences,IIT Madras
+1280,Emotional Intelligence,Humanities and Social Sciences,IIT Kharagpur
+1281,Brief introduction to Psychology,Humanities and Social Sciences,IIT Kanpur
+1282,Speaking Effectively,Humanities and Social Sciences,IIT Kharagpur
+1283,Great Experiments in Psychology,Humanities and Social Sciences,IIT Kharagpur
+1284,Psychiatry:An overview,Humanities and Social Sciences,IIT Kanpur
+1285,Human resource development,Humanities and Social Sciences,IIT Kharagpur
+1286,The Nineteenth-Century English Novel,Humanities and Social Sciences,IIT Madras
+1287,Educational leadership,Humanities and Social Sciences,IIT Kharagpur
+1288,Feminist Writings,Humanities and Social Sciences,IIT Madras
+1289,Introduction to World Literature,Humanities and Social Sciences,IIT Madras
+1290,Introduction to Environmental Economics,Humanities and Social Sciences,IIT Roorkee
+1291,Managing Intellectual Property in Universities,Humanities and Social Sciences,IIT Madras
+1292,Effective Writing,Humanities and Social Sciences,IIT Roorkee
+1293,"English Literature of the Romantic Period, 1798-1832",Humanities and Social Sciences,IIT Madras
+1294,International Trade - Theory and Empirics,Humanities and Social Sciences,IIT Roorkee
+1295,Introduction to Indian Art - An appreciation,Humanities and Social Sciences,IIT Kanpur
+1296,Basic Concepts of Modal Logic,Humanities and Social Sciences,IIT Kanpur
+1297,Strategic Performance Management,Humanities and Social Sciences,IIT Kharagpur
+1298,Probability and Stochastic for Finance II,Humanities and Social Sciences,IIT Kanpur
+1299,Introduction to Psychology,Humanities and Social Sciences,IIT Kanpur
+1300,Folk and Minor Art in India,Humanities and Social Sciences,IIT Kanpur
+1301,Developing Soft Skills and Personality,Humanities and Social Sciences,IIT Kanpur
+1302,How the Brain Creates Mind,Humanities and Social Sciences,IIT Kanpur
+1303,Understanding Design Thinking & People Centred Design,Humanities and Social Sciences,IIT Kanpur
+1304,Handling Large_Scale Unit Level Data Using STATA,Humanities and Social Sciences,IIT Roorkee
+1305,Introduction to Basic Spoken Sanskrit,Humanities and Social Sciences,IIT Kharagpur
+1306,Appreciating Linguistics: A typological approach,Humanities and Social Sciences,IIT Madras
+1307,"Water, Society and Sustainability",Humanities and Social Sciences,IIT Kharagpur
+1308,Inclusion and Technology Design,Humanities and Social Sciences,IIT Madras
+1309,Energy Economics And Policy,Humanities and Social Sciences,IIT Madras
+1310,Enhancing Soft Skills and Personality,Humanities and Social Sciences,IIT Kanpur
+1311,The Victorian Gothic Short Story,Humanities and Social Sciences,IIT Madras
+1312,Postcolonial Literature,Humanities and Social Sciences,IIT Kanpur
+1313,Introducing Modern Western Art: Movements and Artists,Humanities and Social Sciences,IIT Kanpur
+1314,German-II,Humanities and Social Sciences,IIT Madras
+1315,Indian Poetry in English,Humanities and Social Sciences,IIT Roorkee
+1316,German-I,Humanities and Social Sciences,IIT Madras
+1317,Exploring Survey Data on Health Care,Humanities and Social Sciences,IIT Roorkee
+1318,Contextualizing Gender,Humanities and Social Sciences,IIT Roorkee
+1319,Employment Communication A Lab based course,Humanities and Social Sciences,IIT Kharagpur
+1320,Disability Studies: An introduction,Humanities and Social Sciences,IIT Madras
+1321,"Cognition, Transformation and Lives",Humanities and Social Sciences,IIT Kanpur
+1322,Visual Perception and Art: A Survey Across the Cultures,Humanities and Social Sciences,IIT Kanpur
+1323,Introduction to Film Studies,Humanities and Social Sciences,IIT Madras
+1324,Introduction to Basic Cognitive Processes,Humanities and Social Sciences,IIT Kanpur
+1325,Literary Criticism (From Plato to Leavis),Humanities and Social Sciences,IIT Madras
+1326,Public Speaking,Humanities and Social Sciences,IIT Roorkee
+1327,Calculus of One Real Variable,Humanities and Social Sciences,IIT Kanpur
+1328,Twentieth Century Fiction,Humanities and Social Sciences,IIT Madras
+1329,Partition of India in Print Media and Cinema,Humanities and Social Sciences,IIT Roorkee
+1330,Digital Human Modeling and Simulation for Virtual Ergonomics Evaluation,Humanities and Social Sciences,IIT Guwahati
+1331,An Introduction to Microeconomics,Humanities and Social Sciences,IIT Kanpur
+1332,Modern Indian Writing in Translation,Humanities and Social Sciences,IIT Madras
+1333,Introduction to Advanced Cognitive Processes,Humanities and Social Sciences,IIT Kanpur
+1334,"Introduction to Political Ideologies : Contexts, Ideas, and Practices",Humanities and Social Sciences,IIT Madras
+1335,Feminism : Concepts and Theories,Humanities and Social Sciences,IIT Madras
+1336,Organisation Management,Management,IIT Delhi
+1337,Quality Design and Control,Management,IIT Kharagpur
+1338,Managing Services(Course sponsored by Aricent),Management,IIT Kanpur
+1339,Business Analytics For Management Decision,Management,IIT Kharagpur
+1340,Strategic Management - The Competitive Edge,Management,IISc Bangalore
+1341,Quantitative Finance,Management,IIT Kanpur
+1342,Soft Skills For Business Negotiations And Marketing Strategies,Management,IIT Kharagpur
+1343,Research Writing,Management,IIT Kharagpur
+1344,Marketing Management-I,Management,IIT Kanpur
+1345,Engineering Econometrics,Management,IIT Kharagpur
+1346,Production and Operation Management,Management,IIT Roorkee
+1347,Marketing Management - II,Management,IIT Kanpur
+1348,Industrial Safety Engineering,Management,IIT Kharagpur
+1349,"Services Marketing : Integrating People, Technology, Strategy",Management,IIT Roorkee
+1350,Management of Inventory Systems,Management,IIT Kharagpur
+1351,"Managerial Skills for Interpersonal Dynamics	",Management,IIT Roorkee
+1352,Selected Topics in Decision Modeling,Management,IIT Kharagpur
+1353,Financial Management For Managers,Management,IIT Roorkee
+1354,Project Management,Management,IIT Kanpur
+1355,Ethics in Engineering Practice,Management,IIT Kharagpur
+1356,International Business,Management,IIT Roorkee
+1357,Systems Engineering: Theory & Practice,Management,IIT Kanpur
+1358,Path Integral Methods in Physics & Finance,Management,IIT Roorkee
+1359,Managerial Accounting,Management,IIT Bombay
+1360,Introduction to Marketing Essentials,Management,IIT Roorkee
+1361,Managerial Accounting,Management,IIT Bombay
+1362,Design Thinking - A Primer,Management,IIT Madras
+1363,Managerial Economics,Management,IIT Bombay
+1364,Principles of Management,Management,IIT Roorkee
+1365,Organization Theory/Structure and Design,Management,IIT Roorkee
+1366,Total Quality Management - I,Management,IIT Kanpur
+1367,Talent Acquisition and Management,Management,IIT Roorkee
+1368,Econometric Modelling,Management,IIT Roorkee
+1369,Quality Management,Management,IIT Bombay
+1370,Security Analysis & Portfolio Management,Management,IIT Roorkee
+1371,Management of New Products and Services,Management,IIT Kanpur
+1372,Total Quality Management - II,Management,IIT Kanpur
+1373,Decision making with spreadsheet,Management,IIT Roorkee
+1374,"Practitioners Course In Descriptive, Predictive And Prescriptive Analytics",Management,IIT Kanpur
+1375,Decision-Making Under Uncertainty,Management,IIT Madras
+1376,Integrated Marketing Communication,Management,IIT Roorkee
+1377,Decision making using financial accounting,Management,IIT Madras
+1378,Leadership and Team Effectiveness,Management,IIT Roorkee
+1379,Product and Brand Management,Management,IIT Roorkee
+1380,Quantitative Investment Management,Management,IIT Roorkee
+1381,Strategic Sales Management,Management,IIT Roorkee
+1382,Microeconomics: Theory & Applications,Management,IIT Kanpur
+1383,Entrepreneurship,Management,IIT Madras
+1384,Data Analysis and Decision Making - I,Management,IIT Kanpur
+1385,Economics of Health and Health Care,Management,IIT Kanpur
+1386,Simulation of Business Systems: An Applied Approach,Management,IIT Kanpur
+1387,Managing change in organizations,Management,IIT Kharagpur
+1388,Financial Institutions and Markets,Management,IIT Kharagpur
+1389,Organizational Behaviour,Management,IIT Madras
+1390,Sales and Distribution Management,Management,IIT Kharagpur
+1391,The Future of Manufacturing Business: Role of Digital Technologies,Management,IIT Madras
+1392,Six Sigma,Management,IIT Kharagpur
+1393,Financial accounting - IITMandi,Management,IIT Madras
+1394,Technology Forecasting for strategic decision making _ An Introduction,Management,EM Strasbourg Business School
+1395,Leadership for India Inc: Practical concepts and Constructs,Management,IIT Madras
+1396,Organisation of Engineering Systems and Human Resources Management,Management,IIT Delhi
+1397,Strategy and Technology: A Practical Primer,Management,IIT Madras
+1398,Performance and Reward Management,Management,IIT Kharagpur
+1399,The Ethical Corporation,Management,IIT Kharagpur
+1400,Intellectual Property Rights and Competition Law,Management,IIT Kharagpur
+1401,Patent Search for Engineers and Lawyers,Management,IIT Kharagpur
+1402,Economic Growth and Development,Management,IIT Guwahati
+1403,Management of Field Sales,Management,IIT Kanpur
+1404,Modelling and Analytics for Supply Chain Management,Management,IIT Kharagpur
+1405,Data Analysis & Decision Making - II,Management,IIT Kanpur
+1406,Marketing Analytics,Management,IIT Kharagpur
+1407,Advanced Green Manufacturing Systems,Management,IIT Kanpur
+1408,Management of Commercial Banking,Management,IIT Kharagpur
+1409,Behavioral and Personal Finance,Management,IIT Kharagpur
+1410,Customer Relationship Management,Management,IIT Kharagpur
+1411,Principles of Management - IITKGP,Management,IIT Kharagpur
+1412,Decision Support System for Managers,Management,IIT Kharagpur
+1413,Management Information System,Management,IIT Kharagpur
+1414,Data Analysis & Decision Making - III,Management,IIT Kanpur
+1415,Applied Econometrics,Management,IIT Kharagpur
+1416,Organizational Behaviour - II,Management,IIT Kharagpur
+1417,Automation in Production Systems and Management,Management,IIT Kharagpur
+1418,Corporate Finance,Management,IIT Kharagpur
+1419,International Marketing,Management,IIT Kharagpur
+1420,Retail Management,Management,IIT Kharagpur
+1421,Business Law for Managers,Management,IIT Kharagpur
+1422,Safety and Risk Analytics,Management,IIT Kharagpur
+1423,Strategic Management for Competitive Advantage,Management,IIT Kharagpur
+1424,Human Factors Engineering,Management,IIT Kharagpur
+1425,Matrix Solver,Management,IIT Kharagpur
+1426,Financial Accounting,Management,IIT Bombay
+1427,Cost Accounting,Management,IIT Bombay
+1428,Strategic Management,Management,IISc Bangalore
+1429,Introduction to Stochastic Processes,Management,IIT Bombay
+1430,Introduction to System Dynamics Modeling,Management,IIT Bombay
+1431,Global Supply Chain Management,Management,IISc Bangalore
+1432,Organization Development and Change in 21st Century,Management,IIT Bombay
+1433,Managerial Economics,Management,IIT Bombay
+1434,Quality Control and Improvement with MINITAB,Management,IIT Bombay
+1435,Business and Sustainable Development,Management,IIT Bombay
+1436,Bank Management,Management,IIT Madras
+1437,Infrastructure Finance,Management,IIT Madras
+1438,Manufacturing Systems Management,Management,IIT Madras
+1439,Operations and Supply Chain Management,Management,IIT Madras
+1440,Services Operations Management,Management,IIT Madras
+1441,Financial Statement Analysis and Reporting,Management,IIT Roorkee
+1442,Business Analysis for Engineers,Management,IIT Madras
+1443,Supply Chain Analytics,Management,IIT Roorkee
+1444,Consumer Behaviour,Management,IIT Kharagpur
+1445,Econometric Modelling,Management,IIT Kharagpur
+1446,International Finance,Management,IIT Kharagpur
+1447,Marketing research and analysis,Management,IIT Roorkee
+1448,Organizational Behaviour,Management,IIT Kharagpur
+1449,Project management for managers,Management,IIT Roorkee
+1450,Organizational Behaviour,Management,IIT Kharagpur
+1451,Security Analysis and Portfolio Management,Management,IIT Kharagpur
+1452,Operations Research Applications &ndash; Linear and Integer Programming,Management,IIT Madras
+1453,Security Analysis and Portfolio Management,Management,IIT Kharagpur
+1454,Services Marketing,Management,IIT Kharagpur
+1455,Introduction to Operations Research,Management,IIT Madras
+1456,Six Sigma,Management,IIT Kharagpur
+1457,Introduction to Data Analytics(Course sponsored by Aricent),Management,IIT Madras
+1458,Business analytics and data mining Modeling using R,Management,IIT Roorkee
+1459,Working Capital Management,Management,IIT Roorkee
+1460,"Innovation, Business Models and Entrepreneurship",Management,IIT Roorkee
+1461,Business Analytics & Data Mining Modeling Using R Part II,Management,IIT Roorkee
+1462,Introduction to Stochastic Processes and its Applications,Management,IIT Kanpur
+1463,Introduction to Data analytics,Management,IIT Madras
+1464,International Business Communication,Management,IIT Kharagpur
+1465,International Business Communication,Management,IIT Kharagpur
+1466,Econometric Modelling,Management,IIT Kharagpur
+1467,Consumer Behaviour,Management,IIT Kharagpur
+1468,International Finance,Management,IIT Kharagpur
+1469,Patent Law for Engineers and Scientists,Management,IIT Madras
+1470,Applied Multivariate Statistical Modeling,Management,IIT Kharagpur
+1471,Global Marketing Management,Management,IIT Roorkee
+1472,Marketing Research and Analysis-II,Management,IIT Roorkee
+1473,Business Statistics,Management,IIT Roorkee
+1474,Economics / Management / Entrepreneurship,Management,IIT Kharagpur
+1475,MCDM Techniques Using R,Management,IIT Roorkee
+1476,Manufacturing Strategy,Management,IIT Roorkee
+1477,Principles of Human Resource Management,Management,IIT Kharagpur
+1478,Integrated Marketing Management,Management,IISc Bangalore
+1479,Commodity Derivatives and Risk Management,Management,IIT Kharagpur
+1480,Strategic Communication for Sustainable Development,Management,IIT Kharagpur
+1481,Consumer Behaviour,Management,IIT Kharagpur
+1482,Foundation Course in Managerial Economics,Management,IIT Kharagpur
+1483,Knowledge Management,Management,IIT Kharagpur
+1484,Services Marketing: A Practical Approach,Management,IIT Kharagpur
+1485,Training Of Trainers,Management,IIT Roorkee
+1486,Strategic Marketing - Contemporary Issues,Management,IIT Kanpur
+1487,"Business Ethics
+",Management,IIT Kharagpur
+1488,Management Accounting,Management,IIT Roorkee
+1489,Gender justice and workplace security,Management,IIT Kharagpur
+1490,Financial Derivatives & Risk Management,Management,IIT Roorkee
+1491,Corporate social responsibility,Management,IIT Kharagpur
+1492,Business Analytics & Text Mining Modeling Using Python,Management,IIT Roorkee
+1493,Decision modeling,Management,IIT Kharagpur
+1494,Toyota Production System,Management,IIT Roorkee
+1495,E-business,Management,IIT Kharagpur
+1496,Strategy: An Introduction to game Theory,Management,IIT Kanpur
+1497,Design and Analysis of Experiments,Management,IIT Kharagpur
+1498,Graph Theory,Mathematics,IIT Madras
+1499,Linear Algebra,Mathematics,IISc Bangalore
+1500,Linear Algebra,Mathematics,IIT Madras
+1501,Mathematical Logic,Mathematics,IIT Madras
+1502,Real Analysis,Mathematics,IIT Madras
+1503,Topology,Mathematics,IIT Madras
+1504,Advanced Engineering Mathematics,Mathematics,IIT Kharagpur
+1505,Functional Analysis,Mathematics,IIT Kharagpur
+1506,Numerical methods of Ordinary and Partial Differential Equations,Mathematics,IIT Kharagpur
+1507,Optimization,Mathematics,IIT Kharagpur
+1508,Probability and Statistics,Mathematics,IIT Kharagpur
+1509,Regression Analysis,Mathematics,IIT Kharagpur
+1510,Statistical Inference,Mathematics,IIT Kharagpur
+1511,Applied Multivariate Analysis,Mathematics,IIT Kanpur
+1512,Calculus of Variations and Integral Equations,Mathematics,IIT Kanpur
+1513,Discrete Mathematics,Mathematics,IIT Kanpur
+1514,Mathematical Methods and its Applications,Mathematics,IIT Roorkee
+1515,Linear programming and Extensions,Mathematics,IIT Kanpur
+1516,Numerical Solution of ODEs,Mathematics,IIT Kanpur
+1517,Ordinary Differential Equations,Mathematics,IIT Kanpur
+1518,"Integral equations, calculus of variations and its applications",Mathematics,IIT Roorkee
+1519,Probability and Distributions,Mathematics,IIT Kanpur
+1520,Nonlinear programming,Mathematics,IIT Roorkee
+1521,Numerical methods,Mathematics,IIT Roorkee
+1522,Dynamic Data Assimilation: an introduction,Mathematics,IIT Madras
+1523,Numerical Linear Algebra,Mathematics,IIT Roorkee
+1524,An invitation to mathematics,Mathematics,IIT Madras
+1525,Numerical Methods: Finite difference approach ,Mathematics,IIT Roorkee
+1526,"Advanced Complex Analysis - Part 1:Zeros of Analytic Functions,Analytic continuation, Monodromy, Hyperbolic Geometry and the Reimann Mapping Theorem",Mathematics,IIT Madras
+1527,Multivariable Calculus,Mathematics,IIT Roorkee
+1528,Discrete Mathematics,Mathematics,IIT Madras
+1529,An introduction to smooth manifolds,Mathematics,IISc Bangalore
+1530,Ordinary and Partial Differential Equations and Applications,Mathematics,IIT Roorkee
+1531,Measure Theory,Mathematics,IISc Bangalore
+1532,Formal Languages and Automata Theory,Mathematics,IIT Guwahati
+1533,Matrix Analysis with Applications,Mathematics,IIT Roorkee
+1534,Introduction to Algebraic Geometry and Commutative Algebra,Mathematics,IISc Bangalore
+1535,Mathematical Modelling: Analysis and Applications,Mathematics,IIT Roorkee
+1536,Number Theory,Mathematics,IIT Guwahati
+1537,Partial Differential Equations,Mathematics,IIT Guwahati
+1538,A Basic Course in Real Analysis,Mathematics,IIT Kharagpur
+1539,Stochastic Processes,Mathematics,IIT Guwahati
+1540," Advanced Complex Analysis - Part 2:  Compactness of Meromorphic Functions  in the Spherical Metric, Spherical Derivative, Normality,  Theorems of Marty-Zalcman-Montel-Picard-Royden-Schottky",Mathematics,IIT Madras
+1541,Dynamical System and Control,Mathematics,IIT Roorkee
+1542,Advanced Engineering Mathematics,Mathematics,IIT Roorkee
+1543,First Course on Partial Differential Equations _ I,Mathematics,IISc Bangalore
+1544,"Basic Algebraic Geometry : Varieties, Morphisms, Local Rings, Function Fields and Nonsingularity",Mathematics,IIT Madras
+1545,Introduction to Commutative Algebra,Mathematics,IIT Madras
+1546,Differential equations for engineers,Mathematics,IIT Madras
+1547,Statistical Methods for Scientists and Engineers ,Mathematics,IIT Kharagpur
+1548,Numerical Analysis,Mathematics,IIT Madras
+1549,Graph Theory,Mathematics,IISER Pune
+1550,Higher Engineering Mathematics,Mathematics,IIT Roorkee
+1551,Operations Research,Mathematics,IIT Roorkee
+1552,First Course on Partial Differential Equations - II,Mathematics,IISc Bangalore
+1553,Advanced Abstract Algebra,Mathematics,IIT Delhi
+1554,Linear Algebra,Mathematics,IIT Delhi
+1555,Linear Programming Problems,Mathematics,IIT Delhi
+1556,Matrix Theory,Mathematics,IISc Bangalore
+1557,Stochastic Processes,Mathematics,IIT Delhi
+1558,Transform Techniques for Engineers,Mathematics,IIT Madras
+1559,Introduction to probability and Statistics,Mathematics,IIT Madras
+1560,Introduction to Abstract Group Theory,Mathematics,IIT Madras
+1561,Essential Mathematics for Machine Learning,Mathematics,IIT Roorkee
+1562,Probability and Statistics,Mathematics,IIT Kharagpur
+1563,"Groups : Motion, symmetry and puzzles",Mathematics,IIT Madras
+1564,Applied Multivariate Statistical Modeling,Mathematics,IIT Kharagpur
+1565,Convex Optimization,Mathematics,IIT Kanpur
+1566,Partial Differential Equations (PDE) for Engineers: Solution by Separation of Variables,Mathematics,IIT Kharagpur
+1567,Foundations of Optimization,Mathematics,IIT Kanpur
+1568,Econometric Theory,Mathematics,IIT Kanpur
+1569,Algebra II,Mathematics,IIT Bombay
+1570,Sampling Theory,Mathematics,IIT Kanpur
+1571,Algebraic Topology,Mathematics,IIT Bombay
+1572,Linear Regression Analysis,Mathematics,IIT Kanpur
+1573,Introductory Course in Real Analysis,Mathematics,IIT Kharagpur
+1574,Elementary Numerical Analysis,Mathematics,IIT Bombay
+1575,Analysis of variance and design of experiment-I,Mathematics,IIT Kanpur
+1576,Modeling Transport Phenomena of Microparticles,Mathematics,IIT Kharagpur
+1577,Introduction to Probability Theory,Mathematics,IIT Bombay
+1578,Constrained and unconstrained optimization,Mathematics,IIT Kharagpur
+1579,Measure and Integration,Mathematics,IIT Bombay
+1580,Analysis of variance and design of experiment-II,Mathematics,IIT Kanpur
+1581,Probability Theory and Applications,Mathematics,IIT Kanpur
+1582,Introduction To Rings And Fields,Mathematics,IIT Madras
+1583,"Basic Calculus for Engineers, Scientists and Economists",Mathematics,IIT Kanpur
+1584,Probabilistic Methods in PDE,Mathematics,IISER Pune
+1585,Linear Algebra,Mathematics,IIT Madras
+1586,Introduction to Abstract and Linear Algebra,Mathematics,IIT Kharagpur
+1587,Probability and Stochastics for finance,Mathematics,IIT Kanpur
+1588,Algebra - I,Mathematics,IIT Madras
+1589,Computational Commutative Algebra,Mathematics,IIT Madras
+1590,Laplace Transform,Mathematics,IIT Madras
+1591,Differential Calculus in Several Variables,Mathematics,IIT Kanpur
+1592,Measure Theory,Mathematics,IIT Madras
+1593,Complex Analysis,Mathematics,IIT Madras
+1594,Complex Analysis,Mathematics,IIT Guwahati
+1595,Real Analysis I,Mathematics,IIT Madras
+1596,Curves and Surfaces,Mathematics,IIT Kanpur
+1597,Variational Calculus and its applications in Control Theory and Nanomechanics,Mathematics,IIT Delhi
+1598,Engineering Mathematics - I,Mathematics,IIT Kharagpur
+1599,Introduction to Galois Theory,Mathematics,CMI
+1600,Linear Regression Analysis and Forecasting,Mathematics,IIT Kanpur
+1601,Integral and Vector Calculus,Mathematics,IIT Kharagpur
+1602,Basic Calculus _ 1,Mathematics,IIT Madras
+1603,Transform Calculus and its applications in Differential Equations,Mathematics,IIT Kharagpur
+1604,Functional Analysis,Mathematics,IMSc
+1605,Introduction to R Software,Mathematics,IIT Kanpur
+1606,Statistical Inference,Mathematics,IIT Kharagpur
+1607,Mathematical Methods in Physics 1,Mathematics,IISER Bhopal
+1608,Computational Mathematics with SageMath,Mathematics,"Institute of Chemical Technology, Mumbai"
+1609,Introduction to Probability (with examples using R),Mathematics,ISI Bangalore
+1610,Algebra _ II,Mathematics,IMSc
+1611,Mathematical Methods in Physics 2,Mathematics,IISER Bhopal
+1612,Real Analysis II,Mathematics,IIT Palakkad
+1613,Sobolev Spaces and Partial Differential Equations,Mathematics,IMSc
+1614,Combinatorics,Mathematics,IIT Madras
+1615,Mathematical Methods for Boundary Value Problems,Mathematics,IIT Kharagpur
+1616,Geometry of Vision,Mathematics,CMI
+1617,Engineering Mathematics II,Mathematics,IIT Kharagpur
+1618,Algebraic Combinatorics,Mathematics,IIT Madras
+1619,An invitation to Topology,Mathematics,IIT Madras
+1620,Operator Theory,Mathematics,IIT Madras
+1621,Measure and Integration,Mathematics,IIT Madras
+1622,Approximate Reasoning using Fuzzy Set Theory,Mathematics,IIT Madras
+1623,"Probability - II with Examples Using R
+",Mathematics,IIT Madras
+1624,Descriptive Statistics with R Software,Mathematics,IIT Kanpur
+1625,"Calculus of Several Real
+Variables",Mathematics,IIT Kanpur
+1626,Advanced Calculus For Engineers,Mathematics,IIT Kharagpur
+1627,Linear Algebra,Mathematics,IIT Kanpur
+1628,Rings and Modules,Mathematics,IIT Kharagpur
+1629,Computational Number Theory and Algebra,Mathematics,IIT Kanpur
+1630,Stochastic Processes - 1,Mathematics,IIT Delhi
+1631,Basic Calculus 1 and 2,Mathematics,IIT Kanpur
+1632,Advanced Partial Differential Equations,Mathematics,IIT Kanpur
+1633,Stochastic Processes,Mathematics,IIT Delhi
+1634,Essentials of Data Science With R Software _ 1: Probability and Statistical Inference,Mathematics,IIT Kanpur
+1635,Essentials of Data Science With R Software _ 2: Sampling Theory and Linear Regression Analysis,Mathematics,IIT Kanpur
+1636,Mathematical Finance,Mathematics,IIT Guwahati
+1637,Mathematics in India - From Vedic Period to Modern Times ,Mathematics,IIT Bombay
+1638,Measure Theoretic Probability 1,Mathematics,IIT Kanpur
+1639,Chaotic Dynamical Systems,Mathematics,IIT Delhi
+1640,Introduction to Probability Theory and Stochastic Processes,Mathematics,IIT Delhi
+1641,Statistical Inference,Mathematics,IIT Delhi
+1642,Foundations of R Software,Mathematics,IIT Kanpur
+1643,Mathematical Portfolio Theory,Mathematics,IIT Guwahati
+1644,Foundations of R Software (In Hindi Language),Mathematics,IIT Kanpur
+1645,Measure theory,Mathematics,IIT Bombay
+1646,Integral Transforms And Their Applications,Mathematics,IIT Madras
+1647,"Introduction to Fuzzy Set Theory, Arithmetic and Logic",Mathematics,IIT Delhi
+1648,"Calculus for Economics,Commerce and Management",Mathematics,IIT Bombay
+1649,Introduction to Methods of Applied Mathematics,Mathematics,IIT Delhi
+1650,Advanced Probability Theory,Mathematics,IIT Delhi
+1651,Discrete-time Markov Chains and Poisson Processes,Mathematics,IIT Guwahati
+1652,Introduction to Queueing Theory,Mathematics,IIT Guwahati
+1653,Scientific Computing using Matlab,Mathematics,IIT Delhi
+1654,Basic Linear Algebra,Mathematics,IIT Bombay
+1655,Commutative Algebra,Mathematics,IIT Bombay
+1656,Galois Theory,Mathematics,IIT Bombay
+1657,Non-parametric Statistical Inference,Mathematics,IIT Delhi
+1658,Matrix Computation and its applications,Mathematics,IIT Delhi
+1659,Basic Real Analysis,Mathematics,IIT Bombay
+1660,Introduction to Probability Theory and Statistics,Mathematics,IIT Delhi
+1661,A basic course in number theory,Mathematics,IIT Bombay
+1662,Introduction to Algebraic Topology (Part_I),Mathematics,IIT Bombay
+1663,Introduction to Algebraic Topology (Part-II),Mathematics,IIT Bombay
+1664,Partial Differential Equations,Mathematics,IIT Bombay
+1665,Advanced Matrix Theory and Linear Algebra for Engineers,Mathematics,IISc Bangalore
+1666,An introduction to Point-Set-Topology Part-I,Mathematics,IIT Bombay
+1667,An introduction to Point-Set-Topology Part-II,Mathematics,IIT Bombay
+1668,Complex Analysis,Mathematics,IIT Roorkee
+1669,Ordinary Differential Equations and Applications,Mathematics,IISc Bangalore
+1670,Discrete Mathematics,Mathematics,IIT Roorkee
+1671,Numerical Analysis,Mathematics,IIT Roorkee
+1672,Numerical Solution of Ordinary and Partial Differential Equations,Mathematics,IIT Roorkee
+1673,An Introduction to Riemann Surfaces and Algebraic Curves: Complex 1-Tori and Elliptic Curves,Mathematics,IIT Madras
+1674,Fourier Analysis,Mathematics,IIT Madras
+1675,Functional Analysis,Mathematics,IIT Madras
+1676,Basics of Finite Element Analysis-I,Mechanical Engineering,IIT Kanpur
+1677,Introduction to Soft Matter,Mechanical Engineering,IISc Bangalore
+1678,Basics of Noise and Its Measurements,Mechanical Engineering,IIT Kanpur
+1679,"Advanced Fluid Mechanics
+",Mechanical Engineering,IIT Kharagpur
+1680,Manufacturing Process Technology -Part I,Mechanical Engineering,IIT Kanpur
+1681,Spur and helical gear cutting,Mechanical Engineering,IIT Kharagpur
+1682,Laws of thermodynamics,Mechanical Engineering,IIT Kharagpur
+1683,Energy conservation and waste heat recovery,Mechanical Engineering,IIT Kharagpur
+1684,Mechatronics and Manufacturing Automation,Mechanical Engineering,IIT Guwahati
+1685,Experimental Stress Analysis: An Overview,Mechanical Engineering,IIT Madras
+1686,Mechanics of Human Movement,Mechanical Engineering,IIT Madras
+1687,"Design for Quality, Manufacturing and Assembly",Mechanical Engineering,IIT Madras
+1688,Surrogates and Approximations in Engineering Design,Mechanical Engineering,IIT Madras
+1689,Robotics: Basics and Selected Advanced Concepts,Mechanical Engineering,IISc Bangalore
+1690,Nature and Properties of Materials,Mechanical Engineering,IIT Kanpur
+1691,Manufacturing Process Technology - II,Mechanical Engineering,IIT Kanpur
+1692,Basics of Finite Element Analysis - II,Mechanical Engineering,IIT Kanpur
+1693, Steel Quality : Role of Secondary Refining & Continuous Casting,Mechanical Engineering,IIT Madras
+1694,Introduction to Mechanical Micro Machining,Mechanical Engineering,IIT Kharagpur
+1695,Machinery Fault Diagnosis and Signal Processing,Mechanical Engineering,IIT Kharagpur
+1696,Metal Cutting and Machine tools,Mechanical Engineering,IIT Kharagpur
+1697,Gear and Gear Unit Design : Theory and Practice,Mechanical Engineering,IIT Kharagpur
+1698,Product Design Using Value Engineering,Mechanical Engineering,IIT Roorkee
+1699,Principles of Vibration Control,Mechanical Engineering,IIT Kanpur
+1700,Traditional and Non-Traditional Optimization Tools,Mechanical Engineering,IIT Kharagpur
+1701,Selection Of Nanomaterials For Energy Harvesting And Storage Application,Mechanical Engineering,IIT Roorkee
+1702,Fundamentals of Acoustics,Mechanical Engineering,IIT Kanpur
+1703,Mechanism and Robot Kinematics,Mechanical Engineering,IIT Kharagpur
+1704,Sound and Structural Vibration,Mechanical Engineering,IISc Bangalore
+1705,Vibrations of Plates and Shells,Mechanical Engineering,IISc Bangalore
+1706,Robotics and Control : Theory and Practice,Mechanical Engineering,IIT Roorkee
+1707,Dynamics and Control of Mechanical Systems,Mechanical Engineering,IISc Bangalore
+1708,Acoustic Materials and Metamaterials,Mechanical Engineering,IIT Roorkee
+1709,Heat Treatment and Surface Hardening - II,Mechanical Engineering,IIT Kanpur
+1710,Power Plant Engineering,Mechanical Engineering,IIT Roorkee
+1711,Phase Transformation in Materials,Mechanical Engineering,IIT Kanpur
+1712,Principles of Industrial Engineering,Mechanical Engineering,IIT Roorkee
+1713,Manufacturing of Composites,Mechanical Engineering,IIT Kanpur
+1714,Applied Ergonomics,Mechanical Engineering,IIT Kanpur
+1715,Theory Of Mechanisms,Mechanical Engineering,IIT Madras
+1716,Heat Exchangers: Fundamentals and Design Analysis,Mechanical Engineering,IIT Kharagpur
+1717,Sustainability through Green Manufacturing Systems: An Applied Approach,Mechanical Engineering,IIT Kanpur
+1718,Robotics,Mechanical Engineering,IIT Kharagpur
+1719,Advanced Machining Processes,Mechanical Engineering,IIT Guwahati
+1720,Mechatronics,Mechanical Engineering,IIT Roorkee
+1721,Noise Management & Control,Mechanical Engineering,IIT Kanpur
+1722,Design Practice,Mechanical Engineering,IIT Kanpur
+1723,Introduction To Composites,Mechanical Engineering,IIT Kanpur
+1724,Product Design and Manufacturing,Mechanical Engineering,IIT Kanpur
+1725, Computational Fluid Dynamics,Mechanical Engineering,IIT Kharagpur
+1726,Engineering Mechanics,Mechanical Engineering,IIT Madras
+1727,Foundations of Computational Materials Modelling,Mechanical Engineering,IIT Madras
+1728,Concepts of Thermodynamics,Mechanical Engineering,IIT Kharagpur
+1729,Fundamentals of combustion for propulsion,Mechanical Engineering,IIT Madras
+1730,Electronic Packaging and Manufacturing,Mechanical Engineering,IIT Kharagpur
+1731,Kinematics of Mechanisms and Machines,Mechanical Engineering,IIT Kharagpur
+1732,Introduction to Fluid Mechanics,Mechanical Engineering,IIT Kharagpur
+1733,Basics of Materials Engineering,Mechanical Engineering,IIT Madras
+1734,Computational Fluid Dynamics using Finite Volume Method,Mechanical Engineering,IIT Madras
+1735,Conduction and Convection Heat Transfer,Mechanical Engineering,IIT Kharagpur
+1736,Phase Equilibria in Materials (Nature & Properties of Materials-II),Mechanical Engineering,IIT Kanpur
+1737,Advanced Composites,Mechanical Engineering,IIT Kanpur
+1738,Engineering Metrology,Mechanical Engineering,IIT Kanpur
+1739,Wheeled Mobile Robots,Mechanical Engineering,IIT Palakkad
+1740,Smart Materials and Intelligent System Design,Mechanical Engineering,IIT Kanpur
+1741,Fundamentals of Combustion,Mechanical Engineering,IIT Madras
+1742,Computational Heat Transfer and Fluid Flow,Mechanical Engineering,IISc Bangalore
+1743,Design Practice - II,Mechanical Engineering,IIT Kanpur
+1744,Oil Hydraulics and Pneumatics,Mechanical Engineering,IIT Madras
+1745,Micro and Smart Systems,Mechanical Engineering,IISc Bangalore
+1746,Robotics: Advanced Concepts and Analysis,Mechanical Engineering,IISc Bangalore
+1747,Introduction to Turbomachines,Mechanical Engineering,IIT Madras
+1748,Mechanics and Control of Robotic Manipulators,Mechanical Engineering,IIT Palakkad
+1749,Inverse Methods in Heat Transfer,Mechanical Engineering,IIT Madras
+1750,Advanced Manufacturing Processes,Mechanical Engineering,IIT Roorkee
+1751,Engineering Thermodynamics,Mechanical Engineering,IIT Madras
+1752,Advanced Manufacturing Processes,Mechanical Engineering,IIT Roorkee
+1753,Advanced Concepts in Fluid Mechanics,Mechanical Engineering,IIT Kharagpur
+1754,Applied Mechanics - Fluid Mechanics Laboratory,Mechanical Engineering,IIT Madras
+1755,Computational Fluid Dynamics,Mechanical Engineering,IIT Roorkee
+1756,Advanced Gas Dynamics,Mechanical Engineering,IIT Madras
+1757,Interfacial Fluid Mechanics,Mechanical Engineering,IIT Madras
+1758,Computational Fluid Dynamics,Mechanical Engineering,IIT Roorkee
+1759,Rapid Manufacturing,Mechanical Engineering,IIT Kanpur
+1760,Applied Thermodynamics,Mechanical Engineering,IIT Madras
+1761,Fundamentals of Nuclear Power Generation,Mechanical Engineering,IIT Guwahati
+1762,Heat Transfer,Mechanical Engineering,IIT Madras
+1763,Metal Casting,Mechanical Engineering,IIT Roorkee
+1764,Advances in welding and joining technologies,Mechanical Engineering,IIT Guwahati
+1765,Metal Casting,Mechanical Engineering,IIT Roorkee
+1766,Introduction to Machining and Machining Fluids ,Mechanical Engineering,IIT Guwahati
+1767,High Performance Computing for Scientists and Engineers,Mechanical Engineering,IIT Kharagpur
+1768,Computational Fluid Dynamics for Turbomachinery,Mechanical Engineering,IIT Madras
+1769,Processing of non metals,Mechanical Engineering,IIT Roorkee
+1770,Engineering drawing and computer graphics,Mechanical Engineering,IIT Kharagpur
+1771,Processing of non metals,Mechanical Engineering,IIT Roorkee
+1772,Vibration control,Mechanical Engineering,IIT Roorkee
+1773,Mechanics of Machining,Mechanical Engineering,IIT Guwahati
+1774,Turbulent Combustion: Theory and Modelling,Mechanical Engineering,IIT Kanpur
+1775,Design and Optimization of Energy systems,Mechanical Engineering,IIT Madras
+1776,Vibration control,Mechanical Engineering,IIT Roorkee
+1777,Principle of Hydraulic Machines and System Design,Mechanical Engineering,IIT Guwahati
+1778,Engineering Fracture Mechanics,Mechanical Engineering,IIT Madras
+1779,Welding Engineering,Mechanical Engineering,IIT Roorkee
+1780,Introduction to Abrasive Machining and Finishing Processes,Mechanical Engineering,IIT Guwahati
+1781,Welding Engineering,Mechanical Engineering,IIT Roorkee
+1782,Theory of Rectangular Plates-Part1,Mechanical Engineering,IIT Guwahati
+1783,Tools in Scientific Computing,Mechanical Engineering,IIT Kharagpur
+1784,Experimental Stress Analysis,Mechanical Engineering,IIT Madras
+1785,Computational Fluid Dynamics,Mechanical Engineering,IIT Kharagpur
+1786,Fundamentals of Industrial Oil Hydraulics and Pneumatics,Mechanical Engineering,IIT Kharagpur
+1787,Fundamentals of Industrial Oil Hydraulics and Pneumatics,Mechanical Engineering,IIT Kharagpur
+1788,Machinery fault diagnosis and signal processing,Mechanical Engineering,IIT Kharagpur
+1789,Advanced Dynamics,Mechanical Engineering,IIT Kharagpur
+1790,Random vibrations & Failure Analysis,Mechanical Engineering,IIT Madras
+1791,Biomechanics of Joints and Orthopaedic Implants,Mechanical Engineering,IIT Kharagpur
+1792,Rocket Propulsion,Mechanical Engineering,IIT Madras
+1793,Acoustics,Mechanical Engineering,IIT Kanpur
+1794,Solar Energy Technology,Mechanical Engineering,IIT Kharagpur
+1795,"Elements of metal cutting, Machine tools, gear cutting and CNC machining",Mechanical Engineering,IIT Kharagpur
+1796,Solar Energy Technology,Mechanical Engineering,IIT Kharagpur
+1797,Advanced Machining Processes,Mechanical Engineering,IIT Kanpur
+1798,Finite Element Method,Mechanical Engineering,IIT Kharagpur
+1799,Principles of Mechanical Measurement,Mechanical Engineering,IIT Guwahati
+1800,Biomicroelectromechanical systems,Mechanical Engineering,IIT Kanpur
+1801,Technology of Surface Coating,Mechanical Engineering,IIT Kharagpur
+1802,IC Engines and Gas Turbines,Mechanical Engineering,IIT Guwahati
+1803,Computational Fluid Dynamics and Heat Transfer,Mechanical Engineering,IIT Kanpur
+1804,Vibration of Structures,Mechanical Engineering,IIT Kharagpur
+1805,Fundamental of Welding Science and Technology,Mechanical Engineering,IIT Guwahati
+1806,Computer Aided Engineering Design,Mechanical Engineering,IIT Kanpur
+1807,Vibration of Structures,Mechanical Engineering,IIT Kharagpur
+1808,Polymer Assisted Abrasive Finishing Processes,Mechanical Engineering,IIT Guwahati
+1809,Manufacturing Automation,Mechanical Engineering,IIT Kanpur
+1810,Engine Combustion,Mechanical Engineering,IIT Kanpur
+1811,Computer Integrated Manufacturing,Mechanical Engineering,IIT Kanpur
+1812,Machining Science,Mechanical Engineering,IIT Kanpur
+1813,Mathematical Methods in Engineering and Science,Mechanical Engineering,IIT Kanpur
+1814,Foundations of Cognitive Robotics,Mechanical Engineering,IIT Kanpur
+1815,Optical Measurement Techniques in Thermal Sciences,Mechanical Engineering,IIT Kanpur
+1816,RAC Product Design,Mechanical Engineering,IIT Delhi
+1817,Advanced Engineering Thermodynamics,Mechanical Engineering,IIT Guwahati
+1818,Principles of Vibration Control,Mechanical Engineering,IIT Kanpur
+1819,Mathematical Modeling Of Manufacturing Processes,Mechanical Engineering,IIT Guwahati
+1820,Two-Phase flow with phase change in conventional and miniature channels,Mechanical Engineering,IIT Guwahati
+1821,Introduction to Robotics,Mechanical Engineering,IIT Kanpur
+1822,Engineering Drawing,Mechanical Engineering,IIT Guwahati
+1823,Applied Thermodynamics For Engineers,Mechanical Engineering,IIT Guwahati
+1824,Muffler Acoustics – Application to Automotive Exhaust Noise Control,Mechanical Engineering,IIT Kanpur
+1825,Fundamentals of Conduction and Radiation,Mechanical Engineering,IIT Guwahati
+1826,Elements of Solar Energy Conversion,Mechanical Engineering,IIT Kanpur
+1827,Gas Dynamics,Mechanical Engineering,IIT Guwahati
+1828,Steam Power Engineering,Mechanical Engineering,IIT Guwahati
+1829,Manufacturing Processes _ Casting and Joining,Mechanical Engineering,IIT Kanpur
+1830,Nonlinear Vibration,Mechanical Engineering,IIT Guwahati
+1831,Dynamic Behaviour Of Materials,Mechanical Engineering,IIT Guwahati
+1832,Computational Fluid Dynamics and Heat Transfer,Mechanical Engineering,IIT Kanpur
+1833,Thermodynamics,Mechanical Engineering,IIT Delhi
+1834,Nonlinear Vibration,Mechanical Engineering,IIT Guwahati
+1835,Plastic Working Of Metallic Materials,Mechanical Engineering,IIT Guwahati
+1836,Theory & Practice of Rotor Dynamics,Mechanical Engineering,IIT Guwahati
+1837,Fundamentals Of Artificial Intelligence,Mechanical Engineering,IIT Guwahati
+1838,Production Technology: Theory and Practice,Mechanical Engineering,IIT Kanpur
+1839,Theory & Practice of Rotor Dynamics,Mechanical Engineering,IIT Guwahati
+1840,Aircraft Propulsion,Mechanical Engineering,IIT Guwahati
+1841,Introduction to Turbomachinery,Mechanical Engineering,IIT Kanpur
+1842,Robot Motion Planning,Mechanical Engineering,IIT Kanpur
+1843,Basic Thermodynamics,Mechanical Engineering,IISc Bangalore
+1844,Heat and Mass Transfer,Mechanical Engineering,IISc Bangalore
+1845,Materials Science,Mechanical Engineering,IISc Bangalore
+1846,Metal Additive Manufacturing,Mechanical Engineering,IIT Kanpur
+1847,Computational Fluid Dynamics for Incompressible Flows,Mechanical Engineering,IIT Guwahati
+1848,Conduction and Convection: Fundamentals and Applications,Mechanical Engineering,IIT Kanpur
+1849,Experimental Methods in Fluid Mechanics,Mechanical Engineering,IIT Guwahati
+1850,Automation & Controls,Mechanical Engineering,IIT Delhi
+1851,Automation in Manufacturing,Mechanical Engineering,IIT Guwahati
+1852,Tribology,Mechanical Engineering,IIT Delhi
+1853,Fundamentals of Compressible Flow,Mechanical Engineering,IIT Guwahati
+1854,Tribology,Mechanical Engineering,IIT Delhi
+1855,Finite Element Method: Variational Methods to Computer Programming,Mechanical Engineering,IIT Guwahati
+1856,Computational Continuum Mechanics,Mechanical Engineering,IIT Guwahati
+1857,Fundamentals of Convective Heat Transfer,Mechanical Engineering,IIT Guwahati
+1858,Theory of Composite Shells,Mechanical Engineering,IIT Guwahati
+1859,Finite element modeling of welding processes,Mechanical Engineering,IIT Guwahati
+1860,Nonlinear Vibration,Mechanical Engineering,IIT Guwahati
+1861,Evolutionary Computation for Single and Multi-Objective Optimization,Mechanical Engineering,IIT Guwahati
+1862,Viscous Fluid Flow,Mechanical Engineering,IIT Guwahati
+1863,Industrial Engineering,Mechanical Engineering,IIT Roorkee
+1864,Industrial Engineering,Mechanical Engineering,IIT Roorkee
+1865,Manufacturing Processes I,Mechanical Engineering,IIT Roorkee
+1866,Second Level Course in Heat Transfer,Mechanical Engineering,IIT Bombay
+1867,Welding Application Technology,Mechanical Engineering,IIT Guwahati
+1868,Manufacturing Processes I,Mechanical Engineering,IIT Roorkee
+1869,Convective Heat and Mass Transfer,Mechanical Engineering,IIT Bombay
+1870,Fundamentals of Additive Manufacturing Technologies,Mechanical Engineering,IIT Guwahati
+1871,Strength of Materials,Mechanical Engineering,IIT Roorkee
+1872,Applied Thermodynamics,Mechanical Engineering,IIT Guwahati
+1873,Strength of Materials,Mechanical Engineering,IIT Roorkee
+1874,Cryogenic Engineering,Mechanical Engineering,IIT Bombay
+1875,Solid Mechanics,Mechanical Engineering,IIT Delhi
+1876,Mechanics of Fiber Reinforced Polymer Composite Structures,Mechanical Engineering,IIT Guwahati
+1877,Design For Manufacturing,Mechanical Engineering,IIT Bombay
+1878,Introduction to Nuclear Engineering,Mechanical Engineering,IIT Bombay
+1879,Laser Based Manufacturing,Mechanical Engineering,IIT Guwahati
+1880,Advanced Thermodynamics and Combustion,Mechanical Engineering,IIT Guwahati
+1881,Advanced Finite Elements Analysis,Mechanical Engineering,IIT Madras
+1882,Advanced Operations Research,Mechanical Engineering,IIT Madras
+1883,Applied Thermodynamics,Mechanical Engineering,IIT Madras
+1884,Fundamentals of Operations Research,Mechanical Engineering,IIT Madras
+1885,Introduction to Finite Element Method,Mechanical Engineering,IIT Madras
+1886,Machine Design II,Mechanical Engineering,IIT Madras
+1887,Introduction to Uncertainty Analysis and Experimentation,Mechanical Engineering,IIT Delhi
+1888,Mechanical Measurements and Metrology,Mechanical Engineering,IIT Madras
+1889,Mechanical Measurements and Metrology,Mechanical Engineering,IIT Madras
+1890,Principles of Mechanical Measurements,Mechanical Engineering,IIT Madras
+1891,Strength of Materials,Mechanical Engineering,IIT Madras
+1892,Engineering Graphics and Design,Mechanical Engineering,IIT Delhi
+1893,Basic Thermodynamics,Mechanical Engineering,IIT Kharagpur
+1894,Design of Machine Elements I,Mechanical Engineering,IIT Kharagpur
+1895,Design of Machine Elements I,Mechanical Engineering,IIT Kharagpur
+1896,Manufacturing Processes II,Mechanical Engineering,IIT Kharagpur
+1897,Manufacturing Processes II,Mechanical Engineering,IIT Kharagpur
+1898,Refrigeration and Air Conditioning,Mechanical Engineering,IIT Kharagpur
+1899,Refrigeration and Air Conditioning,Mechanical Engineering,IIT Kharagpur
+1900,Forming,Mechanical Engineering,IIT Madras
+1901,Variational Methods in Mechanics,Mechanical Engineering,IISc Bangalore
+1902,Spray Theory and Applications,Mechanical Engineering,IIT Madras
+1903,Conduction And Radiation,Mechanical Engineering,IIT Madras
+1904,Basic Thermodynamics,Mechanical Engineering,IIT Kanpur
+1905,Optimization from fundamentals,Mechanical Engineering,IIT Bombay
+1906,Dynamics of Machines,Mechanical Engineering,IIT Kanpur
+1907,Finite Element Method,Mechanical Engineering,IIT Kanpur
+1908,Compliant Mechanisms: Principles and Design,Mechanical Engineering,IISc Bangalore
+1909,Finite Element Method,Mechanical Engineering,IIT Kanpur
+1910,Heat Transfer and Combustion in Multiphase Systems,Mechanical Engineering,IISc Bangalore
+1911,Fluid Machinery,Mechanical Engineering,IIT Kanpur
+1912,Fluid Mechanics,Mechanical Engineering,IIT Kanpur
+1913,Gas Dynamics and  Propulsion,Mechanical Engineering,IIT Madras
+1914,Design of Mechatronic Systems,Mechanical Engineering,IIT Bombay
+1915,Introduction to Turbulence,Mechanical Engineering,IIT Kanpur
+1916,Kinematics of Machines,Mechanical Engineering,IIT Kanpur
+1917,Microfluidics,Mechanical Engineering,IIT Madras
+1918,Materials Selection and Design,Mechanical Engineering,IIT Kanpur
+1919,Convective Heat Transfer,Mechanical Engineering,IIT Madras
+1920,Fluid Power Control,Mechanical Engineering,IIT Madras
+1921,Nonlinear Adaptive Control,Mechanical Engineering,IIT Bombay
+1922,Introduction to Explosions and Explosion Safety,Mechanical Engineering,IIT Madras
+1923,Metrology,Mechanical Engineering,IIT Madras
+1924,Engineering Mechanics,Mechanical Engineering,IIT Guwahati
+1925,Engineering Mechanics  Statics and Dynamics,Mechanical Engineering,IIT Madras
+1926,Engineering Mechanics,Mechanical Engineering,IIT Guwahati
+1927,Mechanical Vibrations,Mechanical Engineering,IIT Guwahati
+1928,Two phase flow and heat transfer,Mechanical Engineering,IIT Roorkee
+1929,Mechanical Vibrations,Mechanical Engineering,IIT Guwahati
+1930,Refrigeration and air-conditioning,Mechanical Engineering,IIT Roorkee
+1931,Engineering Economic Analysis,Mechanical Engineering,IIT Roorkee
+1932,Foundation of Computational Fluid Dynamics,Mechanical Engineering,IIT Madras
+1933,Convective Heat Transfer,Mechanical Engineering,IIT Roorkee
+1934,Mechanics,Mechanical Engineering,IIT Kharagpur
+1935,Introduction to Mechanical Vibration,Mechanical Engineering,IIT Roorkee
+1936,Wave Propagation in Continuous Media,Mechanical Engineering,IIT Kharagpur
+1937,Joining Technologies for metals,Mechanical Engineering,IIT Roorkee
+1938,Introduction to Boundary Layers,Mechanical Engineering,IIT Madras
+1939,Modelling and Simulation of Dynamic Systems,Mechanical Engineering,IIT Roorkee
+1940,Principles of Casting Technology,Mechanical Engineering,IIT Roorkee
+1941,Steam and Gas Power Systems,Mechanical Engineering,IIT Roorkee
+1942,Product Design and Development,Mechanical Engineering,IIT Roorkee
+1943,Fluid Mechanics,Mechanical Engineering,IIT Kharagpur
+1944,Fundamentals of manufacturing processes,Mechanical Engineering,IIT Roorkee
+1945,Fundamentals of Gas Dynamics,Mechanical Engineering,IIT Madras
+1946,Modelling and simulation of discrete event system,Mechanical Engineering,IIT Roorkee
+1947,Computer Aided Design and Manufacturing,Mechanical Engineering,IIT Delhi
+1948,Processing of Polymers and Polymer Composites,Mechanical Engineering,IIT Roorkee
+1949,Computer Aided Design and Manufacturing I,Mechanical Engineering,IIT Delhi
+1950,Experimental Stress Analysis:An Overview,Mechanical Engineering,IIT Madras
+1951,Convective Heat Transfer,Mechanical Engineering,IISc Bangalore
+1952,Computer Aided Design and Manufacturing II,Mechanical Engineering,IIT Delhi
+1953,Fluid Dynamics and Turbomachines,Mechanical Engineering,IIT Madras
+1954,Project and Production Management,Mechanical Engineering,IIT Delhi
+1955,Project and Production Management,Mechanical Engineering,IIT Delhi
+1956,Modelling and control of Dynamic Electro-Mechanical System,Mechanical Engineering,IIT Kanpur
+1957,Introduction to Fluid Machines and Compressible Flow,Mechanical Engineering,IIT Kharagpur
+1958,Convective Heat and Mass Transfer,Mechanical Engineering,IIT Kanpur
+1959,Introduction to Fluid Mechanics and Fluid Engineering,Mechanical Engineering,IIT Kharagpur
+1960,Structural Health Monitoring of Composites,Mechanical Engineering,IIT Kanpur
+1961,Mechanics of Laminated composite structure,Mechanical Engineering,IIT Kanpur
+1962,Advanced manufacturing process for micro system fabrication,Mechanical Engineering,IIT Kanpur
+1963,Micro fluidics,Mechanical Engineering,IIT Kharagpur
+1964,Operations Management,Mechanical Engineering,IIT Roorkee
+1965,Advanced Strength of Materials,Mechanical Engineering,IIT Bombay
+1966,Theory of Production Processes,Mechanical Engineering,IIT Roorkee
+1967,Dynamics of Machines,Mechanical Engineering,IIT Bombay
+1968,Introduction to Composites,Mechanical Engineering,IIT Kanpur
+1969,Automatic Control,Mechanical Engineering,IIT Roorkee
+1970,Heat and Mass Transfer,Mechanical Engineering,IIT Bombay
+1971,Failure Analysis and Prevention ,Mechanical Engineering,IIT Roorkee
+1972,Robotics,Mechanical Engineering,IIT Bombay
+1973,Mechanical Measurement System,Mechanical Engineering,IIT Roorkee
+1974,Robotics,Mechanical Engineering,IIT Bombay
+1975,Engineering Drawing,Mechanical Engineering,IIT Kanpur
+1976,"Smart Material, Adaptive Structures and Intelligent Mechanical Systems - IITK",Mechanical Engineering,IIT Kanpur
+1977,Vibrations of Structures,Mechanical Engineering,IIT Kharagpur
+1978,Micro and nano scale energy transport,Mechanical Engineering,IIT Madras
+1979,Electron diffraction and imaging,Mechanical Engineering,IIT Madras
+1980,Sound Propagation Through Media,Mechanical Engineering,IIT Kanpur
+1981,"Fundamentals of Surface Engineering: Mechanisms,Processes and Characterizations",Mechanical Engineering,IIT Roorkee
+1982,Acoustic and Noise Control,Mechanical Engineering,IIT Madras
+1983,Work System Design,Mechanical Engineering,IIT Roorkee
+1984,Steel Quality : Role of Secondary Refining & Continuous Casting,Mechanical Engineering,IIT Madras
+1985,Principles of Metal Forming Technology,Mechanical Engineering,IIT Roorkee
+1986,X-ray Crystallography & Diffraction,Mechanical Engineering,IIEST Shibpur
+1987,BioMEMS and Microsystems,Mechanical Engineering,IIT Kanpur
+1988,Fluid Machines,Mechanical Engineering,IIT Kharagpur
+1989,Radiative Heat Transfer,Mechanical Engineering,IIT Roorkee
+1990,Weldability of Metals,Mechanical Engineering,IIT Roorkee
+1991,Manufacturing Guidelines for Product Design,Mechanical Engineering,IIT Roorkee
+1992,Computer numerical control (CNC) of machine tools and processes,Mechanical Engineering,IIT Kharagpur
+1993,Inspection and Quality Control in Manufacturing,Mechanical Engineering,IIT Roorkee
+1994,Manufacturing Systems Technology Part I,Mechanical Engineering,IIT Kanpur
+1995,"Non Traditional Abrasive Machining Processes- Ultrasonic, Abrasive Jet and Abrasive Water Jet Machining",Mechanical Engineering,IIT Kharagpur
+1996,Financial Mathematics,Mechanical Engineering,IIT Roorkee
+1997,Manufacturing systems technology part II,Mechanical Engineering,IIT Kanpur
+1998,Transport Phenomena in Materials,Mechanical Engineering,IIT Madras
+1999,A short lecture series on contour integration in the complex plane,Mechanical Engineering,IISc Bangalore
+2000,Continuum Mechanics,Mechanical Engineering,IIT Guwahati
+2001,Introduction to Materials Science and Engineering,Metallurgy and Material Science,IIT Delhi
+2002,"Phase field modelling: the materials science, mathematics and computational aspects",Metallurgy and Material Science,IIT Bombay
+2003,"Dealing with materials data : collection, analysis and interpretation",Metallurgy and Material Science,IIT Bombay
+2004,Aqueous Corrosion and Its Control,Metallurgy and Material Science,IIT Bombay
+2005,Cathodic Protection Engineering,Metallurgy and Material Science,IIT Bombay
+2006,Advances in Corrosion Engineering,Metallurgy and Material Science,IISc Bangalore
+2007,Diffusion in solids,Metallurgy and Material Science,IISc Bangalore
+2008,Introduction to Crystallographic texture and related phenomenon,Metallurgy and Material Science,IISc Bangalore
+2009,Metals Biotechnology,Metallurgy and Material Science,IISc Bangalore
+2010,Biomaterials for bone tissue engineering applications,Metallurgy and Material Science,IISc Bangalore
+2011,Advanced Metallurgical Thermodynamics,Metallurgy and Material Science,IIT Madras
+2012,Ironmaking,Metallurgy and Material Science,IISc Bangalore
+2013,Introduction to Materials Science and Engineering,Metallurgy and Material Science,IIT Madras
+2014,Material Characterization,Metallurgy and Material Science,IIT Madras
+2015,Friction and wear of materials: principles and case studies,Metallurgy and Material Science,IIT Roorkee
+2016,Advanced ceramics for strategic applications,Metallurgy and Material Science,IIT Kharagpur
+2017,Physics of Materials,Metallurgy and Material Science,IIT Madras
+2018,Physics of Materials,Metallurgy and Material Science,IIT Madras
+2019,Non-ferrous Extractive Metallurgy,Metallurgy and Material Science,IIT Kharagpur
+2020,Principles of Physical Metallurgy,Metallurgy and Material Science,IIT Kharagpur
+2021,Principles of Physical Metallurgy,Metallurgy and Material Science,IIT Kharagpur
+2022,Processing of Semiconducting Materials,Metallurgy and Material Science,IIT Kharagpur
+2023,Surface Engineering of Nanomaterials,Metallurgy and Material Science,IIT Roorkee
+2024,Advanced Characterization Techniques,Metallurgy and Material Science,IIT Kanpur
+2025,Science and Technology of Polymers,Metallurgy and Material Science,IIT Kharagpur
+2026,Electroceramics,Metallurgy and Material Science,IIT Kanpur
+2027,Electroceramics,Metallurgy and Material Science,IIT Kanpur
+2028,Material Science and Engineering,Metallurgy and Material Science,IIT Roorkee
+2029,Fuels Refractory and Furnaces,Metallurgy and Material Science,IIT Kanpur
+2030,Introduction to Biomaterials,Metallurgy and Material Science,IIT Kanpur
+2031,Structural Analysis of Nanomaterials,Metallurgy and Material Science,IIT Roorkee
+2032,Materials and Energy balance in Metallurgical Processes,Metallurgy and Material Science,IIT Kanpur
+2033,Optoelectronic Materials and Devices,Metallurgy and Material Science,IIT Kanpur
+2034,Steel Making,Metallurgy and Material Science,IIT Kanpur
+2035,Structure of Materials,Metallurgy and Material Science,IIT Kanpur
+2036,Fundamentals of electronic device fabrication,Metallurgy and Material Science,IIT Madras
+2037,Fundamentals of optical and scanning electron microscopy,Metallurgy and Material Science,IIT Madras
+2038,Fundamentals of electronic materials and devices,Metallurgy and Material Science,IIT Madras
+2039,Introduction to Reciprocal Space,Metallurgy and Material Science,IIT Madras
+2040,Analysis and Modeling of Welding,Metallurgy and Material Science,IIT Madras
+2041,Thermo-Mechanical And Thermo-Chemical Processes,Metallurgy and Material Science,IIT Roorkee
+2042,Welding Metallurgy,Metallurgy and Material Science,IIT Roorkee
+2043,Fundamentals of X-ray diffraction and Transmission electron microscopy,Metallurgy and Material Science,IIT Madras
+2044,Theory and Practice of Non Destructive Testing,Metallurgy and Material Science,IIT Madras
+2045,Modeling of tundish steelmaking process in continuous casting,Metallurgy and Material Science,IIT Roorkee
+2046,Defects in Materials,Metallurgy and Material Science,IIT Madras
+2047,Advanced Materials and Processes,Metallurgy and Material Science,IIT Kharagpur
+2048,Elementary Stereology for Quantitative Metallography,Metallurgy and Material Science,IIT Madras
+2049,Welding of Advanced High Strength Steels for Automotive Applications,Metallurgy and Material Science,IIT Madras
+2050,Welding Processes,Metallurgy and Material Science,IIT Madras
+2051,Creep deformation of materials,Metallurgy and Material Science,IIT Madras
+2052,"Nanotechnology, Science and Applications",Metallurgy and Material Science,IIT Madras
+2053,Powder Metallurgy,Metallurgy and Material Science,IIT Madras
+2054,Carbon Materials and Manufacturing,Metallurgy and Material Science,IIT Mandi
+2055,Principles of polymer synthesis,Metallurgy and Material Science,IIT Kharagpur
+2056,Mechanical Behavior of Materials,Metallurgy and Material Science,IIT Madras
+2057,Advanced Materials and Processes,Metallurgy and Material Science,IIT Kharagpur
+2058,Aluminium based Alloys and Metal Matrix Composites,Metallurgy and Material Science,IIT Madras
+2059,"Fuel,furnace and Refractory",Metallurgy and Material Science,IIT Kanpur
+2060,Welding science and technology(In Tamil) இணைப்பியலின் தொழில்நுட்பமும் அதன் அறிவியலும்,Metallurgy and Material Science,IIT Madras
+2061,Steel Making,Metallurgy and Material Science,IIT Kanpur
+2062,Materials and Heat Balance in Metallurgical Processes,Metallurgy and Material Science,IIT Kanpur
+2063,Environmental Degradation of Materials,Metallurgy and Material Science,IIT Kanpur
+2064,Surface Engineering for Corrosion and Wear Resistance Application,Metallurgy and Material Science,IIT Kharagpur
+2065,Phase Diagrams in Materials Science and Engineering,Metallurgy and Material Science,IIT Kanpur
+2066,Fundamentals of Material Processing - I,Metallurgy and Material Science,IIT Kanpur
+2067,Computational Approach to Materials Science and Engineering,Metallurgy and Material Science,IIT Bombay
+2068,Heat Treatment and Surface Hardening - I,Metallurgy and Material Science,IIT Kanpur
+2069,Ironmaking and Steelmaking,Metallurgy and Material Science,IIT Kharagpur
+2070,Phase Transformations and Heat Treatment,Metallurgy and Material Science,IIT Bombay
+2071,Fundamentals of Material Processing - Part 2,Metallurgy and Material Science,IIT Kanpur
+2072,Non _ Metallic Materials,Metallurgy and Material Science,IIT Kharagpur
+2073,Nature And Properties Of Materials-An Introductory Course,Metallurgy and Material Science,IIT Kanpur
+2074,Scanning Electron / Ion / Probe Microscopy in Materials Characterization,Metallurgy and Material Science,IIT Kharagpur
+2075,Techniques of Material Characterization,Metallurgy and Material Science,IIT Kharagpur
+2076,Electrochemical Energy Storage,Metallurgy and Material Science,IIT Kharagpur
+2077,Texture in Materials,Metallurgy and Material Science,IIT Kharagpur
+2078,Bulk Material Transport and Handling Systems,Metallurgy and Material Science,IIT Kharagpur
+2079,Defects in Crystalline Solids (Part-I),Metallurgy and Material Science,IIT Kanpur
+2080,Environmental Degradation and Surface Engineering,Metallurgy and Material Science,IIT Kharagpur
+2081,Corrosion - Part I,Metallurgy and Material Science,IIT Kanpur
+2082,"Fracture, Fatigue and Failure of Materials",Metallurgy and Material Science,IIT Kharagpur
+2083,Mine Closure and Sustainability Planning,Metallurgy and Material Science,IIT Kharagpur
+2084,"Solar Photovoltaics: Principles, Technologies & Materials",Metallurgy and Material Science,IIT Kanpur
+2085,Defects in Crystalline Solids (Part-II),Metallurgy and Material Science,IIT Kanpur
+2086,Corrosion - Part II,Metallurgy and Material Science,IIT Kanpur
+2087,Fundamentals and Applications of Dielectric Ceramics,Metallurgy and Material Science,IIT Kanpur
+2088,Introduction to crystal elasticity and crystal plasticity,Metallurgy and Material Science,IIT Guwahati
+2089,Properties of Materials (Nature and Properties of Materials : III),Metallurgy and Material Science,IIT Kanpur
+2090,Diffusion in Multicomponent Solids,Metallurgy and Material Science,IIT Kanpur
+2091,Corrosion Failures and Analysis,Metallurgy and Material Science,IIT Kanpur
+2092,Nanomaterials and their Properties,Metallurgy and Material Science,IIT Kanpur
+2093,Mechanical Behaviour of Materials (Part – I),Metallurgy and Material Science,IIT Kanpur
+2094,"Mechanical Behaviour of Materials (Part - II)
+",Metallurgy and Material Science,IIT Kanpur
+2095,Electronic Properties of the Materials: Computational Approach,Metallurgy and Material Science,IIT Kanpur
+2096,Design of Offshore Structures,Ocean Engineering,IIT Madras
+2097,Foundation for Offshore Structures,Ocean Engineering,IIT Madras
+2098,"Health,Safety and Environmental Management in Petroleum and Offshore Engineering",Ocean Engineering,IIT Madras
+2099,Port and Harbour Structures,Ocean Engineering,IIT Madras
+2100,Elements of Ocean Engineering,Ocean Engineering,IIT Kharagpur
+2101,Ship Resistance and Propulsion,Ocean Engineering,IIT Madras
+2102,Hydrostatics and Stability,Ocean Engineering,IIT Kharagpur
+2103,Marine Construction and Welding,Ocean Engineering,IIT Kharagpur
+2104,"Wave simulation, measurement and analysis",Ocean Engineering,IIT Madras
+2105,Marine Hydrodynamics,Ocean Engineering,IIT Kharagpur
+2106,Seakeeping & Manoeuvring,Ocean Engineering,IIT Kharagpur
+2107,Coastal Engineering,Ocean Engineering,IIT Madras
+2108,Wave Hydrodynamics,Ocean Engineering,IIT Madras
+2109,Ocean Structures and Materials,Ocean Engineering,IIT Madras
+2110,Dynamics of Ocean Structures,Ocean Engineering,IIT Madras
+2111,Advanced Marine Structures,Ocean Engineering,IIT Madras
+2112,Dynamics of Ocean Structures,Ocean Engineering,IIT Madras
+2113,"Health, Safety and Environmental Management in Offshore and Petroleum Engineering",Ocean Engineering,IIT Madras
+2114,Risk and Reliability of offshore structures,Ocean Engineering,IIT Madras
+2115,HSE for offshore and petroleum engineers-Practices,Ocean Engineering,IIT Madras
+2116,Offshore Structures Under Special Loads Including Fire Resistance,Ocean Engineering,IIT Madras
+2117,Computer Methods Of Structural Analysis Of Offshore Structures,Ocean Engineering,IIT Madras
+2118,Structural Health Monitoring,Ocean Engineering,IIT Madras
+2119,Advanced design of steel structures,Ocean Engineering,IIT Madras
+2120,Applied Thermodynamics for Marine Systems,Ocean Engineering,IIT Kharagpur
+2121,Performance of Marine Vehicles at Sea,Ocean Engineering,IIT Kharagpur
+2122,Strength and Vibration of Marine Structures,Ocean Engineering,IIT Kharagpur
+2123,Water Economics and Governance,Ocean Engineering,IIT Kharagpur
+2124,Marine Propulsion,Ocean Engineering,IIT Kharagpur
+2125,Numerical Ship and Offshore Hydrodynamics,Ocean Engineering,IIT Kharagpur
+2126,Control System Design,Physics,IISc Bangalore
+2127,Special/Select Topics in Atomic Physics,Physics,IIT Madras
+2128,Classical Field Theory,Physics,IIT Madras
+2129,Topics in Nonlinear Dynamics,Physics,IIT Madras
+2130,Condensed Matter Physics,Physics,IIT Madras
+2131,Quantum Field Theory,Physics,IIT Madras
+2132,Quantum Mechanics I,Physics,IIT Madras
+2133,Special/Select Topics in Classical Mechanics,Physics,IIT Madras
+2134,Astrophysics & Cosmology,Physics,IIT Kharagpur
+2135,Fiber Optics,Physics,IIT Roorkee
+2136,Random Matrix Theory and Applications,Physics,IIT Kharagpur
+2137,Bonds and Bands in Solids,Physics,IISc Bangalore
+2138,Advanced NMR Techniques in Solution and Solid-State,Physics,IISc Bangalore
+2139,Special/Select Topics in the Theory of Atomic Collisions and Spectroscopy,Physics,IIT Madras
+2140,Selected Topics in Mathematical Physics,Physics,IIT Madras
+2141,NUCLEAR REACTORS AND SAFETY- AN INTRODUCTION,Physics,IIT Madras
+2142,Physical Applications of Stochastic Processes,Physics,IIT Madras
+2143," Mechanics, heat oscillations and waves",Physics,IIT Madras
+2144,Nuclear Physics: Fundamentals and Applications,Physics,IIT Kanpur
+2145,Nonequilibrium Statistical Mechanics,Physics,IIT Madras
+2146,"Solar Photovoltaics Fundamentals, Technology And Applications",Physics,IIT Roorkee
+2147,Introduction to Atmospheric and Space Sciences,Physics,IIT Roorkee
+2148,Optical Sensors,Physics,IIT Roorkee
+2149,Advanced Statistical Mechanics,Physics,IIT Guwahati
+2150,Characterization of Materials,Physics,IIT Guwahati
+2151,Advanced Atmospheric Physics,Physics,IIT Roorkee
+2152,Nuclear Astrophysics,Physics,IIT Roorkee
+2153,Osillation and Wave,Physics,IIT Kharagpur
+2154,Applied Optics,Physics,IIT Roorkee
+2155,Mathematical Physics - 1,Physics,IIT Guwahati
+2156,Electronics,Physics,IIT Delhi
+2157,Physics of Magnetic Recording and Recording Media,Physics,IIT Guwahati
+2158,Spintronics: Physics and Technology,Physics,IIT Guwahati
+2159,Statistical Mechanics,Physics,IIT Madras
+2160,Nuclear Science & Engineering,Physics,IIT Delhi
+2161,Plasma Physics: Fundamentals and Applications,Physics,IIT Delhi
+2162,Quantum Electronics,Physics,IIT Delhi
+2163,Computational Physics,Physics,IIT Madras
+2164,Quantum Mechanics and Applications,Physics,IIT Delhi
+2165,Waves and Oscillations,Physics,IIT Madras
+2166,Fundamental concepts of semiconductors,Physics,IIT Delhi
+2167,Mathematics methods in Physics-I,Physics,IIT Kharagpur
+2168,Physics through Computational Thinking,Physics,IISER Bhopal
+2169,Semiconductor Optoelectronics,Physics,IIT Delhi
+2170,Classical mechanics: from newtonian to lagrangian formulation,Physics,IIT Kharagpur
+2171,Electromagnetism,Physics,IISER Bhopal
+2172,Atomic and Molecular Physics,Physics,IIT Bombay
+2173,Solid state physics,Physics,IIT Kharagpur
+2174,Introduction to Classical Mechanics,Physics,IIT Hyderabad
+2175,Electrodynamics,Physics,IIT Bombay
+2176,Atomic and Molecular Physics,Physics,IIT Kharagpur
+2177,Fluid Dynamics for Astrophysics,Physics,IISER Pune
+2178,Electromagnetic Theory,Physics,IIT Bombay
+2179,Quantum Transport,Physics,IISER Thiruvananthapuram
+2180,Statistical Mechanics,Physics,IISER Mohali
+2181,Introduction to Physics of Nanoparticles and Nanostructures,Physics,IIT Bombay
+2182,Solid State Physics,Physics,IISER Bhopal
+2183,NonLinear Optics,Physics,IIT Bombay
+2184,Modern Optics,Physics,IIT Kharagpur
+2185,Introduction to Quantum Field Theory(Theory of Scalar Fields),Physics,IIT Hyderabad
+2186,Ideas and methods in condensed matter theory,Physics,IIT Bombay
+2187,Introduction to Non-linear Optics and its Applications,Physics,IIT Kharagpur
+2188,Quantum Mechanics I,Physics,IIT Bombay
+2189,Upstream LNG Technology,Physics,IIT Kharagpur
+2190,Special Theory of Relativity,Physics,IIT Bombay
+2191,Superconductivity,Physics,IIT Bombay
+2192,Experimental Physics I,Physics,IIT Kharagpur
+2193,Introduction to Electromagnetic Theory,Physics,IIT Kanpur
+2194,Engineering Mechanics,Physics,IIT Kanpur
+2195,Computational Science and Engineering Using Python,Physics,IIT Kanpur
+2196,Introductory Quantum Mechanics,Physics,IIT Kanpur
+2197,Experimental Physics - II,Physics,IIT Kharagpur
+2198,Experimental Physics III,Physics,IIT Kharagpur
+2199,Electronic Theory of Solids,Physics,IIT Kharagpur
+2200,Physics of linear and nonlinear optical waveguides,Physics,IIT Kharagpur
+2201,Physics of Renewable Energy Systems,Physics,IIT Kharagpur
+2202,Thermal physics,Physics,IIT Kharagpur
+2203,Concepts in Magnetism and Superconductivity,Physics,IIT Kharagpur
+2204,Foundations of Classical Electrodynamics,Physics,IIT Kharagpur
+2205,Introduction to Solid State Physics,Physics,IIT Kanpur
+2206,Physics of Turbulence,Physics,IIT Kanpur
+2207,Introduction to Astrophysical Fluids,Physics,IIT Kanpur
+2208,Nuclear and Particle Physics,Physics,IIT Guwahati
+2209,Advanced Condensed Matter Physics,Physics,IIT Guwahati
+2210,Advanced Quantum Mechanics with Applications,Physics,IIT Guwahati
+2211,A brief course on Superconductivity,Physics,IIT Guwahati
+2212,Introduction To Statistical Mechanics,Physics,IIT Guwahati
+2213,Numerical Methods And Simulation Techniques For Scientists And Engineers,Physics,IIT Guwahati
+2214,Theoretical Mechanics,Physics,IIT Guwahati
+2215,Solar Energy Engineering and Technology,Physics,IIT Guwahati
+2216,Semiconductor Optoelectronics,Physics,IIT Delhi
+2217,Quantum Technology and Quantum Phenomena in Macroscopic Systems,Physics,IIT Guwahati
+2218,Dynamics of Classical and Quantum Fields,Physics,IIT Guwahati
+2219,Quantum Information and Computing,Physics,IIT Bombay
+2220,"
+Introduction to LASER",Physics,IIT Delhi
+2221,Theory of groups for physics applications,Physics,IIT Bombay
+2222,Quantum Mechanics I,Physics,IIT Bombay
+2223,Path Integral and functional methods in quantum field theory,Physics,IIT Bombay
+2224,Physics of Biological Systems,Physics,IIT Bombay
+2225,Group Theory methods in Physics,Physics,IIT Bombay
+2226,Neutron Scattering for Condensed Matter Studies,Physics,IIT Bombay
+2227,Accelerator Physics,Physics,IIT Bombay
+2228,Relativistic Quantum Mechanics,Physics,IISc Bangalore
+2229,Natural Dyes,Textile Engineering,IIT Kanpur
+2230,Textile Effluent and its Management,Textile Engineering,IIT Kanpur
+2231,Natural Dyes,Textile Engineering,IIT Kanpur
+2232,Fabric Manufacture - I,Textile Engineering,IIT Delhi
+2233,High Performance and Specialty Fibres,Textile Engineering,IIT Delhi
+2234,Knitting Technology,Textile Engineering,IIT Delhi
+2235,Manufactured Fibre Technology,Textile Engineering,IIT Delhi
+2236,Mechanics of Textile Machinery,Textile Engineering,IIT Delhi
+2237,Nonwoven Technology,Textile Engineering,IIT Delhi
+2238,Textile chemical Processing: Theory and practice of Preparatory Processes,Textile Engineering,IIT Delhi
+2239,Shuttleless Weaving,Textile Engineering,IIT Delhi
+2240,Quality Control in Textile Industry,Textile Engineering,IIT Delhi
+2241,Textile Fibres,Textile Engineering,IIT Delhi
+2242,Textile Testing,Textile Engineering,IIT Delhi
+2243,Theory of Yarn Structures,Textile Engineering,IIT Delhi
+2244,Yarn Manufacture - II,Textile Engineering,IIT Delhi
+2245,Science of Clothing Comfort,Textile Engineering,IIT Delhi
+2246,Yarn manufacture I : Principle of Carding and Drawing,Textile Engineering,IIT Delhi
+2247,Evaluation of Textile Materials,Textile Engineering,IIT Delhi
+2248,Testing of Functional and Technical Textiles,Textile Engineering,IIT Delhi
+2249,Theory of Yarn Structure,Textile Engineering,IIT Delhi
+2250,Advanced Textile Printing Technology,Textile Engineering,IIT Delhi
+2251,Textured Yarn Technology,Textile Engineering,IIT Delhi
+2252,Textile Finishing,Textile Engineering,IIT Delhi
+2253,"Principles of Combing, Roving preparation & Ring spinning",Textile Engineering,IIT Delhi
+2254,Science and Technology of Weft and Warp Knitting,Textile Engineering,IIT Delhi
+2255,Technical Textiles,Textile Engineering,IIT Delhi
+2256,Textile Product Design and Development,Textile Engineering,IIT Delhi
+2257,Transmission Lines and EM Waves,Electronics & Communication Engineering,IIT Bombay
+2258,Digital Switching - I,Electronics & Communication Engineering,IIT Kanpur
+2259,Transmission Lines and EM Waves,Electronics & Communication Engineering,IIT Bombay
+2260,An Introduction to Information Theory,Electronics & Communication Engineering,IIT Kanpur
+2261,VLSI Design,Electronics & Communication Engineering,IIT Bombay
+2262,VLSI Design Verification and test,Electronics & Communication Engineering,IIT Guwahati
+2263,Design of Power Electronic Converters,Electronics & Communication Engineering,IIT Guwahati
+2264,Operation and Planning of Power Distribution Systems,Electronics & Communication Engineering,IIT Guwahati
+2265, CMOS Analog VLSI Design,Electronics & Communication Engineering,IIT Bombay
+2266,Analog Circuits,Electronics & Communication Engineering,IIT Bombay
+2267,Microwave Integrated Circuits,Electronics & Communication Engineering,IIT Bombay
+2268,Foundations of Wavelets and Multirate Digital Signal Processing ,Electronics & Communication Engineering,IIT Bombay
+2269,Biophotonics,Electronics & Communication Engineering,IISc Bangalore
+2270,Circuits for Analog System Design,Electronics & Communication Engineering,IISc Bangalore
+2271,Digital System design with PLDs and FPGAs,Electronics & Communication Engineering,IISc Bangalore
+2272,Error Correcting Codes,Electronics & Communication Engineering,IISc Bangalore
+2273,Nanoelectronics: Devices and Materials,Electronics & Communication Engineering,IISc Bangalore
+2274,Pattern Recognition,Electronics & Communication Engineering,IISc Bangalore
+2275,Advanced Antenna Theory,Electronics & Communication Engineering,IIT Roorkee
+2276,Basics of software-defined radios and practical applications,Electronics & Communication Engineering,IIT Roorkee
+2277,Analog IC Design,Electronics & Communication Engineering,IIT Madras
+2278,Coding Theory,Electronics & Communication Engineering,IIT Madras
+2279,Semiconductor Device Modeling,Electronics & Communication Engineering,IIT Madras
+2280,VLSI Data Conversion Circuits,Electronics & Communication Engineering,IIT Madras
+2281,Analog IC Design,Electronics & Communication Engineering,IIT Madras
+2282,Information Theory and Coding,Electronics & Communication Engineering,IISc Bangalore
+2283,Analog Circuits and Systems 1,Electronics & Communication Engineering,IISc Bangalore
+2284,Digital Video Signal Processing,Electronics & Communication Engineering,IIT Kanpur
+2285,Semiconductor Optical Communication Components and Devices,Electronics & Communication Engineering,IIT Kanpur
+2286,Analog Circuits,Electronics & Communication Engineering,IIT Roorkee
+2287,Basic Electronics,Electronics & Communication Engineering,IIT Roorkee
+2288,LDPC and Polar Codes in 5G Standard,Electronics & Communication Engineering,IIT Madras
+2289,Design and Simulation of DC-DC converters using  open source tools,Electronics & Communication Engineering,IISc Bangalore
+2290,Digital Circuits and Systems,Electronics & Communication Engineering,IIT Madras
+2291,Electronics for Analog Signal Processing - I,Electronics & Communication Engineering,IIT Madras
+2292,Electronics for Analog Signal Processing - II,Electronics & Communication Engineering,IIT Madras
+2293,Queuing Systems,Electronics & Communication Engineering,IIT Guwahati
+2294,High Speed Devices and Circuits,Electronics & Communication Engineering,IIT Madras
+2295,Signal Detection and Estimation Theory,Electronics & Communication Engineering,IIT Guwahati
+2296,Principles of Communication,Electronics & Communication Engineering,IIT Madras
+2297,Solid State Devices,Electronics & Communication Engineering,IIT Madras
+2298,VLSI Circuits,Electronics & Communication Engineering,IIT Madras
+2299,Enclosure design of electronics equipment,Electronics & Communication Engineering,IISc Bangalore
+2300,VLSI Technology,Electronics & Communication Engineering,IIT Madras
+2301,Design of photovoltaic systems,Electronics & Communication Engineering,IISc Bangalore
+2302,Fundamentals of micro and nanofabrication,Electronics & Communication Engineering,IISc Bangalore
+2303,Photonic integrated circuits,Electronics & Communication Engineering,IISc Bangalore
+2304,Adaptive Signal Processing,Electronics & Communication Engineering,IIT Kharagpur
+2305,Communication Networks and Switching,Electronics & Communication Engineering,IIT Kharagpur
+2306,Pattern Recognition,Electronics & Communication Engineering,IIT Madras
+2307,Neural Science for Engineers,Electronics & Communication Engineering,IISc Bangalore
+2308,Digital Communication,Electronics & Communication Engineering,IIT Kharagpur
+2309,Digital Computer Organization,Electronics & Communication Engineering,IIT Kharagpur
+2310,Digital Image Processing,Electronics & Communication Engineering,IIT Kharagpur
+2311,Digital Systems Design,Electronics & Communication Engineering,IIT Kharagpur
+2312,Digital Voice & Picture Communication,Electronics & Communication Engineering,IIT Kharagpur
+2313,MEMS and Microsystems,Electronics & Communication Engineering,IIT Kharagpur
+2314,Multimedia processing,Electronics & Communication Engineering,IIT Kharagpur
+2315,RF Integrated Circuits,Electronics & Communication Engineering,IIT Delhi
+2316,Neural Networks and Applications,Electronics & Communication Engineering,IIT Kharagpur
+2317,Basic Electrical Circuits,Electronics & Communication Engineering,IIT Hyderabad
+2318,Probability and Random Processes,Electronics & Communication Engineering,IIT Kharagpur
+2319,Advanced Logic Synthesis,Electronics & Communication Engineering,IIT Madras
+2320,ARM Based Development,Electronics & Communication Engineering,IIT Madras
+2321,Embedded Software Testing,Electronics & Communication Engineering,IIT Madras
+2322,Linux Programming & Scripting,Electronics & Communication Engineering,IIT Madras
+2323,Digital Circuits and Systems,Electronics & Communication Engineering,IIT Madras
+2324,Networks and Systems(Course sponsored by Aricent),Electronics & Communication Engineering,IIT Madras
+2325,Digital Image Processing,Electronics & Communication Engineering,IIT Kanpur
+2326,Digital Signal Processing,Electronics & Communication Engineering,IIT Kanpur
+2327,High Speed Semiconductor Devices,Electronics & Communication Engineering,IIT Kanpur
+2328,Microcontrollers and Applications,Electronics & Communication Engineering,IIT Kanpur
+2329,Adv. Digital Signal Processing - Multirate and wavelets,Electronics & Communication Engineering,IIT Bombay
+2330,Advanced Optical Communication,Electronics & Communication Engineering,IIT Bombay
+2331,Signals and Systems,Electronics & Communication Engineering,IIT Kanpur
+2332,Advanced VLSI Design,Electronics & Communication Engineering,IIT Bombay
+2333,Digital Protection of Power System,Electronics & Communication Engineering,IIT Roorkee
+2334,Pattern Recognition and Application,Electronics & Communication Engineering,IIT Kharagpur
+2335,Physics of Nanoscale Devices,Electronics & Communication Engineering,IIT Roorkee
+2336,Basic Electronics,Electronics & Communication Engineering,IIT Guwahati
+2337,Digital Circuits,Electronics & Communication Engineering,IIT Guwahati
+2338,Electromagnetic Fields,Electronics & Communication Engineering,IIT Guwahati
+2339,IC Technology,Electronics & Communication Engineering,IIT Guwahati
+2340,Probability and Random Processes,Electronics & Communication Engineering,IIT Guwahati
+2341,Basic Tools of Microwave Engineering,Electronics & Communication Engineering,IIT Kharagpur
+2342,Advanced 3G and 4G Wireless Mobile Communications,Electronics & Communication Engineering,IIT Kanpur
+2343,Circuit Analysis for Analog Designers,Electronics & Communication Engineering,IIT Madras
+2344,Design and Analysis of VLSI Subsystems,Electronics & Communication Engineering,IIT Madras
+2345,Digital Switching,Electronics & Communication Engineering,IIT Kanpur
+2346,Basic Building Blocks of Microwave Engineering,Electronics & Communication Engineering,IIT Kharagpur
+2347,Communication Engineering,Electronics & Communication Engineering,IIT Delhi
+2348,Satellite Communication Systems,Electronics & Communication Engineering,IIT Kharagpur
+2349,Digital Signal Processing,Electronics & Communication Engineering,IIT Delhi
+2350,Fundamentals of MIMO Wireless Communication,Electronics & Communication Engineering,IIT Kharagpur
+2351,Semiconductor Devices,Electronics & Communication Engineering,IIT Delhi
+2352,Audio System Engineering,Electronics & Communication Engineering,IIT Kharagpur
+2353,Wireless Communication,Electronics & Communication Engineering,IIT Delhi
+2354,Discrete Time Signal Processing,Electronics & Communication Engineering,IIT Kharagpur
+2355,Digital Image Processing,Electronics & Communication Engineering,IIT Kharagpur
+2356,Spread Spectrum Communications and Jamming,Electronics & Communication Engineering,IIT Kharagpur
+2357,Digital VLSI Testing,Electronics & Communication Engineering,IIT Kharagpur
+2358,Design Principles of RF and Microwave Filters and Amplifiers,Electronics & Communication Engineering,IIT Kharagpur
+2359,Principles of Modern CDMA/ MIMO/ OFDM Wireless Communications(Course sponsored by Aricent),Electronics & Communication Engineering,IIT Kanpur
+2360,Millimeter Wave Technology,Electronics & Communication Engineering,IIT Kharagpur
+2361,Power system analysis,Electronics & Communication Engineering,IIT Kharagpur
+2362,Probability and Random Variables/ Processes for Wireless Communications,Electronics & Communication Engineering,IIT Kanpur
+2363,Estimation for Wireless Communications - MIMO/ OFDM Cellular and Sensor Networks(Course sponsored by Aricent),Electronics & Communication Engineering,IIT Kanpur
+2364,Analog communication,Electronics & Communication Engineering,IIT Kharagpur
+2365,Error Control Coding: An Introduction to Convolutional Codes,Electronics & Communication Engineering,IIT Kanpur
+2366,Modern digital communication techniques,Electronics & Communication Engineering,IIT Kharagpur
+2367,Error control coding: An introduction to linear block code,Electronics & Communication Engineering,IIT Kanpur
+2368,Digital speech processing,Electronics & Communication Engineering,IIT Kharagpur
+2369,Broadband Networks: Concepts and Technology,Electronics & Communication Engineering,IIT Bombay
+2370,Digital Communication,Electronics & Communication Engineering,IIT Bombay
+2371,Analog Circuits and Systems through SPICE Simulation,Electronics & Communication Engineering,IIT Kharagpur
+2372,Communication Networks,Electronics & Communication Engineering,IIT Kharagpur
+2373,Information Theory and Coding,Electronics & Communication Engineering,IIT Bombay
+2374,Signal Processing Techniques And Its Applications,Electronics & Communication Engineering,IIT Kharagpur
+2375,Optical Communication,Electronics & Communication Engineering,IIT Bombay
+2376,"Bayesian/ MMSE Estimation for Wireless Communications –MIMO/ OFDM 
+Cellular and Sensor Networks",Electronics & Communication Engineering,IIT Kanpur
+2377,Signals and Systems,Electronics & Communication Engineering,IIT Bombay
+2378,Optical communications,Electronics & Communication Engineering,IIT Kanpur
+2379,Nanobiotechnology,Nanotechnology,IIT Roorkee
+2380,Nanobiotechnology,Nanotechnology,IIT Madras
+2381,Nanophotonics,Nanotechnology,IIT Madras
+2382,Nanostructures and Nanomaterials: Characterization and Properties,Nanotechnology,IIT Kanpur
+2383,"Nano structured materials-synthesis, properties, self assembly and applications",Nanotechnology,IIT Delhi
+2384,Physics of Atmosphere and Ocean,Atmospheric Science,IIT Delhi
+2385,Radiation Heat Transfer,Atmospheric Science,IISc Bangalore
+2386,The monsoon and its variability,Atmospheric Science,IISc Bangalore
+2387,Introduction to Atmospheric Science,Atmospheric Science,IIT Madras
+2388,Aquatic Biodiversity and Environmental Pollution,Environmental Science,IISc Bangalore
+2389,Environment Management,Environmental Science,IISc Bangalore
+2390,Municipal Solid Waste Management,Environmental Science,IISc Bangalore
+2391,Introduction to Remote Sensing,General,IIT Roorkee
+2392,Ayurvedic Inheritance of India,General,IIT Madras
+2393,Introduction to Research,General,IIT Madras
+2394,Biology for engineers and other non-biologists,General,IIT Madras
+2395,Digital and the Everyday: from codes to cloud,General,IIT Madras
+2396,Effective Engineering Teaching in Practice,General,IIT Madras
+2397,Virtual Reality Engineering,General,IIT Madras
+2398,Non-Conventional Energy Resources,General,IIT Madras
+2399,Stress Management,General,IIT Kharagpur
+2400,Outcome Based Pedagogic Principles for Effective Teaching,General,IIT Kharagpur
+2401,Introduction to Japanese Language  and Culture,General,IIT Kanpur
+2402,"Astronomy in Ancient, Medieval and Early Telescopic Era of India",General,IIT Kanpur
+2403,Engineering Chemistry I,Basic courses-Sem 1 and 2,IIT Bombay
+2404,Engineering Physics II,Basic courses-Sem 1 and 2,IIT Bombay
+2405,Mathematics I,Basic courses-Sem 1 and 2,IIT Bombay
+2406,Concept of Management and Evolution of Management thought,Basic courses-Sem 1 and 2,IISc Bangalore
+2407,Engineering Physics I,Basic courses-Sem 1 and 2,IIT Roorkee
+2408,Mathematics II,Basic courses-Sem 1 and 2,IIT Roorkee
+2409,Mathematics III,Basic courses-Sem 1 and 2,IIT Roorkee
+2410,Basic Electronics and Lab,Basic courses-Sem 1 and 2,IIT Madras
+2411,Basic Electronics and Lab,Basic courses-Sem 1 and 2,IIT Madras
+2412,Classical Physics,Basic courses-Sem 1 and 2,IIT Madras
+2413,Engineering Chemistry I,Basic courses-Sem 1 and 2,IIT Madras
+2414,Engineering Chemistry III,Basic courses-Sem 1 and 2,IIT Madras
+2415,Environmental Chemistry and Analysis,Basic courses-Sem 1 and 2,IIT Madras
+2416,Management Science I,Basic courses-Sem 1 and 2,IIT Madras
+2417,Management Science II,Basic courses-Sem 1 and 2,IIT Madras
+2418,Numerical methods and programing,Basic courses-Sem 1 and 2,IIT Madras
+2419,Quantum Physics,Basic courses-Sem 1 and 2,IIT Madras
+2420,Human Resource Management-I,Basic courses-Sem 1 and 2,IIT Kharagpur
+2421,Leadership,Basic courses-Sem 1 and 2,IIT Kharagpur
+2422,Management Information System,Basic courses-Sem 1 and 2,IIT Kharagpur
+2423,Physics I - Oscillations & Waves,Basic courses-Sem 1 and 2,IIT Kharagpur
+2424,Strategic Management,Basic courses-Sem 1 and 2,IIT Kharagpur
+2425,Basic Electronics,Basic courses-Sem 1 and 2,IIT Kanpur
+2426,Engineering Mechanics,Basic courses-Sem 1 and 2,IIT Kanpur
+2427,Engineering Mechanics,Basic courses-Sem 1 and 2,IIT Kanpur
+2428,Engineering Physics II,Basic courses-Sem 1 and 2,IIT Kanpur
+2429,Mathematics I,Basic courses-Sem 1 and 2,IIT Kanpur
+2430,Mathematics II,Basic courses-Sem 1 and 2,IIT Kanpur
+2431,Numerical Analysis in Computer Programming,Basic courses-Sem 1 and 2,IIT Kanpur
+2432,Engineering Physics I (Experiment),Basic courses-Sem 1 and 2,IIT Guwahati
+2433,Engineering Physics I (Theory),Basic courses-Sem 1 and 2,IIT Guwahati
+2434,Mathematics III,Basic courses-Sem 1 and 2,IIT Guwahati
+2435,Applied mechanics,Basic courses-Sem 1 and 2,IIT Delhi
+2436,Environment and Ecology,Basic courses-Sem 1 and 2,IIT Delhi
+2437,Management Science I,Basic courses-Sem 1 and 2,IIT Delhi
+2438,Materials Science,Basic courses-Sem 1 and 2,IIT Delhi
+2439,Numerical Methods and Computation,Basic courses-Sem 1 and 2,IIT Delhi
+2440,Basic Biology,Basic courses-Sem 1 and 2,IIT Guwahati
+2441,An Introduction to Underground Mine Environment and Ventilation,Mining Engineering,IIT Madras
+2442,Fundamentals of Environmental Pollution and Control,Mining Engineering,IIT Kharagpur
+2443,Drilling and Blasting Technology,Mining Engineering,IIT Kharagpur
+2444,Network Analysis for Mines and Mineral Engineering,Mining Engineering,IIT Kharagpur
+2445,Mining Machinery,Mining Engineering,IIT Kharagpur
+2446,Underground Mining of Metalliferous deposits,Mining Engineering,IIT Kharagpur
+2447,Surface Mining Technology,Mining Engineering,IIT Kharagpur
+2448,User Interface Design,Architecture,IIT Roorkee
+2449,Disaster Recovery And Build Back Better,Architecture,IIT Roorkee
+2450,Sustainable Architecture,Architecture,IIT Roorkee
+2451,"Structure, Form and Architecture : The Synergy",Architecture,IIT Roorkee
+2452,Introduction to History of Architecture in India,Architecture,IISER Pune
+2453,Landscape Architecture and Site Planning - Basic Fundamentals,Architecture,IIT Kharagpur
+2454,Architectural Conservation And Historic Preservation,Architecture,IIT Kharagpur
+2455,Architectural Acoustics,Architecture,IIT Kharagpur
+2456,Building Materials and Composites,Architecture,IIT Kharagpur
+2457,Environmental Soil Chemistry,Architecture,IIT Kharagpur
+2458,Structural System in Architecture,Architecture,IIT Kharagpur
+2459,Urban Landuse and transportation planning,Architecture,IIT Kharagpur
+2460,Engineering/Architectural Graphics _ part I _ Orthographic projection,Architecture,IIT Roorkee
+2461,Introduction to Urban Planning,Architecture,IIT Roorkee
+2462,Engineering/Architectural Graphics – part II – Isometric and Axonometric Drawings,Architecture,IIT Roorkee
+2463,Environmental Impact Assessment,Architecture,IIT Roorkee
+2464,Modern Indian Architecture,Architecture,IIT Roorkee
+2465,International Studies in Vernacular Architecture,Architecture,IIT Roorkee
+2466,Strategies for Sustainable Design,Architecture,IIT Hyderabad
+2467,"Urban utilities Planning : Water Supply, Sanitation and Drainage",Architecture,IIT Kharagpur
+2468,Housing Policy & Planning,Architecture,IIT Roorkee
+2469,"Visual Communication Design for Digital Media
+",Architecture,IIT Roorkee
+2470,Culturally Responsive Built Environments,Architecture,IIT Roorkee
+2471,Contemporary Architecture and Design,Architecture,IIT Roorkee
+2472,Role of Craft and Technology in Interior - Architecture,Architecture,IIT Roorkee
+2473,Urban governance and Development Management (UGDM),Architecture,IIT Roorkee
+2474,Momentum transfer in process engineering,Agriculture,IIT Kharagpur
+2475,Farm Machinery,Agriculture,IIT Kharagpur
+2476,Irrigation and Drainage,Agriculture,IIT Kharagpur
+2477,Fundamentals of Food Process Engineering,Agriculture,IIT Kharagpur
+2478,Soil and Water Conservation Engineering,Agriculture,IIT Kharagpur
+2479,Dairy and Food process and products technology,Agriculture,IIT Kharagpur
+2480,Organic Farming for Sustainable Agricultural Production,Agriculture,IIT Kharagpur
+2481,Novel Technologies for Food Processing and Shelf Life Extension,Agriculture,IIT Kharagpur
+2482,Soil Science and Technology,Agriculture,IIT Kharagpur
+2483,Thermal Operations in Food Process Engineering: Theory and Applications,Agriculture,IIT Kharagpur
+2484,Micro Irrigation Engineering,Agriculture,IIT Kharagpur
+2485,Instrumentation and Process Control in Food Industry,Agriculture,IIT Kharagpur
+2486,Machine Learning For Soil And Crop Management,Agriculture,IIT Kharagpur
+2487,Advanced Aquaculture Technology,Agriculture,IIT Kharagpur
+2488,"Post Harvest Operations and Processing of Fruits, Vegetables, Spices and Plantation Crop Products",Agriculture,IIT Kharagpur
+2489,Soil Fertility And Fertilizers,Agriculture,IIT Kharagpur
+2490,Basic Crop Production Practices (BCPP),Agriculture,IIT Kanpur
+2491,GIS in Ag-Essentials and Applications (GIS),Agriculture,IIT Kanpur
+2492,Integrated Pest Management (IPM),Agriculture,IIT Kanpur
+2493,"Nutrition, Therapeutics and Health (NM)",Agriculture,IIT Kanpur
+2494,Weather Forecast in Agriculture and Agro-advisory (WF),Agriculture,IIT Kanpur
+2495,ICT Basics,Agriculture,IIT Kanpur
+2496,MobiMOOC (Audio Course in Hindi),Agriculture,IIT Kanpur
+2497,Thermal Processing of Foods,Agriculture,IIT Guwahati
+2498,Natural Resources Management,Agriculture,IIT Guwahati
+2499,NBA Accreditation and Teaching - Learning in Engineering (NATE),Multidisciplinary,IISc Bangalore
+2500,Designing Learner-Centric MOOCs,Multidisciplinary,IIT Bombay
+2501,Introduction To Learning Analytics,Multidisciplinary,IIT Bombay
+2502,Designing learner-centric e-learning in STEM disciplines,Multidisciplinary,IIT Bombay
+2503,"Sustainable and Affordable Sanitation Solutions For Small Towns: Policy, Planning and Practice",Multidisciplinary,IIT Bombay
+2504,Basic course in Biomedical Research,Multidisciplinary,IIT Madras
+2505,Thermodynamics,Multidisciplinary,IIT Madras
+2506,"Regulatory requirements for medical devices
+including in vitro diagnostics in India (Version
+2.0)",Multidisciplinary,IIT Madras
+2507,"Current regulatory requirements for
+conducting clinical trials in India for
+investigational new drugs/new drug (Version
+3.0)",Multidisciplinary,IIT Madras
+2508,Game Theory,Multidisciplinary,IIT Bombay
+2509,Teaching And Learning in Engineering (TALE),Multidisciplinary,IISc Bangalore
+2510,Teaching And Learning in General Programs: TALG,Multidisciplinary,IISc Bangalore
+2511,Health Research Fundamentals,Multidisciplinary,IIT Madras
+2512,(TALE 2: Course Design and Instruction of Engineering Courses),Multidisciplinary,IISc Bangalore
+2513,Model Predictive Control: Theory and Applications,Multidisciplinary,IIT Madras
+2514,Research Methodology,Multidisciplinary,IIT Madras
+2515,Management of Medical Emergencies in Dental Practice,Multidisciplinary,IIT Madras
+2516,Basic Course in Ornithology,Multidisciplinary,IIT Madras
+2517,Saveetha Dental College And Hospitals: Oral Biology,Multidisciplinary,IIT Madras
+2518,Introduction to Biomimicry,Multidisciplinary,IIT Madras
+2519,Electrocardiogram - Interpretation and application in clinical practice,Multidisciplinary,IIT Madras
+2520,Biophotonics,Multidisciplinary,IIT Kharagpur
+2521,Vacuum Technology & Process Application,Multidisciplinary,IIT Kharagpur
+2522,Basics of Health Promotion and Education Intervention,Multidisciplinary,IIT Kharagpur
+2523,Neuroscience of Human Movements,Multidisciplinary,IIT Madras
+2524,Manage TB,Multidisciplinary,IIT Madras
+2525,Ecology and Environment,Multidisciplinary,IIT Madras
+2526,Current regulatory requirements for conducting clinical trials in India,Multidisciplinary,IIT Madras
+2527,Regulatory requirements for medical devices and IVDs in India,Multidisciplinary,IIT Madras
+2528,Qualitative Research Methods and Research Writing,Multidisciplinary,IIT Kharagpur
+2529,Numerical Methods for Engineers,Multidisciplinary,IIT Madras
+2530,Learning Analytics Tools,Multidisciplinary,IIT Bombay
+2531,Fuzzy Logic and Neural Networks,Multidisciplinary,IIT Kharagpur
+2532,Entrepreneurship Essentials,Multidisciplinary,IIT Kharagpur
+2533,Roadmap for patent creation,Multidisciplinary,IIT Kharagpur
+2534,Fundamental of Fluid Mechanics for Chemical and Biomedical Engineers,Multidisciplinary,IIT Guwahati
+2535,Accreditation and Outcome based Learning,Multidisciplinary,IIT Kharagpur
+2536,Introduction to Environmental Engineering and Science - Fundamental and Sustainability Concepts,Multidisciplinary,IIT Kharagpur
+2537,"ACM Summer School On Graph Theory and Graph Algorithms,2018 - Coimbatore",Special Series,IIT Madras
+2538,"ACM Summer School In Data Science,2018 - Goa",Special Series,IIT Madras
+2539,"Topics In Theoretical Computer Science,2018 - Chennai Mathematical Institute",Special Series,IIT Madras
+2540,"Researching Anglo-Indians in India and the Diaspora,2018 - Chennai ",Special Series,IIT Madras
+2541,"DRAVIDIAN TEMPLE ARCHITECTURE & CONSTRUCTION TECHNIQUES,2018 - Chennai",Special Series,IIT Madras
+2542,"ACM Summer School in Information Security and Forensics, 2018 - Bangalore",Special Series,IIT Madras
+2543,"ACM Summer School on Algorithmic Game Theory,2019 - IIT Gandhinagar",Special Series,IIT Madras
+2544,"ACM Summer School on Graph Theory and Graph Algorithms,2019 - Calicut",Special Series,IIT Madras
+2545,"ACM Summer School on Compiler Design and Construction,2019 - Pune",Special Series,IIT Madras
+2546,"ACM Summer School on Geometric Algorithms and their Applications,2019 - Bhubaneswar",Special Series,IIT Madras
+2547,"ACM Summer School on Algorithmic and Theoretical Aspects of Machine Learning,2019 - Bangalore",Special Series,IIT Madras
+2548,ACM Winter School on Hybrid Cloud,Special Series,IIT Madras
+2549,ACM - Indian Summer School on Programming Languages: Principles & Practice - Pune,Special Series,IIT Madras
+2550,ACM Winter School 2019 on High Performance Computing (HPC) IIT Kanpur,Special Series,IIT Madras
+2551,Thermodynamics of Materials,Special Series,IIT Kharagpur
+2552,ACM India Summer School on Program Execution - IIT GOA 2021,Special Series,IIT Madras
+2553,ACM India Summer School on IoT and Embedded Systems - ACM Summer School on Compilers/PL 2021,Special Series,IIT Madras
+2554,ACM Summer School on Shape Modelling,Special Series,IIT Madras
+2555,ACM India Summer School on IoT and Embedded Systems,Special Series,IIT Madras
+2556,Right to Information and Good Governance,Law,IIT Madras
+2557,Constitution of India and Environmental Governance: Administrative and Adjudicatory Process,Law,IIT Madras
+2558,Constitutional Studies,Law,IIT Madras
+2559,"Advanced Contracts, Tendering and Public Procurement",Law,IIT Madras
+2560,Introduction to Law on Electricity,Law,IIT Kharagpur
+2561,Legal and Regulatory Issues in Biotechnology,Law,IIT Kharagpur
+2562,New Labour Codes of India,Law,IIT Kharagpur
+2563,Environmental & Resource Economics,Economics,IIT Madras
+2564,Spatial Statistics and Spatial Econometrics,Economics,IIT Madras
+2565,Microfoundations of Macroeconomics,Economics,IIT Kanpur
+2566,Introduction to Microeconomics in Hindi and without Calculus,Economics,IIT Kanpur
+2567,Economics of Banking and Finance Markets,Economics,IIT Kanpur
+2568,Introduction to Econometrics,Economics,IIT Madras
